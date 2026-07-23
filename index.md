@@ -18,7 +18,7 @@ Just in case you want to know what I look like...
 
 I grew up in a very small town called Oostburg, which is located about an hour north of Milwaukee, Wisconsin. I went to college at Marquette University, getting a bachelor's and a master's degree in electrical engineering. I've been a software developer in varying roles ever since I finished college.
 
-I've been married to Elizabeth since September 1997. In November 2000, we made the decision to move to Minnesota, and we eventually bought a house in Shakopee, which is where we've been since 2001. We have two sons, Hayden and Ryan.
+I've been married to Elizabeth since September 1997. In November 2000, we made the decision to move to Minnesota, and we eventually bought a house in Shakopee, which is where we've been since 2001. We have two kids, Hayden and Felix.
 
 I have a number of hobbies:
 * Music - I've played an instrument since I was 11 (more or less). My mainstay is guitar, but I also play bass guitar, drums, and keyboards.
