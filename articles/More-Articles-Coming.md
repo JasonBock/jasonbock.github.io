@@ -1,5 +1,5 @@
 ---
-title: More Articles Cominng
+title: More Articles Coming
 layout: default
 ---
 # More Articles Coming
