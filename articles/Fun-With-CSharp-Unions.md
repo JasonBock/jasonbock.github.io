@@ -25,9 +25,9 @@ var name = switch pet
 Console.WriteLine(name);
 ```
 
-This basically says that `Pet` can hold an instance of a `Cat`, or `Dog`, or `Bird`. Unions are also closed types, which means that you don't need a default case in the `switch` expression, which is kind of nice.
+This says that `Pet` can hold an instance of a `Cat`, or `Dog`, or `Bird`. Unions are also closed types, which means that you don't need a default case in the `switch` expression, which is kind of nice.
 
-Whenever a new feature is added to C# or .NET, it can affect libraries that I support. [Rocks](https://github.com/JasonBock/Rocks), a mocking framework I've written that uses a source generator to create all the mocking infrastructure, is a prime example of this. It seems like with every new version, **something** breaks what I've done. This has been a great way for me to learn about features that I wasn't aware of, or how a new feature works. This is evident with [CslaGeneratorSerialization](https://github.com/JasonBock/CslaGeneratorSerialization), a custom serializer for [CSLA](https://github.com/MarimerLLC/csla) that uses a source generator. It's been ... "fun" trying to figure out how to [support a union type](https://github.com/JasonBock/CslaGeneratorSerialization/issues/49), and, in the process, I've found some interesting stuff related to unions. It's been a good exercise to try "what if?" ideas with a new feature and see what that does to break simplistic assumptions.
+Whenever a new feature is added to C# or .NET, it can affect libraries that I support. [Rocks](https://github.com/JasonBock/Rocks), a mocking framework I've written that uses a source generator to create all the mocking infrastructure, is a prime example of this. It seems like with every new version, **something** breaks what I've done. This has been a great way for me to learn about features that I wasn't aware of, or how a new feature works. This is evident with [CslaGeneratorSerialization](https://github.com/JasonBock/CslaGeneratorSerialization), a custom serializer for [CSLA](https://github.com/MarimerLLC/csla) that uses a source generator. It's been "fun" trying to figure out how to [support a union type](https://github.com/JasonBock/CslaGeneratorSerialization/issues/49), and, in the process, I've found some interesting stuff related to unions. It's been a good exercise to try "what if?" ideas with a new feature and see what that does to break simplistic assumptions.
 
 ## One Case Unions
 
@@ -37,7 +37,12 @@ You can create unions with one type case:
 public union Simple(Cat);
 ```
 
-I'm not sure **why** you'd do this. It kind of feels like a mistake. Why create a union with just one type? There may be a valid case to do this, but right now, I'm kind of struggling wondering why someone would define a union this way. Just keep in mind that the compiler allows this, so always think of a union as having "one-of-many" type cases, where "many" can be "one".
+I'm not sure **why** you'd do this. It kind of feels like a mistake. Why create a union with just one type? There may be a valid case to do this, but right now, I'm kind of struggling wondering why someone would define a union this way. Just keep in mind that the compiler allows this, so always think of a union as having "one-of-many" type cases, where "many" can be "one". However, "many" can't be "zero" - in other words, a union always needs a case type. This won't compile:
+
+```c#
+// Fails with CS1031 - "Type expected"
+public union Simple();
+```
 
 ## Unions Within Unions
 
@@ -99,8 +104,7 @@ var syntaxTree = CSharpSyntaxTree.ParseText(source, new CSharpParseOptions(Langu
 var compilation = CSharpCompilation.Create("generator", [syntaxTree],
   AppDomain.CurrentDomain.GetAssemblies()
     .Where(_ => !_.IsDynamic && !string.IsNullOrWhiteSpace(_.Location))
-    .Select(_ => MetadataReference.CreateFromFile(_.Location))
-  .Concat([MetadataReference.CreateFromFile(typeof(BusinessBase<>).Assembly.Location)]),
+    .Select(_ => MetadataReference.CreateFromFile(_.Location)),
   new CSharpCompilationOptions(
     OutputKind.DynamicallyLinkedLibrary));
 
@@ -110,7 +114,7 @@ var result = compilation.Emit(outputStream);
 Console.WriteLine($"Was emit successful? {result.Success}");
 ```
 
-What this C# code is doing is defining a union based on a number of case type. If `TypeCount` was 4, `source` would look like this:
+What this C# code is doing is defining a union based on a number of case types. If `TypeCount` was 4, `source` would look like this:
 
 ```c#
 public union T(T0,T1,T2,T3); public class T0{} public class T1{} public class T2{} public class T3{}
