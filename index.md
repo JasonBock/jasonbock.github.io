@@ -2,7 +2,7 @@
 title: Jason Bock's Web Site
 layout: default
 ---
-| [Home](index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
 
 # Jason Bock's Web Site
 
@@ -12,4 +12,4 @@ Browse the links above for more content!
 
 Just in case you want to know what I look like...
 
-![A picture of me](./images/faceshot.jpg "My Picture")
+![A picture of me](https://jasonbock.net/images/faceshot.jpg "My Picture")
