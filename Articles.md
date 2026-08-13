@@ -39,3 +39,17 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["Metaprogramming Ruby"](./articles/Metaprogramming-Ruby.html) - 11.18.2010 06:22:09 PM CST
     * ["Life Everywhere"](./articles/Life-Everywhere.html) - 11.18.2010 05:36:38 PM CST
     * [10 Years At Magenic](./articles/10-Years-At-Magenic.html) - 11.06.2010 09:48:15 AM CST
+  * October
+    * [Broadening Horizons](./articles/Broadening-Horizons.html) - 10.25.2010 08:01:32 PM CST
+    * ["Spider Star"](./articles/Spider-Star.html) - 10.15.2010 07:25:46 PM CST
+  * September
+    * [Reaching Unreachable Code](./articles/Reaching-Unreachable-Code.html) - 09.28.2010 04:37:58 PM CST
+    * ["Masterminds of Programming"](./articles/Masterminds-Of-Programming.html) - 09.12.2010 03:15:26 PM CST
+    * ["The Between"](./articles/The-Between.html) - 09.12.2010 03:15:18 PM CST
+  * August
+    * [WCF, NSubstitute, and Autofac](./articles/WCF-NSubstitute-And-Autofac.html) - 08.24.2010 10:38:18 PM CST
+    * ["Creative Evolutionary Systems"](./articles/Creative-Evolutionary-Systems.html) - 08.19.2010 10:09:05 PM CST
+    * [Twin Cities Code Camp 9 is Gearing Up to be HUGE](./articles/Twin-Cities-Code-Camp-9-Is-Gearing-Up-To-Be-Huge.html) - 08.19.2010 06:30:15 PM CST
+    * [Why Should Unit Testing Frameworks Handle Unhandled Exceptions?](./articles/Why-Should-Unit-Testing-Frameworks-Handle-Unhandled-Exceptions.html) - 08.15.2010 02:46:42 PM CST
+    * ["A Simple Plan"](./articles/A-Simple-Plan.html) - 08.01.2010 10:46:49 AM CST
+    * ["Evolution's Darling"](./articles/Evolutions-Darling.html) - 08.01.2010 10:04:34 AM CST
