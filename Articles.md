@@ -18,7 +18,7 @@ I've written a number of articles from my own web site, and some that no longer 
     * [20 Years As a Microsoft MVP](./articles/20-Years-Microsoft-MVP.html) - 07.15.2026 1:47 PM CST
 * 2014
   * February
-    * [More Articles Coming](./articles/Was-Nyes-Time-Wasted.html) - 02.11.2014 10:55:57 AM CST
+    * [Was Nye's Time Wasted?](./articles/Was-Nyes-Time-Wasted.html) - 02.11.2014 10:55:57 AM CST
 * 2011
   * November
     * [Using ExtendedReflection To Manage Your .NET Code at Runtime](./articles/Using-ExtendedReflection-To-Manage-Your-NET-Code-At-Runtime.html) - 02.11.2014 10:55:57 AM CST
