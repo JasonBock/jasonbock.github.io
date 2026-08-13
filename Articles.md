@@ -27,3 +27,7 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Minneapolis Airport and Bodyscanners](./articles/Minneapolis-Airport-And-Bodyscanners.html) - 09.19.2011 11:34:51 AM CST
     * [Using System.Reflection.Emit in a Windows 8 Metro style Application](./articles/Using-System-Reflection-Emit-In-A-Windows-8 Metro-Style-Application.html) - 09.17.2011 06:12:13 PM CST
     * [The Sabbatical's Over](./articles/The-Sabbaticals-Over.html) - 09.17.2011 06:12:13 PM CST
+  * July
+    * [Generics and Attributes](./articles/Generics-And-Attributes.html) - 07.11.2011 02:50:59 PM CST
+  * February
+    * [Not Everything Has a DeclaredType](./articles/Not-Everything-Has-A-DeclaredType.html) - 02.21.2011 10:37:50 AM CST
