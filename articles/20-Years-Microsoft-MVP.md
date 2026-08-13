@@ -2,6 +2,8 @@
 title: 20 Years As a Microsoft MVP
 layout: default
 ---
+| [Home](index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
+
 # 20 Years As a Microsoft MVP
 
 Today I received my notification that I've been renewed as a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/592888ae-3c9a-e411-93f2-9cb65495d3c4). It's the 20th year for me, and I thought it would be worth spending some time writing down random notes and thoughts about the award.
