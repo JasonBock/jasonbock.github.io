@@ -6,4 +6,24 @@ layout: default
 
 # Books
 
-... coming soon ...
+## .NET Development Using the Compiler API
+
+![.NET Development Using the Compiler API](https://jasonbock.net/images/DotNet-Development-Using-The-Compiler-API.png ".NET Development Using the Compiler API")
+
+[Link](https://link.springer.com/book/10.1007/978-1-4842-2111-2)
+
+## Metaprogramming in .NET
+
+![Metaprogramming in .NET](https://jasonbock.net/images/Metaprogramming-In-DotNet.png "Metaprogramming in .NET")
+
+[Link](https://www.manning.com/books/metaprogramming-in-dot-net)
+
+## Applied .NET Attributes
+
+## CIL Programming: Under the Hood of .NET
+
+## .NET Security
+
+## Beginning Visual Basic 6 Application Development
+
+## Visual Basic 6 Win32 API Tutorial
