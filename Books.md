@@ -14,7 +14,7 @@ layout: default
 
 ## Metaprogramming in .NET
 
-![Metaprogramming in .NET](https://jasonbock.net/images/Metaprogramming-In-DotNet.png "Metaprogramming in .NET")
+![Metaprogramming in .NET](https://jasonbock.net/images/Metaprogramming-In-Dotnet.png "Metaprogramming in .NET")
 
 [Link](https://www.manning.com/books/metaprogramming-in-dot-net)
 
