@@ -25,3 +25,5 @@ At this point, while I'm still grateful to received the honorific, I have some m
 I'm not sure when it'll happen, but at some point I'll stop getting renewed, either because I don't apply for it or the powers that be say "no more". But, to be clear, I am very grateful for being a Microsoft MVP. Receiving any kind of award as an acknowledgement of your efforts and work from others is something I don't take lightly, and I appreciate it when it happens.
 
 Of course, being in the MVP program for so long, I got to do karaoke in the early days with a band singing "Living After Midnight" at one of the after-hour events. This was after I had some "liquid encouragement". Yes, this was captured, and you can find it on [YouTube](https://www.youtube.com/watch?v=zUEtyTrkJ1A). Keep in mind that I am **not** a singer, so if you really want to listen to this performance...you've been warned (though the flames behind me were awesome!).
+
+> Published: 07.15.2026 1:47 PM CST
