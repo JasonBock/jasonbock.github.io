@@ -2,6 +2,8 @@
 title: Fun With C# Unions
 layout: default
 ---
+| [Home](Index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
+
 # Fun With C# Unions
 
 Recently I've been playing with unions, a [new feature](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/union) coming in C# 15. Unions have been requested for a **long** time, and they're finally coming at the end of 2026. If you haven't seen it yet, here's what a union looks like and how it behaves:
