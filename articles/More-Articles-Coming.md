@@ -2,7 +2,7 @@
 title: More Articles Coming
 layout: default
 ---
-| [Home](Index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
+| [Home](index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
 
 # More Articles Coming
 

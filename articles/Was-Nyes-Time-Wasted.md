@@ -2,7 +2,7 @@
 title: Was Nye's Time Wasted?
 layout: default
 ---
-| [Home](Index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
+| [Home](index.html) | [Biography](Biography.html) | [Speaking](Speaking.html) | [Articles](Articles.html) | [Books](Books.html) | [Music](Music.html)
 
 # Was Nye's Time Wasted?
 
