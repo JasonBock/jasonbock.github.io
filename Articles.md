@@ -21,4 +21,4 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Was Nye's Time Wasted?](./articles/Was-Nyes-Time-Wasted.html) - 02.11.2014 10:55:57 AM CST
 * 2011
   * November
-    * [Using ExtendedReflection To Manage Your .NET Code at Runtime](./articles/Using-ExtendedReflection-To-Manage-Your-NET-Code-At-Runtime.html) - 02.11.2014 10:55:57 AM CST
+    * [Using ExtendedReflection To Manage Your .NET Code at Runtime](./articles/Using-ExtendedReflection-To-Manage-Your-NET-Code-At-Runtime.html) - 11.14.2011 08:57:00 PM CST
