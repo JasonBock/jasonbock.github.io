@@ -32,4 +32,4 @@ Jason Bock is a Staff Software Engineer at Rocket Mortgage and a Microsoft MVP (
 
 ## Legalese
 
-All rights reserved. Use my content at your own risk. My opinions, thoughts, ruminations, and declarations are my own. They may or may not represent or align with my employer, my wife, my family, my cats, my neighbors, 
+All rights reserved. Use my content at your own risk. My opinions, thoughts, ruminations, and declarations are my own. They may or may not represent or align with my employer, my wife, my family, my cats, my neighbors, my friends, or my guitars.
