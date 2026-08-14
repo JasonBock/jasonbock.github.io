@@ -84,3 +84,12 @@ I've written a number of articles from my own web site, and some that no longer 
   * January
     * [Going to Mix!](./articles/Going-To-Mix.html) - 01.21.2010 01:30:58 PM CST
     * ["Maelstrom"](./articles/Maelstrom.html) - 01.03.2010 09:37:49 AM CST
+* 2009
+  * December
+    * ["Starfish"](./articles/Starfish.html) - 12.30.2009 07:35:26 PM CST
+    * ["Centauri Dreams"](./articles/Centauri-Dreams.html) - 12.30.2009 07:20:22 PM CST
+    * ["Avatar"](./articles/Avatar.html) - 12.30.2009 07:12:48 PM CST
+    * ["The Road"](./articles/The-Road.html) - 12.18.2009 02:50:35 PM CST
+    * ["Silence"](./articles/Silence.html) - 12.09.2009 07:49:09 AM CST
+    * ["The Computer as Crucible"](./articles/The-Computer-As-Crucible.html) - 12.09.2009 07:40:15 AM CST
+    * ["Programming Pearls"](./articles/Programming-Pearls.html) - 12.09.2009 07:30:09 AM CST
