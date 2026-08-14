@@ -93,3 +93,31 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["Silence"](./articles/Silence.html) - 12.09.2009 07:49:09 AM CST
     * ["The Computer as Crucible"](./articles/The-Computer-As-Crucible.html) - 12.09.2009 07:40:15 AM CST
     * ["Programming Pearls"](./articles/Programming-Pearls.html) - 12.09.2009 07:30:09 AM CST
+  * November
+    * ["The Terror"](./articles/The-Terror.html) - 11.24.2009 11:18:06 AM CST
+    * [Hey! My Blogging Tool is Back!](./articles/Hey-My-Blogging-Tool-Is-Back.html) - 11.12.2009 05:29:37 PM CST
+  * October
+    * [HDC09 Wrap-Up](./articles/HDC09-Wrap-Up.html) - 10.17.2009 01:03:04 PM CST
+    * ["Symmetry and the Monster"](./articles/Symmetry-And-The-Monster.html) - 10.05.2009 07:24:26 PM CST
+    * ["Cresent"](./articles/Cresent.html) - 10.01.2009 10:19:38 PM CST
+  * September
+    * [Stubbing Subs in VB Using Rhino Mocks](./articles/Stubbing-Subs-In-VB-Using-Rhino-Mocks.html) - 09.29.2009 11:41:44 AM CST
+    * [That's Quite the Journey](./articles/Thats-Quite-The-Journey.html) - 09.24.2009 09:04:06 PM CST
+    * [Stubbing Methods Using Rhino Mocks in VB9](./articles/Stubbing-Methods-Using-Rhino-Mocks-In-VB9.html) - 09.22.2009 12:27:59 PM CST
+    * [Creating Custom FieldData Classes in CSLA](./articles/Creating Custom FieldData Classes in CSLA.html) - 09.16.2009 10:30:06 PM CST
+  * August
+    * [Coming to Grips With Reality](./articles/Coming-To-Grips-With-Reality.html) - 08.24.2009 11:33:33 AM CST
+    * [Let It Fail Naturally](./articles/Let-It-Fail-Naturally.html) - 08.21.2009 08:16:41 AM CST
+    * [Yet Another Reason I Use Code Analysis in .NET](./articles/Yet-Another-Reason-I-Use-Code-Analysis-In-DotNET.html) - 08.20.2009 10:49:25 AM CST
+    * [Lack of Blogging](./articles/Lack-Of-Blogging.html) - 08.18.2009 11:08:16 AM CST
+    * ["Columbine"](./articles/Columbine.html) - 08.18.2009 10:58:46 AM CST
+    * [My Constrained Cup<T> Arrived!](./articles/My-Constrained-Cup-Of-T-Arrived.html) - 08.07.2009 07:55:11 AM CST
+    * [Never Give Up on a GA](./articles/Never-Give-Up-On-A-GA.html) - 08.05.2009 01:00:53 PM CST
+    * [Nerds, Jocks and Lockers in C#](./articles/Nerds-Jocks-And-Lockers-In-CSharp.html) - 08.05.2009 11:59:16 AM CST
+  * July
+    * [Behold, IronBefunge!](./articles/Behold-IronBefunge.html) - 07.16.2009 02:58:48 PM CST
+    * ["The Unlikely Disciple"](./articles/The-Unlikely-Disciple.html) - 07.07.2009 07:17:21 AM CST
+  * June
+    * [Foundation Beyond Belief](./articles/Foundation-Beyond-Belief.html) - 06.18.2009 07:49:57 AM CST
+    * [The Hovind "Legacy" Lives On ... Unfortunately](./articles/The-Hovind-Legacy-Lives-On-Unfortunately.html) - 06.03.2009 10:15:34 AM CST
+    * [20 Years Ago](./articles/20-Years-Ago.html) - 06.02.2009 06:58:34 AM CST
