@@ -111,7 +111,7 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Yet Another Reason I Use Code Analysis in .NET](./articles/Yet-Another-Reason-I-Use-Code-Analysis-In-DotNET.html) - 08.20.2009 10:49:25 AM CST
     * [Lack of Blogging](./articles/Lack-Of-Blogging.html) - 08.18.2009 11:08:16 AM CST
     * ["Columbine"](./articles/Columbine.html) - 08.18.2009 10:58:46 AM CST
-    * [My Constrained Cup<T> Arrived!](./articles/My-Constrained-Cup-Of-T-Arrived.html) - 08.07.2009 07:55:11 AM CST
+    * [My Constrained Cup Arrived!](./articles/My-Constrained-Cup-Of-T-Arrived.html) - 08.07.2009 07:55:11 AM CST
     * [Never Give Up on a GA](./articles/Never-Give-Up-On-A-GA.html) - 08.05.2009 01:00:53 PM CST
     * [Nerds, Jocks and Lockers in C#](./articles/Nerds-Jocks-And-Lockers-In-CSharp.html) - 08.05.2009 11:59:16 AM CST
   * July
