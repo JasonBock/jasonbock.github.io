@@ -62,3 +62,9 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["In the Land of Believers"](./articles/In-The-Land-Of-Believers.html) - 06.21.2010 08:15:22 PM CST
     * ["Working Effectively with Legacy Code"](./articles/Working-Effectively-With-Legacy-Code.html) - 06.21.2010 07:58:33 PM CST
     * [Code Analysis and Code Contracts Integration](./articles/Code-Analysis-And-Code-Contracts-Integration.html) - 06.09.2010 02:57:29 PM CST
+  * May
+    * [Mutating Expressions](./articles/Mutating-Expressions.html) - 05.14.2010 01:18:40 PM CST
+    * [Just How Fast Is That Code?](./articles/Just-How-Fast-Is-That-Code.html) - 05.14.2010 09:56:00 AM CST
+    * [Splinter Cell: Conviction](./articles/Splinter-Cell-Conviction.html) - 05.11.2010 10:05:14 AM CST
+    * [Picking a Good Example](./articles/Picking-A-Good-Example.html) - 05.05.2010 08:34:27 AM CST
+    * [Why I Wear a Seatbelt](./articles/Why-I-Wear-A-Seatbelt.html) - 05.05.2010 08:04:28 AM CST
