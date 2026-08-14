@@ -1,18 +1,18 @@
 ---
-title: My Constrained Cup<T> Arrived!
+title: My Constrained `Cup<T>` Arrived!
 layout: default
 ---
 | [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
 
-# My Constrained Cup<T> Arrived!
+# My Constrained `Cup<T>` Arrived!
 
 Finally! It's here, in all of its geek glory:
 
-![Cup<T>](https://jasonbock.net/images/Cup-Of-T.png "Cup<T>")
+![`Cup<T>`](https://jasonbock.net/images/Cup-Of-T.png "Cup of T")
 
 Here's a close-up:
 
-![Cup<T> close up](https://jasonbock.net/images/Cup-Of-T-Close-Up.png "Cup<T> Close Up")
+![`Cup<T>` close up](https://jasonbock.net/images/Cup-Of-T-Close-Up.png "Cup of T Close Up")
 
 If you still can't make it out, it reads:
 
