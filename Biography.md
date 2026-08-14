@@ -21,7 +21,7 @@ I have a number of hobbies:
 
 ## Professional
 
-Jason Bock is a Staff Software Engineer at Rocket Mortgage and a Microsoft MVP (C#). He has nearly 30 years of experience working on several business applications using a diverse set of frameworks and languages. He is the author of a number of books, such as ".NET Development Using the Compiler API", "Metaprogramming in .NET", and "Applied .NET Attributes". He has written numerous articles on software development issues and has presented at conferences and user groups over his career.
+Jason Bock is a Staff Software Engineer at Rocket Mortgage and a 20-time Microsoft MVP (C#). He has over 30 years of experience working on several business applications using a diverse set of frameworks and languages. He is the author of a number of books, such as ".NET Development Using the Compiler API", "Metaprogramming in .NET", and "Applied .NET Attributes". He has written numerous articles on software development issues and has presented at conferences and user groups over his career.
 
 ## Links
 
