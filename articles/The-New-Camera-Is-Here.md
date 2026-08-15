@@ -8,9 +8,9 @@ layout: default
 
 Our camera broke, so we ordered a new one, the Canon PowerShot SX110IS. Here's the first pictures we took of the boys using it:
 
-!(https://jasonbock.net/images/New-Camera-1.png)
+![New Camera - Pic 1](https://jasonbock.net/images/New-Camera-1.png "New Camera - Pic 1")
 
-!(https://jasonbock.net/images/New-Camera-2.png)
+![New Camera - Pic 2](https://jasonbock.net/images/New-Camera-2.png "New Camera - Pic 2")
 
 I like it!
 
