@@ -130,3 +130,14 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Code Injection With CCI - Part 4](./articles/Code-Injection-With-CCI-Part-4.html) - 05.07.2009 07:55:21 AM CST
     * [Code Injection With CCI - Part 3](./articles/Code-Injection-With-CCI-Part-3.html) - 05.01.2009 11:54:39 AM CST
     * [WWPD?](./articles/WWPD.html) - 05.01.2009 08:31:24 AM CST
+  * April
+    * [Code Injection With CCI - Part 2.5](./articles/Code-Injection-With-CCI-Part-25.html) - 04.29.2009 07:59:16 AM CST
+    * [Code Injection With CCI - Part 2](./articles/Code-Injection-With-CCI-Part-2.html) - 04.23.2009 08:36:22 AM CST
+    * [Code Injection With CCI - Part 1](./articles/Code-Injection-With-CCI-Part-1.html) - 04.22.2009 01:08:53 PM CST
+    * [Has My Dynamic Coding Ship Finally Come In?](./articles/Has-My-Dynamic-Coding-Ship-Finally-Come-In.html) - 04.15.2009 08:20:06 AM CST
+    * [Mocking Randomness](./articles/Mocking-Randomness.html) - 04.10.2009 01:24:24 PM CST
+    * [Recap of Ken Miller Talk](./articles/Recap-Of-Ken-Miller-Talk.html) - 04.09.2009 10:40:04 AM CST
+    * [Exception Overhead - Part 2](./articles/Exception-Overhead-Part-2.html) - 04.02.2009 09:26:08 AM CST
+    * [GA/EP Notes: EC1 Chapters 5 Through 7](./articles/GA-EP-Notes-EC1-Chapters-5-Through-7.html) - 04.02.2009 07:37:04 AM CST
+    * [Exception Overhead](./articles/Exception-Overhead.html) - 04.01.2009 01:05:23 PM CST
+    * [Even Bad Code Examples Still Need to be Right](./articles/Even-Bad-Code-Examples-Still-Need-To-Be-Right.html) - 04.01.2009 10:22:59 AM CST
