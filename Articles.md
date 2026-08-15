@@ -141,3 +141,27 @@ I've written a number of articles from my own web site, and some that no longer 
     * [GA/EP Notes: EC1 Chapters 5 Through 7](./articles/GA-EP-Notes-EC1-Chapters-5-Through-7.html) - 04.02.2009 07:37:04 AM CST
     * [Exception Overhead](./articles/Exception-Overhead.html) - 04.01.2009 01:05:23 PM CST
     * [Even Bad Code Examples Still Need to be Right](./articles/Even-Bad-Code-Examples-Still-Need-To-Be-Right.html) - 04.01.2009 10:22:59 AM CST
+  * March
+    * [More Believer Music in the Future?](./articles/More-Believer-Music-In-The-Future.html) - 03.30.2009 08:25:03 AM CST
+    * [4 Minutes on Evolution](./articles/4-Minutes-On-Evolution.html) - 03.29.2009 10:40:19 AM CST
+    * [Portal In Real Life](./articles/Portal-In-Real-Life.html) - 03.27.2009 09:33:20 PM CST
+    * [Obsolete Members and Compiler Warnings](./articles/Obsolete-Members-And-Compiler-Warnings.html) - 03.25.2009 10:32:07 AM CST
+    * [Using the Kindle](./articles/Using-The-Kindle.html) - 03.24.2009 11:26:37 AM CST
+    * [What's Twitter?](./articles/Whats-Twitter.html) - 03.24.2009 12:19:56 AM CST
+    * ["The Last Town on Earth"](./articles/The-Last-Town-On-Earth.html) - 03.24.2009 12:19:56 AM CST
+    * [Random Family Pictures](./articles/Random-Family-Pictures.html) - 03.22.2009 10:18:51 PM CST
+    * [Changing My Musical Collection Around](./articles/Changing-My-Musical-Collection-Around.html) - 03.22.2009 03:55:47 PM CST
+    * [It Truly Burns](./articles/It-Truly-Burns.html) - 03.20.2009 02:41:52 PM CST
+    * [My Theories on the Last "BSG"](./articles/My-Theories-On-The-Last-BSG.html) - 03.20.2009 12:03:26 PM CST
+    * ["Reasons to Believe"](./articles/Reasons-To-Believe.html) - 03.19.2009 09:50:31 PM CST
+    * [Believer's "Gabriel"](./articles/Believers-Gabriel.html) - 03.17.2009 12:16:51 AM CST
+    * [Solving the Real Problem](./articles/Solving-The-Real-Problem.html) - 03.13.2009 01:53:09 PM CST
+    * [Why I Like This Picture](./articles/Why-I-Like-This-Picture.html) - 03.11.2009 02:49:29 PM CST
+    * ["Implementation Patterns"](./articles/Implementation-Patterns.html) - 03.11.2009 12:50:44 PM CST
+    * [Space Needle Pictures](./articles/Space-Needle-Pictures.html) - 03.10.2009 12:45:41 PM CST
+    * [GA/EP Notes: EC1 Chapters 1 Through 4](./articles/GA-EP-Notes-EC1-Chapters-1-Through-4.html) - 03.09.2009 12:30:24 PM CST
+    * ["The Labyrinth Key"](./articles/The-Labyrinth-Key.html) - 03.05.2009 09:51:36 AM CST
+    * [GA/EP Notes: AITGA Chapters 4, 5 and 6](./articles/GA-EP-Notes-AITGA-Chapters-4-5-And-6.html) - 03.05.2009 09:40:58 AM CST
+    * ["The Kings of New York"](./articles/The-Kings-Of-New-York.html) - 03.05.2009 09:34:43 AM CST
+    * [MVP Summit 2009 Summary](./articles/MVP-Summit-2009-Summary.html) - 03.05.2009 09:31:38 AM CST
+    * [Travels so Far](./articles/Travels-So-Far.html) - 03.02.2009 10:50:51 AM CST
