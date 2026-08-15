@@ -182,3 +182,21 @@ I've written a number of articles from my own web site, and some that no longer 
     * [GA/EP Notes: AITGA 1.1 to 1.3](./articles/GA-EP-Notes-AITGA-11-To-13.html) - 02.05.2009 08:10:00 AM CST
     * ["Transcendant"](./articles/Transcendant.html) - 02.03.2009 06:21:21 PM CST
     * [GA/EP Material](./articles/GA-EP-Material.html) - 02.02.2009 01:21:49 PM CST
+  * January
+    * [What's the Best Way to Learn a Language?](./articles/Whats-The-Best-Way-To-Learn-A-Language.html) - 01.27.2009 08:04:10 AM CST
+    * [Cutting Back](./articles/Cutting-Back.html) - 01.26.2009 05:23:31 PM CST
+    * [Null Considered ... Harmful? Awful? Annoying?](./articles/Null-Considered-Harmful-Awful-Annoying.html) - 01.23.2009 07:30:07 AM CST
+    * [New School For Hayden](./articles/New-School-For-Hayden.html) - 01.23.2009 07:03:56 AM CST
+    * [Exultant: Book Review](./articles/Exultant-Book-Review.html) - 01.22.2009 08:44:50 PM CST
+    * [Envisioning the Future](./articles/Envisioning-The-Future.html) - 01.21.2009 07:29:01 AM CST
+    * [8 Years of Bush](./articles/8-Years-Of-Bush.html) - 01.19.2009 07:00:13 AM CST
+    * [Different Runtimes?](./articles/Different-Runtimes.html) - 01.16.2009 02:04:14 PM CST
+    * [Windows Is The Problem](./articles/Windows-Is-The-Problem.html) - 01.15.2009 10:56:22 AM CST
+    * [What to Do Now?](./articles/What-To-Do-Now.html) - 01.14.2009 04:28:59 PM CST
+    * [The New Camera Is Here!](./articles/The-New-Camera-Is-Here.html) - 01.09.2009 06:12:38 PM CST
+    * [Code is Always Sacred](./articles/Code-Is-Always-Sacred.html) - 01.08.2009 08:49:36 AM CST
+    * [One Reason You'd Want to Be Hitler](./articles/One-Reason-Youd-Want-To-Be-Hitler.html) - 01.07.2009 11:48:04 AM CST
+    * ["Coalescent"](./articles/Coalescent.html) - 01.04.2009 08:51:24 PM CST
+    * [Ryan's Freaking Me Out](./articles/Ryans-Freaking-Me-Out.html) - 01.02.2009 08:18:05 AM CST
+    * [INETASpeakers += Me](./articles/INETASpeakers-Me.html) - 01.02.2009 08:14:20 AM CST
+    * [Back From Winter Vacation](./articles/Back-From-Winter-Vacation.html) - 01.02.2009 08:10:37 AM CST
