@@ -165,3 +165,20 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["The Kings of New York"](./articles/The-Kings-Of-New-York.html) - 03.05.2009 09:34:43 AM CST
     * [MVP Summit 2009 Summary](./articles/MVP-Summit-2009-Summary.html) - 03.05.2009 09:31:38 AM CST
     * [Travels so Far](./articles/Travels-So-Far.html) - 03.02.2009 10:50:51 AM CST
+  * February
+    * [When Method Overloading Goes Haywire](./articles/When-Method-Overloading-Goes-Haywire.html) - 02.24.2009 11:51:01 AM CST
+    * [Expression Adventures](./articles/Expression-Adventures.html) - 02.20.2009 10:44:45 AM CST
+    * ["Death From the Skies!"](./articles/Death-From-The-Skies.html) - 02.18.2009 09:11:07 AM CST
+    * [GA/EP Notes: AITGA 3.2 to 3.3](./articles/GA-EP-Notes-AITGA-32-To-33.html) - 02.17.2009 08:20:08 AM CST
+    * [GA/EP Notes: AITGA 3.1](./articles/GA-EP-Notes-AITGA-31.html) - 02.16.2009 07:55:37 AM CST
+    * [Wisdom Teeth Recovery](./articles/Wisdom-Teeth-Recovery.html) - 02.13.2009 11:31:05 AM CST
+    * [GA/EP Notes: AITGA 2.3](./articles/GA-EP-Notes-AITGA-23.html) - 02.10.2009 08:51:46 AM CST
+    * ["Letter to a Christian Nation"](./articles/Letter-To-A-Christian-Nation.html) - 02.10.2009 07:25:12 AM CST
+    * [GA/EP Notes: AITGA 2.1 to 2.3](./articles/GA-EP-Notes-AITGA-21-To-23.html) - 02.09.2009 08:03:04 AM CST
+    * [GA/EP Notes: AITGA 1.10](./articles/GA-EP-Notes-AITGA-110.html) - 02.06.2009 02:30:10 PM CST
+    * [The Making of the Cover Art for Believer's "Gabriel"](./articles/The-Making-Of-The-Cover-Art-For-Believers-Gabriel.html) - 02.06.2009 07:49:30 AM CST
+    * [GA/EP Notes: AITGA 1.4 to 1.9](./articles/GA-EP-Notes-AITGA-14-To-19.html) - 02.06.2009 07:13:29 AM CST
+    * ["Secure Programming With Static Analysis"](./articles/Secure-Programming-With-Static-Analysis.html) - 02.06.2009 06:35:50 AM CST
+    * [GA/EP Notes: AITGA 1.1 to 1.3](./articles/GA-EP-Notes-AITGA-11-To-13.html) - 02.05.2009 08:10:00 AM CST
+    * ["Transcendant"](./articles/Transcendant.html) - 02.03.2009 06:21:21 PM CST
+    * [GA/EP Material](./articles/GA-EP-Material.html) - 02.02.2009 01:21:49 PM CST
