@@ -121,3 +121,12 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Foundation Beyond Belief](./articles/Foundation-Beyond-Belief.html) - 06.18.2009 07:49:57 AM CST
     * [The Hovind "Legacy" Lives On ... Unfortunately](./articles/The-Hovind-Legacy-Lives-On-Unfortunately.html) - 06.03.2009 10:15:34 AM CST
     * [20 Years Ago](./articles/20-Years-Ago.html) - 06.02.2009 06:58:34 AM CST
+  * May
+    * [The Vendor/Client Relationship](./articles/The-Vendor-Client-Relationship.html) - 05.27.2009 12:19:44 PM CST
+    * [Code Injection With CCI - Part 6](./articles/Code-Injection-With-CCI-Part-6.html) - 05.22.2009 05:25:06 PM CST
+    * [Code Injection With CCI - Part 5](./articles/Code-Injection-With-CCI-Part-5.html) - 05.21.2009 06:30:58 PM CST
+    * ["An Alien Light" and "Waiter Rant"](./articles/An-Alien-Light-And-Waiter-Rant.html) - 05.19.2009 11:58:26 PM CST
+    * [Enumeration Rumination](./articles/Enumeration-Rumination.html) - 05.19.2009 11:21:39 PM CST
+    * [Code Injection With CCI - Part 4](./articles/Code-Injection-With-CCI-Part-4.html) - 05.07.2009 07:55:21 AM CST
+    * [Code Injection With CCI - Part 3](./articles/Code-Injection-With-CCI-Part-3.html) - 05.01.2009 11:54:39 AM CST
+    * [WWPD?](./articles/WWPD.html) - 05.01.2009 08:31:24 AM CST
