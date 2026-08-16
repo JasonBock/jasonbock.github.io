@@ -200,3 +200,21 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Ryan's Freaking Me Out](./articles/Ryans-Freaking-Me-Out.html) - 01.02.2009 08:18:05 AM CST
     * [INETASpeakers += Me](./articles/INETASpeakers-Me.html) - 01.02.2009 08:14:20 AM CST
     * [Back From Winter Vacation](./articles/Back-From-Winter-Vacation.html) - 01.02.2009 08:10:37 AM CST
+* 2008
+  * December
+    * ["The Ruins"](./articles/The-Ruins.html) - 12.22.2008 07:28:31 PM CST
+    * [Refining Dynamic](./articles/Refining-Dynamic.html) - 12.22.2008 10:50:55 AM CST
+    * [Watching the Weather](./articles/Watching-The-Weather.html) - 12.22.2008 09:57:16 AM CST
+    * [DynamicProxies, C# 4.0 Keywords, and Cecil: A Vision](./articles/DynamicProxies-CSharp-4-Keywords-And-Cecil-A-Vision.html) - 12.21.2008 02:42:51 PM CST
+    * [Updating Exception Handling in FileGenerator](./articles/Updating-Exception-Handling-In-FileGenerator.html) - 12.18.2008 08:41:56 AM CST
+    * ["House of Sand and Fog"](./articles/House-Of-Sand-And-Fog.html) - 12.17.2008 10:03:46 PM CST
+    * ["Beyond AI"](./articles/Beyond-AI.html) - 12.17.2008 09:58:31 PM CST
+    * [Wisdom Teeth are Going](./articles/Wisdom-Teeth-Are-Going.html) - 12.17.2008 09:56:09 PM CST
+    * [Opinionated Code](./articles/Opinionated-Code.html) - 12.17.2008 08:55:31 AM CST
+    * [An Open-Source .NET Decompiler](./articles/An-Open-Source-DotNET-Decompiler.html) - 12.16.2008 12:25:26 PM CST
+    * [Genetic Vectorizing My High School Hair Picture](./articles/Genetic-Vectorizing-My-High-School-Hair-Picture.html) - 12.12.2008 07:47:23 PM CST
+    * [Coding? What's That?](./articles/Coding-Whats-That.html) - 12.12.2008 03:34:36 PM CST
+    * [The Car Bailout Failure](./articles/The-Car-Bailout-Failure.html) - 12.12.2008 07:42:58 AM CST
+    * ["Gears of War"](./articles/Gears-Of-War.html) - 12.07.2008 10:17:21 AM CST
+    * [Scientific American and Auras](./articles/Scientific-American-And-Auras.html) - 12.07.2008 10:10:09 AM CST
+    * [ScopedEventHandler](./articles/ScopedEventHandler.html) - 12.02.2008 11:23:50 AM CST
