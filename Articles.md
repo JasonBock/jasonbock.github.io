@@ -218,3 +218,25 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["Gears of War"](./articles/Gears-Of-War.html) - 12.07.2008 10:17:21 AM CST
     * [Scientific American and Auras](./articles/Scientific-American-And-Auras.html) - 12.07.2008 10:10:09 AM CST
     * [ScopedEventHandler](./articles/ScopedEventHandler.html) - 12.02.2008 11:23:50 AM CST
+  * November
+    * ["I Am Legend"](./articles/I-Am-Legend.html) - 11.25.2008 07:49:39 AM CST
+    * [Family Update](./articles/Family-Update.html) - 11.25.2008 07:23:11 AM CST
+    * [Check Out My XBox Avatar](./articles/Check-Out-My-XBox-Avatar.html) - 11.21.2008 10:07:24 AM CST
+    * [Netflix On-Demand == Complete Suckage](./articles/Netflix-On-Demand-Complete-Suckage.html) - 11.21.2008 08:26:13 AM CST
+    * [The New Twitter Fail](./articles/The-New-Twitter-Fail.html) - 11.18.2008 10:29:24 AM CST
+    * [Getting Around Static Classes and Generic Arguments](./articles/Getting-Around-Static-Classes-And-Generic-Arguments.html) - 11.18.2008 07:15:28 AM CST
+    * [One of the Oddest APIs I've Encountered in .NET](./articles/One-Of-The-Oddest-APIs-Ive-Encountered-In-DotNET.html) - 11.17.2008 09:07:54 PM CST
+    * ["You kill the joe, you make some mo'!"](./articles/You-Kill-The-Joe-You-Make-Some-Mo.html) - 11.13.2008 08:34:39 AM CST
+    * [Why So Many Overloads for StringBuilder's Append?](./articles/Why-So-Many-Overloads-For-StringBuilders-Append.html) - 11.11.2008 07:47:29 AM CST
+    * ["To Hold Infinity"](./articles/To-Hold-Infinity.html) - 11.09.2008 09:50:01 PM CST
+    * [Iowa Code Camp 2](./articles/Iowa-Code-Camp-2.html) - 11.09.2008 09:34:46 PM CST
+    * [WPF and Background Workers](./articles/WPF-And-Background-Workers.html) - 11.08.2008 03:51:43 PM CST
+    * [8 Years At Magenic](./articles/8-Years-At-Magenic.html) - 11.06.2008 07:32:58 AM CST
+    * [Automatic Properties and Values Types Don't Mix](./articles/Automatic-Properties-And-Values-Types-Dont-Mix.html) - 11.05.2008 02:54:40 PM CST
+    * [Cecil Can Be Maddening](./articles/Cecil-Can-Be-Maddening.html) - 11.05.2008 12:11:29 PM CST
+    * [Playing With LINQ Expressions](./articles/Playing-With-LINQ-Expressions.html) - 11.05.2008 10:14:46 AM CST
+    * [Codifying Design Guidelines](./articles/Codifying-Design-Guidelines.html) - 11.04.2008 03:44:25 PM CST
+    * [I Voted](./articles/I-Voted.html) - 11.04.2008 11:22:29 AM CST
+    * [Unit Testing Finalize](./articles/Unit-Testing-Finalize.html) - 11.03.2008 09:55:03 AM CST
+    * [CodeAnalysis in VS2010](./articles/CodeAnalysis-In-VS2010.html) - 11.03.2008 09:31:30 AM CST
+    * [A Bit of Syntatic Sugar for C# Please](./articles/A-Bit-Of-Syntatic-Sugar-For-CSharp-Please.html) - 11.03.2008 08:38:30 AM CST
