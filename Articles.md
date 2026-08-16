@@ -240,3 +240,15 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Unit Testing Finalize](./articles/Unit-Testing-Finalize.html) - 11.03.2008 09:55:03 AM CST
     * [CodeAnalysis in VS2010](./articles/CodeAnalysis-In-VS2010.html) - 11.03.2008 09:31:30 AM CST
     * [A Bit of Syntatic Sugar for C# Please](./articles/A-Bit-Of-Syntatic-Sugar-For-CSharp-Please.html) - 11.03.2008 08:38:30 AM CST
+  * October
+    * [Ever Wonder Why You Never Get Full Code Coverage?](./articles/Ever-Wonder-Why-You-Never-Get-Full-Code-Coverage.html) - 10.30.2008 02:06:16 PM CST
+    * [More Awesome Republicans](./articles/More-Awesome-Republicans.html) - 10.27.2008 01:24:08 PM CST
+    * [The Stupid Just Never Goes Away](./articles/The-Stupid-Just-Never-Goes-Away.html) - 10.22.2008 08:32:39 AM CST
+    * [ExplicitThis and Emitting Code](./articles/ExplicitThis-And-Emitting-Code.html) - 10.21.2008 10:53:37 AM CST
+    * [Another (Small) Reason to Have Cecil-Like Functionality in the BCL](./articles/Another-Small-Reason-To-Have-Cecil-Like-Functionality-In-The-BCL.html) - 10.20.2008 10:37:07 AM CST
+    * [The Voices of Republicans](./articles/The-Voices-Of-Republicans.html) - 10.13.2008 01:05:22 PM CST
+    * [ExceptionFinder, Opcodes, and Exceptions](./articles/ExceptionFinder-Opcodes-And-Exceptions.html) - 10.13.2008 11:09:01 AM CST
+    * [Annoying Cats](./articles/Annoying-Cats.html) - 10.06.2008 04:31:29 PM CST
+    * [Exception Inconsistencies](./articles/Exception-Inconsistencies.html) - 10.03.2008 01:09:50 PM CST
+    * [One Thing I Don't Like About Automatic Properties](./articles/One-Thing-I-Dont-Like-About-Automatic-Properties.html) - 10.03.2008 07:37:02 AM CST
+    * [Fast Multiplication](./articles/Fast-Multiplication.html) - 10.02.2008 12:27:47 PM CST
