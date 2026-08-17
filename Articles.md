@@ -252,3 +252,19 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Exception Inconsistencies](./articles/Exception-Inconsistencies.html) - 10.03.2008 01:09:50 PM CST
     * [One Thing I Don't Like About Automatic Properties](./articles/One-Thing-I-Dont-Like-About-Automatic-Properties.html) - 10.03.2008 07:37:02 AM CST
     * [Fast Multiplication](./articles/Fast-Multiplication.html) - 10.02.2008 12:27:47 PM CST
+    * ["The End of Faith"](./articles/The-End-Of-Faith.html) - 10.02.2008 07:03:37 AM CST
+    * [iPhone Deployment == SUCKAGE](./articles/IPhone-Deployment-Suckage.html) - 10.01.2008 12:35:04 PM CST
+  * September
+    * [No Unit Testing for iPhone Applications](./articles/No-Unit-Testing-For-IPhone-Applications.html) - 09.26.2008 09:48:45 AM CST
+    * [iPhone Deployment - Yuck](./articles/IPhone-Deployment-Yuck.html) - 09.24.2008 09:21:23 AM CST
+    * [Day 8 as a iPhone/Mac Developer](./articles/Day-8-As-A-IPhone-Mac-Developer.html) - 09.22.2008 05:43:14 PM CST
+    * [Day 7 as a iPhone/Mac Developer](./articles/Day-7-As-A-IPhone-Mac-Developer.html) - 09.18.2008 01:29:03 PM CST
+    * ["The Mystic Rose"](./articles/The-Mystic-Rose.html) - 09.18.2008 07:32:11 AM CST
+    * [Vintage Keyboard: Roland Juno 60](./articles/Vintage-Keyboard-Roland-Juno-60.html) - 09.17.2008 07:55:53 PM CST
+    * [Day 6 as a iPhone/Mac Developer](./articles/Day-6-As-A-IPhone-Mac-Developer.html) - 09.17.2008 03:51:24 PM CST
+    * [Codeapalooza Podcast at the Bar](./articles/Codeapalooza-Podcast-At-The-Bar.html) - 09.15.2008 12:58:30 PM CST
+    * [Day 4 as a iPhone/Mac Developer](./articles/Day-4-As-A-IPhone-Mac-Developer.html) - 09.15.2008 08:23:03 AM CST
+    * [Day 3 as a iPhone/Mac Developer](./articles/Day-3-As-A-IPhone-Mac-Developer.html) - 09.12.2008 02:31:59 PM CST
+    * [Day 2 as a iPhone/Mac Developer](./articles/Day-2-As-A-IPhone-Mac-Developer.html) - 09.11.2008 03:19:52 PM CST
+    * [Day 1 as a iPhone/Mac Developer](./articles/Day-1-As-A-IPhone-Mac-Developer.html) - 09.10.2008 12:46:21 PM CST
+    * [Back to Basics: Learning Objective-C](./articles/Back-To-Basics-Learning-Objective-C.html) - 09.09.2008 02:49:54 PM CST
