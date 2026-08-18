@@ -16,9 +16,20 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Fun With C# Unions](./articles/Fun-With-CSharp-Unions.html) - 08.12.2026 8:00 AM CST
   * July
     * [20 Years As a Microsoft MVP](./articles/20-Years-Microsoft-MVP.html) - 07.15.2026 1:47 PM CST
+* 2020
+  * July
+    * [Changes for the Future](./articles/Changes-For-The-Future.html) - 07.16.2020 08:38:02 AM CST
 * 2014
   * February
     * [Was Nye's Time Wasted?](./articles/Was-Nyes-Time-Wasted.html) - 02.11.2014 10:55:57 AM CST
+  * January
+    * [I'm Back!](./articles/Im-Back.html) - 01.20.2014 10:08:11 AM CST
+* 2013
+  * January
+    * [Mary Bock](./articles/Mary-Bock.html) - 01.20.2013 02:06:49 PM CST
+* 2012
+  * September
+    * [Winding Down](./articles/Winding-Down.html) - 09.28.2012 11:14:22 AM CST
 * 2011
   * November
     * [Using ExtendedReflection To Manage Your .NET Code at Runtime](./articles/Using-ExtendedReflection-To-Manage-Your-NET-Code-At-Runtime.html) - 11.14.2011 08:57:00 PM CST
