@@ -366,6 +366,28 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Heading Down to Iowa Code Camp Today](./articles/Heading-Down-To-Iowa-Code-Camp-Today.html) - 05.02.2008 08:32:25 AM CST
     * [A Simple Mistake Can Cost You](./articles/A-Simple-Mistake-Can-Cost-You.html) - 05.01.2008 08:29:34 AM CST
     * ["Context"](./articles/Context.html) - 05.01.2008 07:19:35 AM CST
+  * April
+    * [The Monster API](./articles/The-Monster-API.html) - 04.24.2008 01:30:52 PM CST
+    * [ALT.NET. Meh.](./articles/ALT-NET-Meh.html) - 04.22.2008 11:32:41 PM CST
+    * [With Logic Like This, You Can't Go Wrong](./articles/With-Logic-Like-This-You-Cant-Go-Wrong.html) - 04.22.2008 09:49:36 AM CST
+    * [Has Anyone Modded the 360](./articles/Has-Anyone-Modded-The-360.html) - 04.22.2008 08:54:53 AM CST
+    * [New Cell Phone](./articles/New-Cell-Phone.html) - 04.22.2008 08:38:22 AM CST
+    * [Dragonlance Movie on DVD](./articles/Dragonlance-Movie-On-DVD.html) - 04.22.2008 08:33:09 AM CST
+    * ["The Iron Lance"](./articles/The-Iron-Lance.html) - 04.21.2008 12:38:59 PM CST
+    * [Reflector Stress Test](./articles/Reflector-Stress-Test.html) - 04.21.2008 07:50:50 AM CST
+    * [I Have Some Work To Do](./articles/I-Have-Some-Work-To-Do.html) - 04.19.2008 09:15:17 PM CST
+    * [My MVP Summit Fun](./articles/My-MVP-Summit-Fun.html) - 04.19.2008 01:34:12 PM CST
+    * [Interesting Exception Results: Throwing Exceptions From the Finally Block](./articles/Interesting-Exception-Results-Throwing-Exceptions-From-The-Finally-Block.html) - 04.18.2008 12:44:28 AM CST
+    * [MVP Summit - Day 3 and 4](./articles/MVP-Summit-Day-3-And-4.html) - 04.17.2008 04:03:47 PM CST
+    * [MVP Summit - Day 2](./articles/MVP-Summit-Day-2.html) - 04.16.2008 12:24:55 AM CST
+    * [MVP Summit - Day 1](./articles/MVP-Summit-Day-1.html) - 04.15.2008 09:07:26 AM CST
+    * [So Long, Tut](./articles/So-Long-Tut.html) - 04.13.2008 05:17:59 PM CST
+    * ["Paradox"](./articles/Paradox.html) - 04.11.2008 07:34:00 AM CST
+    * [Working From Home](./articles/Working-From-Home.html) - 04.10.2008 08:54:32 AM CST
+    * [Very Weird Testing Error](./articles/Very-Weird-Testing-Error.html) - 04.09.2008 01:45:16 PM CST
+    * [Reflector, Add-Ins, and Unit Testing](./articles/Reflector-Add-Ins-And-Unit-Testing.html) - 04.09.2008 09:02:41 AM CST
+    * [Events, Tests, and Code Coverage](./articles/Events-Tests-And-Code-Coverage.html) - 04.08.2008 08:54:44 AM CST
+    * [Code Camp 4 Recap](./articles/Code-Camp-4-Recap.html) - 04.07.2008 08:03:19 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
