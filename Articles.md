@@ -268,3 +268,93 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Day 2 as a iPhone/Mac Developer](./articles/Day-2-As-A-IPhone-Mac-Developer.html) - 09.11.2008 03:19:52 PM CST
     * [Day 1 as a iPhone/Mac Developer](./articles/Day-1-As-A-IPhone-Mac-Developer.html) - 09.10.2008 12:46:21 PM CST
     * [Back to Basics: Learning Objective-C](./articles/Back-To-Basics-Learning-Objective-C.html) - 09.09.2008 02:49:54 PM CST
+  * August
+    * [Unused Method Arguments](./articles/Unused-Method-Arguments.html) - 08.29.2008 03:49:23 PM CST
+    * [Lessons Learned From ExceptionFinder](./articles/Lessons-Learned-From-ExceptionFinder.html) - 08.27.2008 02:34:29 PM CST
+    * [A Typo From 11 Years Ago](./articles/A-Typo-From-11-Years-Ago.html) - 08.27.2008 10:48:04 AM CST
+    * [i_dont_like_underscores_in_code](./articles/I-Dont-Like-Underscores-In-Code.html) - 08.27.2008 08:12:49 AM CST
+    * [The Small Things](./articles/The-Small-Things.html) - 08.26.2008 11:38:26 PM CST
+    * [Why Do People Call My Wife "Lisa"?](./articles/Why-Do-People-Call-My-Wife-Lisa.html) - 08.25.2008 12:06:03 PM CST
+    * [A Subtle Difference in Catch Blocks](./articles/A-Subtle-Difference-In-Catch-Blocks.html) - 08.22.2008 03:42:43 PM CST
+    * ["Code Leader"](./articles/Code-Leader.html) - 08.21.2008 10:33:42 AM CST
+    * [Dispose Method to Null](./articles/Dispose-Method-To-Null.html) - 08.19.2008 10:26:11 AM CST
+    * [Worthless Abstractions](./articles/Worthless-Abstractions.html) - 08.19.2008 09:19:44 AM CST
+    * [Constrained Generics and Return Values](./articles/Constrained-Generics-And-Return-Values.html) - 08.18.2008 02:25:43 PM CST
+    * ["Nothing But Tears" Shampoo](./articles/Nothing-But-Tears-Shampoo.html) - 08.15.2008 11:11:32 AM CST
+    * [Fault Blocks Can't Be Emitted Via DynamicMethod Using ILGenerator](./articles/Fault-Blocks-Cant-Be-Emitted-Via-DynamicMethod-Using-ILGenerator.html) - 08.14.2008 10:41:13 AM CST
+    * [The Rest of the Picture](./articles/The-Rest-Of-The-Picture.html) - 08.13.2008 08:11:00 AM CST
+    * [How Did I Get Started in Software Development?](./articles/How-Did-I-Get-Started-In-Software-Development.html) - 08.11.2008 01:40:07 PM CST
+    * ["Diary"](./articles/Diary.html) - 08.11.2008 07:36:42 AM CST
+    * [Failure Should Be An Option](./articles/Failure-Should-Be-An-Option.html) - 08.11.2008 07:30:45 AM CST
+    * ["The Dark Knight"](./articles/The-Dark-Knight.html) - 08.11.2008 07:18:47 AM CST
+    * [Enduring Without Faith](./articles/Enduring-Without-Faith.html) - 08.07.2008 10:33:31 AM CST
+    * [Coming Back From Iowa](./articles/Coming-Back-From-Iowa.html) - 08.05.2008 02:48:12 PM CST
+    * [No More Gym Membership](./articles/No-More-Gym-Membership.html) - 08.04.2008 08:47:44 AM CST
+    * [ScopeSwitcher](./articles/ScopeSwitcher.html) - 08.01.2008 01:51:05 PM CST
+  * July
+    * [6 Hours for a Build](./articles/6-Hours-For-A-Build.html) - 07.30.2008 07:01:45 PM CST
+    * [Laughing](./articles/Laughing.html) - 07.28.2008 01:48:07 PM CST
+    * [Randy Pausch, RIP](./articles/Randy-Pausch-RIP.html) - 07.25.2008 12:33:02 PM CST
+    * [Great Commentary on Comments](./articles/Great-Commentary-On-Comments.html) - 07.25.2008 08:37:27 AM CST
+    * ["Exception Handling in .NET" - Status Update](./articles/Exception-Handling-In-DotNET-Status-Update.html) - 07.24.2008 08:09:21 AM CST
+    * [Dynamic Languages](./articles/Dynamic-Languages.html) - 07.23.2008 02:35:22 PM CST
+    * [C# Compiler Error CS0718 and VB Compiler Error BC30371 - This Feels So ... Odd](./articles/CSharp-Compiler-Error-CS0718-And-VB-Compiler-Error-BC30371-This-Feels-So-Odd.html) - 07.23.2008 09:26:39 AM CST
+    * [Being Evil With a DynamicMethod, Class Internals, and Unsafe Code](./articles/Being-Evil-With-A-DynamicMethod-Class-Internals-And-Unsafe-Code.html) - 07.17.2008 04:45:20 PM CST
+    * [I Am So Tempted to Write the "Exception Handling in .NET" E-Book](./articles/I-Am-So-Tempted-To-Write-The-Exception-Handling-DotNET-E-Book.html) - 07.16.2008 01:09:25 PM CST
+    * [Why I Add Context To Members](./articles/Why-I-Add-Context-To-Members.html) - 07.16.2008 10:09:12 AM CST
+    * [Golfing in Three Hours](./articles/Golfing-In-Three-Hours.html) - 07.15.2008 10:37:22 PM CST
+    * [Loving my New Phone](./articles/Loving-My-New-Phone.html) - 07.14.2008 08:16:31 AM CST
+    * [Kindness at the Airport](./articles/Kindness-At-The-Airport.html) - 07.14.2008 08:07:43 AM CST
+    * ["Hellboy II - The Golden Army"](./articles/Hellboy-II-The-Golden-Army.html) - 07.14.2008 08:01:46 AM CST
+    * [Officially a Bachelor for a Week](./articles/Officially-A-Bachelor-For-A-Week.html) - 07.14.2008 07:58:20 AM CST
+    * [Very Odd Book Recommendation](./articles/Very-Odd-Book-Recommendation.html) - 07.14.2008 07:57:23 AM CST
+    * [Easy Code Execution Timing](./articles/Easy-Code-Execution-Timing.html) - 07.11.2008 07:47:22 AM CST
+    * [More DynamicMethod Fun: Easy DBCommand Parameter Creation](./articles/More-DynamicMethod-Fun-Easy-DBCommand-Parameter-Creation.html) - 07.09.2008 03:26:47 PM CST
+    * [Feeling Naked Without a Cell Phone](./articles/Feeling-Naked-Without-A-Cell-Phone.html) - 07.09.2008 07:26:34 AM CST
+    * ["Independence Day"](./articles/Independence-Day.html) - 07.07.2008 12:05:58 PM CST
+    * ["The Future of the Universe"](./articles/The-Future-Of-The-Universe.html) - 07.07.2008 08:53:39 AM CST
+    * [Down With Regions...And Comments](./articles/Down-With-Regions-And-Comments.html) - 07.07.2008 07:44:43 AM CST
+    * [Tell Me Why This Is Necessary](./articles/Tell-Me-Why-This-Is-Necessary.html) - 07.02.2008 08:27:47 AM CST
+    * [Great Discussion on Paint.NET 4.0](./articles/Great-Discussion-On-PaintNET-40.html) - 07.01.2008 10:41:02 PM CST
+    * [Adding Tasks for Dynamic Proxies 3.0](./articles/Adding-Tasks-For-Dynamic-Proxies-30.html) - 07.01.2008 10:14:29 PM CST
+    * [MVP - Round 2 (Officially)](./articles/MVP-Round-2-Officially.html) - 07.01.2008 10:38:09 AM CST
+    * [XNA Podcast](./articles/XNA-Podcast.html) - 07.01.2008 08:40:58 AM CST
+  * June
+    * [Vacationing in the Mosquito-Infested Land Mass Known As "Wisconsin"](./articles/Vacationing-In-The-Mosquito-Infested-Land-Mass-Known-As-Wisconsin.html) - 06.26.2008 10:29:01 PM CST
+    * ["Death By Black Hole"](./articles/Death-By-Black-Hole.html) - 06.23.2008 01:10:24 PM CST
+    * ["Resolution"](./articles/Resolution.html) - 06.17.2008 09:19:09 AM CST
+    * [Getting on a Gig](./articles/Getting-On-A-Gig.html) - 06.14.2008 08:21:09 AM CST
+    * [Mittens Update](./articles/Mittens-Update.html) - 06.13.2008 09:31:11 AM CST
+    * [I Got a Bike](./articles/I-Got-A-Bike.html) - 06.13.2008 09:15:29 AM CST
+    * [Different Workout Today](./articles/Different-Workout-Today.html) - 06.10.2008 11:37:43 AM CST
+    * [Deleting Blog Posts Means Nothing](./articles/Deleting-Blog-Posts-Means-Nothing.html) - 06.09.2008 10:04:24 AM CST
+    * [Misuse of Implicit Conversion](./articles/Misuse-Of-Implicit-Conversion.html) - 06.09.2008 09:55:43 AM CST
+    * [More Summer of 2008 Projects Progress](./articles/More-Summer-Of-2008-Projects-Progress.html) - 06.09.2008 07:27:28 AM CST
+    * ["The Black Rood"](./articles/The-Black-Rood.html) - 06.05.2008 09:03:06 AM CST
+    * [Another Gig Has Ended](./articles/Another-Gig-Has-Ended.html) - 06.05.2008 08:54:47 AM CST
+    * [Mittens Picture](./articles/Mittens-Picture.html) - 06.04.2008 02:37:58 PM CST
+    * [Obama](./articles/Obama.html) - 06.04.2008 08:58:58 AM CST
+    * [Summer of 2008, Table and Chairs for the Deck are Done](./articles/Summer-Of-2008-Table-And-Chairs-For-The-Deck-Are-Done.html) - 06.03.2008 09:40:09 AM CST
+    * [More Summer of 2008 Project Addressed](./articles/More-Summer-Of-2008-Project-Addressed.html) - 06.01.2008 08:39:53 PM CST
+  * May
+    * [Is There Any Hope For .NET and XML Comments?](./articles/Is-There-Any-Hope-For-DotNET-And-XML-Comments.html) - 05.28.2008 10:06:24 AM CST
+    * [What I Did This Memorial Day Weekend](./articles/What-I-Did-This-Memorial-Day-Weekend.html) - 05.27.2008 08:18:00 AM CST
+    * [Get a Real Guitar](./articles/Get-A-Real-Guitar.html) - 05.22.2008 10:43:07 AM CST
+    * [Summer of 2008 Is the Summer Of Home Projects](./articles/Summer-Of-2008-Is-The-Summer-Of-Home-Projects.html) - 05.21.2008 11:35:18 PM CST
+    * [Should I Worry About These 2 Blocks?](./articles/Should-I-Worry-About-These-2-Blocks.html) - 05.20.2008 05:56:53 PM CST
+    * [My Scar Story](./articles/My-Scar-Story.html) - 05.20.2008 07:41:28 AM CST
+    * [Oh Yeah, Rush Is in St. Paul On Thursday](./articles/Oh-Yeah-Rush-Is-In-St-Paul-On-Thursday.html) - 05.19.2008 07:41:54 AM CST
+    * [I Fought the Weeds, and the ... Weeds Won](./articles/I-Fought-The-Weeds-And-The-Weeds-Won.html) - 05.15.2008 07:29:37 AM CST
+    * [Fortunate](./articles/Fortunate.html) - 05.14.2008 08:41:47 AM CST
+    * [Implicit Conversion](./articles/Implicit-Conversion.html) - 05.12.2008 01:13:20 PM CST
+    * [Henry Rollins on America](./articles/Henry-Rollins-On-America.html) - 05.12.2008 09:32:42 AM CST
+    * [The History of the Intellivision](./articles/The-History-Of-The-Intellivision.html) - 05.09.2008 08:53:07 AM CST
+    * [Dealing With the Monster API](./articles/Dealing-With-The-Monster-API.html) - 05.08.2008 08:29:00 AM CST
+    * [Staying Motivated](./articles/Staying-Motivated.html) - 05.06.2008 06:58:18 AM CST
+    * [I Love This Picture](./articles/I-Love-This-Picture.html) - 05.05.2008 08:17:18 AM CST
+    * [Heading Down to Iowa Code Camp Today](./articles/Heading-Down-To-Iowa-Code-Camp-Today.html) - 05.02.2008 08:32:25 AM CST
+    * [A Simple Mistake Can Cost You](./articles/A-Simple-Mistake-Can-Cost-You.html) - 05.01.2008 08:29:34 AM CST
+    * ["Context"](./articles/Context.html) - 05.01.2008 07:19:35 AM CST
+* 2006
+  * June
+    * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST

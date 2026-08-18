@@ -22,6 +22,10 @@ layout: default
 
 ## CIL Programming: Under the Hood of .NET
 
+![CIL Programming: Under the Hood of .NET](https://jasonbock.net/images/CIL-Programming.png "CIL Programming: Under the Hood of .NET")
+
+[Link](https://link.springer.com/book/10.1007/978-1-4302-0845-7)
+
 ## .NET Security
 
 ## Beginning Visual Basic 6 Application Development
