@@ -388,6 +388,44 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Reflector, Add-Ins, and Unit Testing](./articles/Reflector-Add-Ins-And-Unit-Testing.html) - 04.09.2008 09:02:41 AM CST
     * [Events, Tests, and Code Coverage](./articles/Events-Tests-And-Code-Coverage.html) - 04.08.2008 08:54:44 AM CST
     * [Code Camp 4 Recap](./articles/Code-Camp-4-Recap.html) - 04.07.2008 08:03:19 AM CST
+  * March
+    * [Writing Custom Rules for VS 2008 Code Analysis - What a Pain!](./articles/Writing-Custom-Rules-For-VS-2008-Code-Analysis-What-A-Pain.html) - 03.30.2008 03:28:53 PM CST
+    * [Do You Dare Click On A URL These Days?](./articles/Do-You-Dare-Click-On-A-URL-These-Days.html) - 03.27.2008 04:35:07 PM CST
+    * [Less is More, Get Rid Of Crap](./articles/Less-Is-More-Get-Rid-Of-Crap.html) - 03.27.2008 10:18:38 AM CST
+    * [Twitter? Meh](./articles/Twitter-Meh.html) - 03.27.2008 10:18:38 AM CST
+    * [My Tests Are NOT Ignored!](./articles/My-Tests-Are-Not-Ignored.html) - 03.24.2008 10:10:57 AM CST
+    * [No More Notebooks](./articles/No-More-Notebooks.html) - 03.24.2008 08:26:52 AM CST
+    * [If I Wrote One More Book ...](./articles/If-I-Wrote-One-More-Book.html) - 03.17.2008 10:23:42 PM CST
+    * ["Doomsday"](./articles/Doomsday.html) - 03.17.2008 07:19:51 AM CST
+    * ["The Bourne Ultimatum"](./articles/The-Bourne-Ultimatum.html) - 03.16.2008 01:08:48 PM CST
+    * [CA2000 Is No Longer in VS2008](./articles/CA2000-Is-No-Longer-In-VS2008.html) - 03.16.2008 10:38:56 AM CST
+    * [C# 3.0 Impressions](./articles/CSharp-3-Impressions.html) - 03.16.2008 09:05:59 AM CST
+    * [Relaxing and Decompressing](./articles/Relaxing-And-Decompressing.html) - 03.16.2008 09:05:51 AM CST
+    * [A Review of SharePoint](./articles/A-Review-Of-SharePoint.html) - 03.14.2008 02:50:14 PM CST
+    * [One Thing I've Always Wondered About the "Cars" Movie](./articles/One-Thing-Ive-Always-Wondered-About-The-Cars-Movie.html) - 03.14.2008 02:19:54 PM CST
+    * [Is It "It's", or "Its"?](./articles/Is-It-Its-Or-Its.html) - 03.13.2008 08:50:01 PM CST
+    * [When Using Isn't Enough For Code Analysis ... And When You Don't Need It (?)](./articles/When-Using-Isnt-Enough-For-Code-Analysis-And-When-You-Dont-Need-It.html) - 03.12.2008 07:46:21 PM CST
+    * [Vanishing America](./articles/Vanishing-America.html) - 03.05.2008 10:19:18 AM CST
+    * [My 1d20 Just Rolled a Zero](./articles/My-1d20-Just-Rolled-A-Zero.html) - 03.04.2008 02:31:49 PM CST
+    * [Working From Home, Here I Come](./articles/Working-From-Home-Here-I-Come.html) - 03.04.2008 10:57:44 AM CST
+  * February
+    * ["Beautiful Code"](./articles/Beautiful-Code.html) - 02.28.2008 08:56:02 PM CST
+    * [The Global Telescope](./articles/The-Global-Telescope.html) - 02.28.2008 01:03:21 PM CST
+    * [`FileInfo` Doesn't Override Equals](./articles/FileInfo-Doesnt-Override-Equals.html) - 02.25.2008 04:02:27 PM CST
+    * [Other Assertions in MSTest](./articles/Other-Assertions-In-MSTest.html) - 02.25.2008 07:52:42 AM CST
+    * [Disposable Object, ObjectDisposedException, and Sharing Disposable Objects](./articles/Disposable-Object-ObjectDisposedException-And-Sharing-Disposable-Objects.html) - 02.22.2008 07:30:53 AM CST
+    * [Electric Razors](./articles/Electric-Razors.html) - 02.22.2008 07:19:00 AM CST
+    * [Why Consistency Is Important](./articles/Why-Consistency-Is-Important.html) - 02.21.2008 08:30:34 AM CST
+    * [Creating a Read-Only Collection From a HashSet](./articles/Creating-A-Read-Only-Collection-From-A-HashSet.html) - 02.14.2008 08:23:32 AM CST
+    * [XBox is Definitely Bricked](./articles/XBox-Is-Definitely-Bricked.html) - 02.13.2008 07:29:46 PM CST
+    * [Huh, The New Terminator Movie Series Is Really Shaping Up](./articles/Huh-The-New-Terminator-Movie-Series-Is-Really-Shaping-Up.html) - 02.13.2008 02:50:18 PM CST
+    * [Macho Movie Night: "Rambo"](./articles/Macho-Movie-Night-Rambo.html) - 02.13.2008 07:26:57 AM CST
+    * [I Got The RROD, But Am I Bricked?](./articles/I-Got-The-RROD-But-Am-I-Bricked.html) - 02.11.2008 07:21:23 AM CST
+    * ["Revenant"](./articles/Revenant.html) - 02.07.2008 05:04:45 PM CST
+    * [Prime Number Goodness](./articles/Prime-Number-Goodness.html) - 02.06.2008 01:14:26 PM CST
+    * [YACR (Yet Another CIL Reader)](./articles/YACR-Yet-Another-CIL-Reader.html) - 02.04.2008 07:52:57 PM CST
+  * January
+    * ["The Rosetta Codex"](./articles/The-Rosetta-Codex.html) - 01.28.2008 11:13:57 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
