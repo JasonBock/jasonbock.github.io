@@ -426,6 +426,27 @@ I've written a number of articles from my own web site, and some that no longer 
     * [YACR (Yet Another CIL Reader)](./articles/YACR-Yet-Another-CIL-Reader.html) - 02.04.2008 07:52:57 PM CST
   * January
     * ["The Rosetta Codex"](./articles/The-Rosetta-Codex.html) - 01.28.2008 11:13:57 AM CST
+    * ["Imitation of Life"](./articles/Imitation-Of-Life.html) - 01.28.2008 11:04:35 AM CST
+    * [When I Turn 44...](./articles/When-I-Turn-44.html) - 01.25.2008 01:46:01 PM CST
+    * [Trying To Optimize IL](./articles/Trying-To-Optimize-IL.html) - 01.25.2008 12:53:20 PM CST
+    * ["The Names of the Dead"](./articles/The-Names-Of-The-Dead.html) - 01.25.2008 07:48:18 AM CST
+    * [Beer As Motivation](./articles/Beer-As-Motivation.html) - 01.24.2008 07:32:12 PM CST
+    * [Check Out My Grill](./articles/Check-Out-My-Grill.html) - 01.21.2008 09:24:37 AM CST
+    * [Sorting Sections of a List](./articles/Sorting-Sections-Of-A-List.html) - 01.17.2008 02:06:52 PM CST
+    * [Awesome Exception Message](./articles/Awesome-Exception-Message.html) - 01.16.2008 07:59:53 PM CST
+    * [Perspective](./articles/Perspective.html) - 01.16.2008 07:47:24 AM CST
+    * [A Class Name for Folks In Wisconsin](./articles/A-Class-Name-For-Folks-In-Wisconsin.html) - 01.15.2008 02:29:36 PM CST
+    * [Back Status](./articles/Back-Status.html) - 01.15.2008 10:04:23 AM CST
+    * [What's the Magic Behind Extension Methods?](./articles/Whats-The-Magic-Behind-Extension-Methods.html) - 01.14.2008 07:58:58 AM CST
+    * [Squeezing Out More Code Coverage During Tests](./articles/Squeezing-Out-More-Code-Coverage-During-Tests.html) - 01.11.2008 10:37:27 AM CST
+    * [A General, Dynamic ToString() Implementation](./articles/A-General-Dynamic-ToString-Implementation.html) - 01.10.2008 12:56:24 PM CST
+    * [My Pwned Tattoo](./articles/My-Pwned-Tattoo.html) - 01.08.2008 08:16:22 PM CST
+    * [AVP:R](./articles/AVP-R.html) - 01.08.2008 07:46:05 PM CST
+    * [Code Analysis and Phoenix](./articles/Code-Analysis-And-Phoenix.html) - 01.07.2008 01:55:39 PM CST
+    * ["Up Through The Water"](./articles/Up-Through-The-Water.html) - 01.07.2008 08:49:59 AM CST
+    * [Family](./articles/Family.html) - 01.04.2008 03:19:10 PM CST
+    * [When to Use InternalsVisibleTo](./articles/When-To-Use-InternalsVisibleTo.html) - 01.03.2008 07:57:04 AM CST
+    * [Constructors, Virtual Members, and Initialization](./articles/Constructors-Virtual-Members-And-Initialization.html) - 01.02.2008 01:49:40 PM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
