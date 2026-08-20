@@ -1,10 +1,10 @@
 ---
-title: TwinCitiesCodeCamp.Com is Going Down
+title: twincitiescodecamp.com is Going Down
 layout: default
 ---
 | [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
 
-# TwinCitiesCodeCamp.Com is Going Down
+# twincitiescodecamp.com is Going Down
 
 In a short amount of time, [this site](https://twincitiescodecamp.com/) will go down:
 

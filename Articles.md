@@ -524,6 +524,21 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Ketchup Chips](./articles/Ketchup-Chips.html) - 09.06.2007 09:12:36 PM CST
     * [Changes](./articles/Changes.html) - 09.04.2007 06:59:51 AM CST
     * [More Hayden Conversations](./articles/More-Hayden-Conversations.html) - 09.03.2007 08:28:44 PM CST
+  * August
+    * [More Coding Oddities](./articles/More-Coding-Oddities.html) - 08.29.2007 09:55:06 AM CST
+    * [Nature's Rolling In](./articles/Natures-Rolling-In.html) - 08.27.2007 11:05:23 PM CST
+    * [R-Rated AVP2 Trailer](./articles/R-Rated-AVP2-Trailer.html) - 08.27.2007 01:07:23 PM CST
+    * [PGR4 On Oct. 2nd](./articles/PGR4-On-Oct-2nd.html) - 08.23.2007 11:46:52 AM CST
+    * [Delegates, Nested Classes and Refactoring ... What Could Go Wrong?](./articles/Delegates-Nested-Classes-And-Refactoring-What-Could-Go-Wrong.html) - 08.23.2007 11:24:43 AM CST
+    * [Fun With Photos in Forza 2](./articles/Fun-With-Photos-In-Forza-2.html) - 08.22.2007 09:51:42 PM CST
+    * [When A String Isn't Good Enough](./articles/When-A-String-Isnt-Good-Enough.html) - 08.22.2007 09:19:02 AM CST
+    * [Why I Hate Interviews](./articles/Why-I-Hate-Interviews.html) - 08.20.2007 07:48:01 AM CST
+    * [Book Reviews](./articles/Book-Reviews.html) - 08.20.2007 07:08:00 AM CST
+    * [Vacation Plans Scrubbed](./articles/Vacation-Plans-Scrubbed.html) - 08.20.2007 07:04:58 AM CST
+    * [Las Vegas](./articles/Las-Vegas.html) - 08.15.2007 08:38:58 PM CST
+    * [Quick Vacation Notes](./articles/Quick-Vacation-Notes.html) - 08.07.2007 08:34:37 AM CST
+    * [Bridge Collapse - We're OK](./articles/Bridge-Collapse-Were-OK.html) - 08.01.2007 07:54:05 PM CST
+    * [Understand the Core](./articles/Understand-The-Core.html) - 08.01.2007 11:18:07 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
