@@ -554,6 +554,17 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Simple Code Refactoring](./articles/Simple-Code-Refactoring.html) - 07.18.2007 10:06:28 AM CST
     * [Web Services, Timeouts, and Asynchronous Calls](./articles/Web-Services-Timeouts-And-Asynchronous-Calls.html) - 07.17.2007 08:39:36 PM CST
     * [`ICloneable<T>`?](./articles/ICloneable-T.html) - 07.11.2007 10:16:23 PM CST
+    * [Yeah, That's What I'm Listening To](./articles/Yeah-Thats-What-Im-Listening-To.html) - 07.11.2007 01:12:57 PM CST
+    * [Two Security Rules to Keep In Mind](./articles/Two-Security-Rules-To-Keep-In-Mind.html) - 07.09.2007 09:56:11 AM CST
+    * [Transformers](./articles/Transformers.html) - 07.09.2007 06:55:29 AM CST
+    * [Understanding Tail Calls](./articles/Understanding-Tail-Calls.html) - 07.03.2007 12:26:23 PM CST
+    * [Upside-Down Text](./articles/Upside-Down-Text.html) - 07.03.2007 08:09:09 AM CST
+    * [Porcupine Tree - "Fear of a Black Planet"](./articles/Porcupine-Tree-Fear-Of-A-Black-Planet.html) - 07.03.2007 08:03:46 AM CST
+    * [Fireworks ... Enough!](./articles/Fireworks-Enough.html) - 07.03.2007 07:28:03 AM CST
+    * [Collection Madness](./articles/Collection-Madness.html) - 07.02.2007 01:51:18 PM CST
+    * ["The Mobius Strip"](./articles/The-Mobius-Strip.html) - 07.01.2007 10:16:23 AM CST
+    * ["The Pursuit of Happyness"](./articles/The-Pursuit-Of-Happyness.html) - 07.01.2007 10:11:06 AM CST
+    * [MVP? ... MVP!](./articles/MVP-MVP.html) - 07.01.2007 09:34:27 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
