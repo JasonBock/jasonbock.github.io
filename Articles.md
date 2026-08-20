@@ -12,7 +12,7 @@ I've written a number of articles from my own web site, and some that no longer 
 
 * 2026
   * August
-    * [TwinCitiesCodeCamp.Com is Going Down](./articles/TwinCitiesCodeCamp-Dot-Com-Is-Going-Down.html) - 08.19.2026 07:41:56 PM CST
+    * [twincitiescodecamp.com is Going Down](./articles/TwinCitiesCodeCamp-Dot-Com-Is-Going-Down.html) - 08.19.2026 07:41:56 PM CST
     * [More Articles Coming](./articles/More-Articles-Coming.html) - 08.12.2026 3:40 PM CST
     * [Fun With C# Unions](./articles/Fun-With-CSharp-Unions.html) - 08.12.2026 8:00 AM CST
   * July
@@ -539,6 +539,11 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Quick Vacation Notes](./articles/Quick-Vacation-Notes.html) - 08.07.2007 08:34:37 AM CST
     * [Bridge Collapse - We're OK](./articles/Bridge-Collapse-Were-OK.html) - 08.01.2007 07:54:05 PM CST
     * [Understand the Core](./articles/Understand-The-Core.html) - 08.01.2007 11:18:07 AM CST
+  * July
+    * ["Stranger Than Fiction"](./articles/Stranger-Than-Fiction.html) - 07.26.2007 10:34:27 AM CST
+    * [Rigourous FxCop and XML Comment Adherence](./articles/Rigourous-FxCop-And-XML-Comment-Adherence.html) - 07.26.2007 08:43:03 AM CST
+    * [So That's Where She Went](./articles/So-Thats-Where-She-Went.html) - 07.26.2007 07:32:03 AM CST
+    * [Release Date](./articles/Release-Date.html) - 07.26.2007 06:49:03 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
