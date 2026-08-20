@@ -544,6 +544,16 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Rigourous FxCop and XML Comment Adherence](./articles/Rigourous-FxCop-And-XML-Comment-Adherence.html) - 07.26.2007 08:43:03 AM CST
     * [So That's Where She Went](./articles/So-Thats-Where-She-Went.html) - 07.26.2007 07:32:03 AM CST
     * [Release Date](./articles/Release-Date.html) - 07.26.2007 06:49:03 AM CST
+    * [Me? Really?](./articles/Me-Really.html) - 07.25.2007 07:29:48 AM CST
+    * [Coding and the Future](./articles/Coding-And-The-Future.html) - 07.21.2007 10:12:25 AM CST
+    * [Getting Free Time](./articles/Getting-Free-Time.html) - 07.21.2007 10:03:58 AM CST
+    * [Call Extensions in .NET](./articles/Call-Extensions-In-DotNET.html) - 07.21.2007 09:42:11 AM CST
+    * [More Deck Work](./articles/More-Deck-Work.html) - 07.21.2007 08:23:05 AM CST
+    * [Use the `TimeSpan` Format](./articles/Use-The-TimeSpan-Format.html) - 07.20.2007 10:13:14 AM CST
+    * [Partial Methods in C#](./articles/Partial-Methods-In-CSharp.html) - 07.20.2007 07:40:52 AM CST
+    * [Simple Code Refactoring](./articles/Simple-Code-Refactoring.html) - 07.18.2007 10:06:28 AM CST
+    * [Web Services, Timeouts, and Asynchronous Calls](./articles/Web-Services-Timeouts-And-Asynchronous-Calls.html) - 07.17.2007 08:39:36 PM CST
+    * [`ICloneable<T>`?](./articles/ICloneable-T.html) - 07.11.2007 10:16:23 PM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
