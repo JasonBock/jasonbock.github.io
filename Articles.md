@@ -447,6 +447,68 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Family](./articles/Family.html) - 01.04.2008 03:19:10 PM CST
     * [When to Use InternalsVisibleTo](./articles/When-To-Use-InternalsVisibleTo.html) - 01.03.2008 07:57:04 AM CST
     * [Constructors, Virtual Members, and Initialization](./articles/Constructors-Virtual-Members-And-Initialization.html) - 01.02.2008 01:49:40 PM CST
+* 2007
+  * December
+    * [Testing Exceptions](./articles/Testing-Exceptions.html) - 12.20.2007 06:24:05 PM CST
+    * ["Anvil of Stars"](./articles/Anvil-Of-Stars.html) - 12.20.2007 08:19:14 AM CST
+    * [The Incorrect CruiseControl Message](./articles/The-Incorrect-CruiseControl-Message.html) - 12.19.2007 08:15:05 AM CST
+    * [S3 It Is](./articles/S3-It-Is.html) - 12.12.2007 02:52:42 PM CST
+    * [Massive Storage](./articles/Massive-Storage.html) - 12.12.2007 09:17:20 AM CST
+    * [BigInteger is Internal](./articles/BigInteger-Is-Internal.html) - 12.12.2007 07:16:21 AM CST
+    * ["Snow Angels"](./articles/Snow-Angels.html) - 12.11.2007 08:13:38 AM CST
+    * [`Assert.AreEqual()` Gotcha](./articles/Assert-AreEqual-Gotcha.html) - 12.10.2007 08:21:26 AM CST
+    * [Write Your Tests First ... Because Adding Them Later Sucks](./articles/Write-Your-Tests-First-Because-Adding-Them-Later-Sucks.html) - 12.10.2007 07:56:13 AM CST
+    * [Unit Tests Code Generation in VS 2008 and Automatic Properties](./articles/Unit-Tests-Code-Generation-In-VS-2008-And-Automatic-Properties.html) - 12.07.2007 04:10:02 PM CST
+    * [`HttpContext.Current` Is a Singleton for the Call Context](./articles/HttpContext-Current-Is-A-Singleton-For-The-Call-Context.html) - 12.07.2007 10:32:04 AM CST
+    * [It's Illogical!](./articles/Its-Illogical.html) - 12.06.2007 12:54:41 PM CST
+    * [Night Projects](./articles/Night-Projects.html) - 12.06.2007 10:07:01 AM CST
+    * [Holy ****, I'm Speaking at VSLive!](./articles/Holy-Im-Speaking-At-VSLive.html) - 12.04.2007 09:29:54 PM CST
+    * ["No Country for Old Men"](./articles/No-Country-For-Old-Men.html) - 12.03.2007 08:45:23 PM CST
+  * November
+    * [A Use for Reflection](./articles/A-Use-For-Reflection.html) - 11.29.2007 07:52:38 AM CST
+    * [Christians Boycott "The Golden Compass"?](./articles/Christians-Boycott-The-Golden-Compass.html) - 11.26.2007 08:50:00 PM CST
+    * [Merry Cheifmas!](./articles/Merry-Cheifmas.html) - 11.26.2007 08:38:08 PM CST
+    * [I'm Facebooked](./articles/Im-Facebooked.html) - 11.26.2007 08:04:29 PM CST
+    * [O'Conner and Alzheimer's](./articles/OConner-And-Alzheimers.html) - 11.26.2007 07:30:15 AM CST
+    * ["Portal" From "The Orange Box"](./articles/Portal-From-The-Orange-Box.html) - 11.21.2007 06:51:37 AM CST
+    * [VB 2008 Compiler Bug](./articles/VB-2008-Compiler-Bug.html) - 11.20.2007 08:45:19 PM CST
+    * [An Interesting Cecil Side-Effect](./articles/An-Interesting-Cecil-Side-Effect.html) - 11.19.2007 09:46:49 PM CST
+    * [Immutable Objects in C#](./articles/Immutable-Objects-In-CSharp.html) - 11.11.2007 10:14:31 PM CST
+    * [Bug With `CustomAttribute` Collection in Mono.Cecil?](./articles/Bug-With-CustomAttribute-Collection-In-Mono-Cecil.html) - 11.09.2007 03:17:41 PM CST
+    * [Quixo3D - Part 2: Code Coverage](./articles/Quixo3D-Part-2-Code-Coverage.html) - 11.09.2007 09:27:01 AM CST
+    * [This is How You Figure Out a Bug](./articles/This-Is-How-You-Figure-Out-A-Bug.html) - 11.07.2007 10:05:39 AM CST
+    * [Quixo3D - Part 1: Code Analysis](./articles/Quixo3D-Part-1-Code-Analysis.html) - 11.06.2007 08:22:51 PM CST
+    * [Interview Questions](./articles/Interview-Questions.html) - 11.06.2007 08:22:51 PM CST
+    * [WPF Day 1](./articles/WPF-Day-1.html) - 11.02.2007 08:09:05 AM CST
+    * [Bewildering Code](./articles/Bewildering-Code.html) - 11.01.2007 07:50:34 AM CST
+  * October
+    * ["The Forge of God"](./articles/The-Forge-Of-God.html) - 10.30.2007 06:45:46 AM CST
+    * [Implementing the Generic `IComparable` Isn't Good Enough](./articles/Implementing-The-Generic-IComparable-Isnt-Good-Enough.html) - 10.29.2007 01:15:32 PM CST
+    * [Can You Achieve 100% Test Coverage? Should You??](./articles/Can-You-Achieve-100-Test-Coverage-Should-You.html) - 10.29.2007 09:36:56 AM CST
+    * [Getting Old](./articles/Getting-Old.html) - 10.29.2007 08:26:43 AM CST
+    * [Sad News](./articles/Sad-News.html) - 10.29.2007 07:33:01 AM CST
+    * [Playing the Wii](./articles/Playing-The-Wii.html) - 10.25.2007 07:26:42 AM CST
+    * [Hi, I'm Jason, and I'm a Developer](./articles/Hi-Im-Jason-And-Im-A-Developer.html) - 10.23.2007 10:51:52 PM CST
+    * [Big Drum Sets](./articles/Big-Drum-Sets.html) - 10.19.2007 09:25:48 PM CST
+    * ["Reversing"](./articles/Reversing.html) - 10.18.2007 10:38:26 PM CST
+    * [Erlang](./articles/Erlang.html) - 10.18.2007 04:59:20 PM CST
+    * [Overcoming](./articles/Overcoming.html) - 10.18.2007 09:25:12 AM CST
+    * [Circular Code Analysis](./articles/Circular-Code-Analysis.html) - 10.17.2007 08:14:42 PM CST
+    * [Halo3 Multiplayer](./articles/Halo3-Multiplayer.html) - 10.17.2007 07:39:25 AM CST
+    * [`HttpContext`: Don't Mock](./articles/HttpContext-Dont-Mock.html) - 10.16.2007 07:52:28 AM CST
+    * ["The Departed"](./articles/The-Departed.html) - 10.15.2007 06:45:07 AM CST
+    * [Programming in the Age of Concurrency](./articles/Programming-In-The-Age-Of-Concurrency.html) - 10.12.2007 09:22:20 PM CST
+    * [Extension Method Abomination](./articles/Extension-Method-Abomination.html) - 10.11.2007 02:47:51 PM CST
+    * [You Can't Run Tests From More Than One VS 2005 Instance at the Same Time?](./articles/You-Cant-Run-Tests-From-More-Than-One-VS-2005-Instance-At-The-Same-Time.html) - 10.11.2007 09:47:33 AM CST
+    * [Halo 3 Legendary Ending](./articles/Halo-3-Legendary-Ending.html) - 10.10.2007 12:16:07 PM CST
+    * [Halo 3: The Fight is Finished](./articles/Halo-3-The-Fight-Is-Finished.html) - 10.09.2007 10:44:28 PM CST
+    * [Multiple Enumerators](./articles/Multiple-Enumerators.html) - 10.09.2007 08:21:37 AM CST
+    * [Reverse Code Analysis in Visual Studio](./articles/Reverse-Code-Analysis-In-Visual-Studio.html) - 10.08.2007 09:09:34 PM CST
+    * [Ow! My Back!](./articles/Ow-My-Back.html) - 10.06.2007 08:28:03 AM CST
+    * [Know What I Hate?](./articles/Know-What-I-Hate.html) - 10.06.2007 07:36:46 AM CST
+    * [PGR4](./articles/PGR4.html) - 10.05.2007 08:10:48 AM CST
+    * [Immutable Data Structures](./articles/Immutable-Data-Structures.html) - 10.04.2007 12:08:28 PM CST
+    * [Architect](./articles/Architect.html) - 10.03.2007 07:53:36 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
