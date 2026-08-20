@@ -510,6 +510,20 @@ I've written a number of articles from my own web site, and some that no longer 
     * [PGR4](./articles/PGR4.html) - 10.05.2007 08:10:48 AM CST
     * [Immutable Data Structures](./articles/Immutable-Data-Structures.html) - 10.04.2007 12:08:28 PM CST
     * [Architect](./articles/Architect.html) - 10.03.2007 07:53:36 AM CST
+  * September
+    * [Halo3 Single-Player Observations](./articles/Halo3-Single-Player-Observations.html) - 09.28.2007 07:59:00 AM CST
+    * [Halo3 Event](./articles/Halo3-Event.html) - 09.25.2007 12:00:00 AM CST
+    * [Subliminal Inspiration](./articles/Subliminal-Inspiration.html) - 09.24.2007 11:54:27 PM CST
+    * [Good Bye, Simon - R.I.P.](./articles/Good-Bye-Simon-RIP.html) - 09.22.2007 02:07:49 PM CST
+    * [10 Years Today](./articles/10-Years-Today.html) - 09.20.2007 07:20:46 AM CST
+    * [Constructors Returning Null (?)](./articles/Constructors-Returning-Null.html) - 09.19.2007 11:48:34 AM CST
+    * [Tests and Disposable Fields](./articles/Tests-And-Disposable-Fields.html) - 09.18.2007 08:32:38 PM CST
+    * [Terrace - Beating Mike...Again](./articles/Terrace-Beating-Mike-Again.html) - 09.13.2007 08:41:06 PM CST
+    * [Rush in St. Paul](./articles/Rush-In-St-Paul.html) - 09.10.2007 07:32:05 AM CST
+    * [Terrace Trouncing](./articles/Terrace-Trouncing.html) - 09.06.2007 09:16:44 PM CST
+    * [Ketchup Chips](./articles/Ketchup-Chips.html) - 09.06.2007 09:12:36 PM CST
+    * [Changes](./articles/Changes.html) - 09.04.2007 06:59:51 AM CST
+    * [More Hayden Conversations](./articles/More-Hayden-Conversations.html) - 09.03.2007 08:28:44 PM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
