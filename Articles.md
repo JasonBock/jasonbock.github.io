@@ -565,6 +565,67 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["The Mobius Strip"](./articles/The-Mobius-Strip.html) - 07.01.2007 10:16:23 AM CST
     * ["The Pursuit of Happyness"](./articles/The-Pursuit-Of-Happyness.html) - 07.01.2007 10:11:06 AM CST
     * [MVP? ... MVP!](./articles/MVP-MVP.html) - 07.01.2007 09:34:27 AM CST
+  * June
+    * [Deck Progress](./articles/Deck-Progress.html) - 06.29.2007 07:59:13 PM CST
+    * [WCF: Message Size](./articles/WCF-Message-Size.html) - 06.29.2007 07:06:27 AM CST
+    * [Developer Metrics](./articles/Developer-Metrics.html) - 06.26.2007 11:43:39 AM CST
+    * [I Don't Remember Asking for Commentary at the Grocery Store](./articles/I-Dont-Remember-Asking-For-Commentary-At-The-Grocery-Store.html) - 06.26.2007 06:46:34 AM CST
+    * [Reducing Catch Handlers](./articles/Reducing-Catch-Handlers.html) - 06.22.2007 07:32:27 AM CST
+    * ["The Fountain"](./articles/The-Fountain.html) - 06.19.2007 04:03:11 PM CST
+    * [Back To Work](./articles/Back-To-Work.html) - 06.18.2007 07:47:34 AM CST
+    * [Halo2 Party](./articles/Halo2-Party.html) - 06.16.2007 08:25:51 AM CST
+    * ["Empyrion" Mix](./articles/Empyrion-Mix.html) - 06.13.2007 10:29:21 PM CST
+    * [Living the Bachelor Life](./articles/Living-The-Bachelor-Life.html) - 06.13.2007 10:26:15 PM CST
+    * [Dragonlance ... The Movie?!](./articles/Dragonlance-The-Movie.html) - 06.08.2007 06:50:33 AM CST
+    * [Giving Up On RSS Bandit](./articles/Giving-Up-On-RSS-Bandit.html) - 06.06.2007 11:48:03 AM CST
+    * [Angry at angryCoder](./articles/Angry-At-AngryCoder.html) - 06.06.2007 06:40:08 AM CST
+    * [Moving Up](./articles/Moving-Up.html) - 06.04.2007 10:31:04 AM CST
+    * [Kids Say The Damndest Things](./articles/Kids-Say-The-Damndest-Things.html) - 06.04.2007 10:13:17 AM CST
+    * [Sidetracked Mixes](./articles/Sidetracked-Mixes.html) - 06.04.2007 07:31:13 AM CST
+    * [Busy Weekend](./articles/Busy-Weekend.html) - 06.03.2007 08:27:50 PM CST
+    * [Considering a New Web Host](./articles/Considering-A-New-Web-Host.html) - 06.01.2007 07:02:19 AM CST
+  * May
+    * [Enhancing the `using` Statement](./articles/Enhancing-The-Using-Statement.html) - 05.30.2007 06:38:14 AM CST
+    * [Interesting Lawhead Insight](./articles/Interesting-Lawhead-Insight.html) - 05.29.2007 08:41:10 PM CST
+    * [Boys are Sick](./articles/Boys-Are-Sick.html) - 05.29.2007 12:12:40 PM CST
+    * [It's Retries ... Plus One More](./articles/Its-Retries-Plus-One-More.html) - 05.29.2007 09:57:51 AM CST
+    * [PGR4](./articles/PGR4-Details.html) - 05.24.2007 02:07:00 PM CST
+    * [When a Language Would Really Kick-Ass](./articles/When-A-Language-Would-Really-Kick-Ass.html) - 05.23.2007 07:55:05 AM CST
+    * [Spanking Your Wife](./articles/Spanking-Your-Wife.html) - 05.22.2007 08:51:28 AM CST
+    * [The Sarah Conner Chronicles](./articles/The-Sarah-Conner-Chronicles.html) - 05.22.2007 08:39:56 AM CST
+    * [Security Talk is On](./articles/Security-Talk-Is-On.html) - 05.21.2007 01:42:23 PM CST
+    * [9/11 Conspiracy Theories](./articles/9-11-Conspiracy-Theories.html) - 05.21.2007 06:51:49 AM CST
+    * ["World Trade Center"](./articles/World-Trade-Center.html) - 05.21.2007 06:42:58 AM CST
+    * ["Eater", by Gregory Benford](./articles/Eater-By-Gregory-Benford.html) - 05.21.2007 06:35:26 AM CST
+    * [Odd Sick Day](./articles/Odd-Sick-Day.html) - 05.17.2007 09:22:40 PM CST
+    * [Hudson Bay Gravitational Anomaly](./articles/Hudson-Bay-Gravitational-Anomaly.html) - 05.16.2007 12:39:52 PM CST
+    * [Unexpected PermCalc Behavior - Round 2](./articles/Unexpected-PermCalc-Behavior-Round-2.html) - 05.16.2007 06:47:17 AM CST
+    * [Unexpected PermCalc Behavior](./articles/Unexpected-PermCalc-Behavior.html) - 05.15.2007 09:40:26 PM CST
+    * [WCF and `xs:choice`](./articles/WCF-And-XS-Choice.html) - 05.15.2007 10:26:45 AM CST
+    * [Two Days of Hell](./articles/Two-Days-Of-Hell.html) - 05.13.2007 09:10:25 PM CST
+    * [Just One Test Results Directory, Please](./articles/Just-One-Test-Results-Directory-Please.html) - 05.11.2007 08:12:59 AM CST
+    * [UML?](./articles/UML.html) - 05.10.2007 07:52:16 AM CST
+    * ["Kingdom Coming", by Michelle Goldberg](./articles/Kingdom-Coming-By-Michelle-Goldberg.html) - 05.10.2007 07:09:52 AM CST
+    * [Passing Methods Information](./articles/Passing-Methods-Information.html) - 05.09.2007 09:17:00 PM CST
+    * [Getting to Work Early](./articles/Getting-To-Work-Early.html) - 05.08.2007 10:07:04 PM CST
+    * [Procrastination](./articles/Procrastination.html) - 05.08.2007 10:03:13 PM CST
+    * [I'm Really Trying](./articles/Im-Really-Trying.html) - 05.08.2007 09:40:17 PM CST
+    * [Rusty Drumming](./articles/Rusty-Drumming.html) - 05.08.2007 08:55:22 AM CST
+    * ["Lost" Has End-Date](./articles/Lost-Has-End-Date.html) - 05.07.2007 01:54:12 PM CST
+    * [Lawn Battles](./articles/Lawn-Battles.html) - 05.07.2007 09:40:46 AM CST
+    * [Pac-Man Patterns](./articles/Pac-Man-Patterns.html) - 05.07.2007 07:12:22 AM CST
+    * ["Snakes And Arrows" - Decision](./articles/Snakes-And-Arrows-Decision.html) - 05.07.2007 07:12:22 AM CST
+    * [It's C#, Not C++](./articles/Its-CSharp-Not-CPlusPlus.html) - 05.04.2007 08:55:35 AM CST
+    * [Rant About Bad Development](./articles/Rant-About-Bad-Development.html) - 05.04.2007 08:38:53 AM CST
+    * [Mike ... More Recording!](./articles/Mike-More-Recording.html) - 05.04.2007 07:43:38 AM CST
+    * ["Sola Scriptura", by Neal Morse](./articles/Sola-Scriptura-By-Neal-Morse.html) - 05.03.2007 01:25:16 PM CST
+    * [Mike ... Recording!](./articles/Mike-Recording.html) - 05.03.2007 08:16:01 AM CST
+    * [Refactoring JavaScript](./articles/Refactoring-JavaScript.html) - 05.03.2007 08:03:24 AM CST
+    * ["Candy Mountain!"](./articles/Candy-Mountain.html) - 05.02.2007 12:56:23 PM CST
+    * [Loving "Hope"](./articles/Loving-Hope.html) - 05.02.2007 11:29:34 AM CST
+    * [It's Just a Matter of Time](./articles/Its-Just-A-Matter-Of-Time.html) - 05.02.2007 09:00:21 AM CST
+    * [Future Web Development](./articles/Future-Web-Development.html) - 05.02.2007 07:40:36 AM CST
+    * ["Snakes And Arrows" - Thoughts](./articles/Snakes-And-Arrows-Thoughts.html) - 05.01.2007 08:39:08 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST

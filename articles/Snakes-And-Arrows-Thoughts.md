@@ -1,0 +1,15 @@
+---
+title: "Snakes And Arrows" - Thoughts
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# "Snakes And Arrows" - Thoughts
+
+I just finished listening to the CD. Overall ... I think it's good. It has more of a groove feel than any of their previous works has - I found myself doing the "nodding" thing a lot (Mike knows what I'm talking about). There were some blues influences (especially on "The Way the Wind Blows") and there's a lot of acoustic guitars showing up here and there in the songs. I really like the instrumental "The Main Monkey Business", although I think the complexity of the song is overblown a bit. It has its moments, but I didn't hear anything that made me go, "holy shit, how did they do that?". I like how they "stop" twice in the song and then pick it up again - kind of a fun twist. I don't think crowds will "sing" along to it like the Rio crowd did to "YYZ" but it's has that one part that just makes me "groove". "Hope" is OK - I'm wondering if Alex will play this after Neil's solo to give him a chance to rest. "Malignant Narcissism" is OK - as long as you know that the song was pretty much written off the cuff in the studio after Geddy starting futzing with a fretless bass you can forgive them for this bit of narcissism :). "Armor and Sword" has a good, somber feel to it. The mix is far better than "Vapor Trails" - it sounds much cleaner.
+
+The songs feel a little repetitive, but, really, it's not that repetitive. The playing feels a bit looser than their other CDs. I don't mind that; it's just not as tight as their previous works. Some of the songs go in directions that I'm not sure if I agree with. "Armor and Sword" has a great start...and then around 3:50 it goes into dissonant-sounding territory that really doesn't seem to fit the first 1/2 of the song. It eventually comes back to the main feel of the song, but my personal choice would've been to not do what they did there. Then again, they're the ones making the big CDs, not me!
+
+I'm probably going to be listening to this all day. This is definitely not the Rush of old, in that the songs don't have these huge, intricate complicated time changes, or complex keyboard sequences. But that's OK. I don't want Rush to repeat themselves. I'd hate it if they tried to write "Tom Sawyer II", or "The Spirit of the Radio in the 21st Century" or "Roll the Bones ... Again." This really isn't them being full-out hard-rockers; it definitely has texture and breath. I'm a biased fan, but I think is by far one of their better efforts.
+
+> Published: 05.01.2007 08:39:08 AM CST
