@@ -626,6 +626,31 @@ I've written a number of articles from my own web site, and some that no longer 
     * [It's Just a Matter of Time](./articles/Its-Just-A-Matter-Of-Time.html) - 05.02.2007 09:00:21 AM CST
     * [Future Web Development](./articles/Future-Web-Development.html) - 05.02.2007 07:40:36 AM CST
     * ["Snakes And Arrows" - Thoughts](./articles/Snakes-And-Arrows-Thoughts.html) - 05.01.2007 08:39:08 AM CST
+    * ["Snakes And Arrows" - Thoughts](./articles/Snakes-And-Arrows-Thoughts.html) - 05.01.2007 08:39:08 AM CST
+  * April
+    * [Twin Cities Code Camp Real-Time](./articles/Twin-Cities-Code-Camp-Real-Time.html) - 04.28.2007 01:09:52 PM CST
+    * [Gas is Getting Out of Control Again](./articles/Gas-Is-Getting-Out-Of-Control-Again.html) - 04.27.2007 01:42:19 PM CST
+    * [Turning KeepAlive Off](./articles/Turning-KeepAlive-Off.html) - 04.26.2007 12:31:08 PM CST
+    * [Stressed and Excited About TCCC 2](./articles/Stressed-And-Excited-About-TCCC-2.html) - 04.26.2007 12:11:49 PM CST
+    * [Louder is Not Better](./articles/Louder-Is-Not-Better.html) - 04.26.2007 12:06:08 PM CST
+    * [What? No `BigInteger`?](./articles/What-No-BigInteger.html) - 04.25.2007 10:52:17 AM CST
+    * [An Empty XBox Gaming Experience](./articles/An-Empty-XBox-Gaming-Experience.html) - 04.25.2007 07:29:40 AM CST
+    * [581 c](./articles/581-C.html) - 04.24.2007 08:40:53 PM CST
+    * [XBox Tonight and Decks](./articles/XBox-Tonight-And-Decks.html) - 04.24.2007 02:39:12 PM CST
+    * ["The Road", by Cormac McCarthy](./articles/The-Road-By-Cormac-McCarthy.html) - 04.23.2007 08:15:49 AM CST
+    * [HTML Editing](./articles/HTML-Editing.html) - 04.23.2007 07:56:25 AM CST
+    * [The Backblog Project](./articles/The-Backblog-Project.html) - 04.22.2007 01:45:30 PM CST
+    * [Mail-in Rebates](./articles/Mail-In-Rebates.html) - 04.22.2007 01:07:40 PM CST
+    * ["Roadshow", by Neil Peart](./articles/Roadshow-By-Neil-Peart.html) - 04.19.2007 09:20:19 PM CST
+    * [RSS Bandit Woes](./articles/RSS-Bandit-Woes.html) - 04.19.2007 11:38:12 AM CST
+    * [Way Too Enterprisey](./articles/Way-Too-Enterprisey.html) - 04.16.2007 11:19:33 AM CST
+    * [Terrace at Lunch](./articles/Terrace-At-Lunch.html) - 04.12.2007 11:57:00 AM CST
+    * [When Logging Statements Bring Down the House](./articles/When-Logging-Statements-Bring-Down-The-House.html) - 04.12.2007 06:43:34 AM CST
+    * [I Hate Regions](./articles/I-Hate-Regions.html) - 04.11.2007 07:26:40 AM CST
+    * [It's a Far Cry From My House](./articles/Its-A-Far-Cry-From-My-House.html) - 04.10.2007 11:57:16 AM CST
+    * [One Minor CSLA Glitch](./articles/One-Minor-CSLA-Glitch.html) - 04.10.2007 11:08:54 AM CST
+    * ["The Darkness That Comes Before"](./articles/The-Darkness-That-Comes-Before.html) - 04.07.2007 08:15:34 PM CST
+    * [I Love Floating-Point Arithmetic](./articles/I-Love-Floating-Point-Arithmetic.html) - 04.03.2007 01:11:07 PM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
