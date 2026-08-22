@@ -626,7 +626,6 @@ I've written a number of articles from my own web site, and some that no longer 
     * [It's Just a Matter of Time](./articles/Its-Just-A-Matter-Of-Time.html) - 05.02.2007 09:00:21 AM CST
     * [Future Web Development](./articles/Future-Web-Development.html) - 05.02.2007 07:40:36 AM CST
     * ["Snakes And Arrows" - Thoughts](./articles/Snakes-And-Arrows-Thoughts.html) - 05.01.2007 08:39:08 AM CST
-    * ["Snakes And Arrows" - Thoughts](./articles/Snakes-And-Arrows-Thoughts.html) - 05.01.2007 08:39:08 AM CST
   * April
     * [Twin Cities Code Camp Real-Time](./articles/Twin-Cities-Code-Camp-Real-Time.html) - 04.28.2007 01:09:52 PM CST
     * [Gas is Getting Out of Control Again](./articles/Gas-Is-Getting-Out-Of-Control-Again.html) - 04.27.2007 01:42:19 PM CST
