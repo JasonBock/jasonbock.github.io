@@ -694,6 +694,40 @@ I've written a number of articles from my own web site, and some that no longer 
     * [I Got the Pictures!](./articles/I-Got-The-Pictures.html) - 02.02.2007 08:12:53 PM CST
     * [Saying Goodbye to HTML + CSS + JavaScript](./articles/Saying-Goodbye-To-HTML-CSS-JavaScript.html) - 02.01.2007 08:16:21 PM CST
     * [Where Can I Sign Up?](./articles/Where-Can-I-Sign-Up.html) - 02.01.2007 07:36:21 AM CST
+  * January
+    * [MockHttpContext for 2.0](./articles/MockHttpContext-For-2-0.html) - 01.30.2007 06:56:12 PM CST
+    * [Lyric Recall](./articles/Lyric-Recall.html) - 01.30.2007 12:29:50 PM CST
+    * [This Should Surprise You](./articles/This-Should-Surprise-You.html) - 01.29.2007 07:51:19 AM CST
+    * [Zune!](./articles/Zune.html) - 01.28.2007 11:47:15 AM CST
+    * ["Go To Definition" in Intellisense](./articles/Go-To-Definition-In-Intellisense.html) - 01.26.2007 12:55:09 PM CST
+    * [CodeAnalysis and Automatic Resolution](./articles/CodeAnalysis-And-Automatic-Resolution.html) - 01.26.2007 12:44:42 PM CST
+    * [F# Twisted My Mind Into a Klein Bottle](./articles/FSharp-Twisted-My-Mind-Into-A-Klein-Bottle.html) - 01.25.2007 09:23:57 PM CST
+    * [Value Types and Null](./articles/Value-Types-And-Null.html) - 01.25.2007 08:24:45 AM CST
+    * ["United 93" Is Not Nominated for Best Picture](./articles/United-93-Is-Not-Nominated-For-Best-Picture.html) - 01.24.2007 09:04:36 PM CST
+    * [New Computer](./articles/New-Computer.html) - 01.24.2007 07:19:08 PM CST
+    * [I Did All That Just To Do This](./articles/I-Did-All-That-Just-To-Do-This.html) - 01.23.2007 11:59:15 AM CST
+    * [A Perfect Case For Compiler Extensibility](./articles/A-Perfect-Case-For-Compiler-Extensibility.html) - 01.22.2007 08:17:58 PM CST
+    * [Spectrum of Abstraction](./articles/Spectrum-Of-Abstraction.html) - 01.22.2007 08:17:58 PM CST
+    * [My First Amazon.com Order](./articles/My-First-Amazon-Com-Order.html) - 01.22.2007 07:52:08 PM CST
+    * [Generics and Constraints](./articles/Generics-And-Constraints.html) - 01.22.2007 07:36:37 PM CST
+    * [WCF, Client-Side Dynamic Proxies and Configuration](./articles/WCF-Client-Side-Dynamic-Proxies-And-Configuration.html) - 01.22.2007 11:59:31 AM CST
+    * [WCF and "Open" Operation Request](./articles/WCF-And-Open-Operation-Request.html) - 01.22.2007 07:06:54 AM CST
+    * [WCF, NetMsmqBinding, and "The signature is invalid"](./articles/WCF-NetMsmqBinding-And-The-Signature-Is-Invalid.html) - 01.19.2007 01:22:59 PM CST
+    * [Diving Into WCF](./articles/Diving-Into-WCF.html) - 01.19.2007 07:40:21 AM CST
+    * [An Unexpected Vacation](./articles/An-Unexpected-Vacation.html) - 01.19.2007 06:14:54 AM CST
+    * ["24": Day 6, First Four Hours](./articles/24-Day-6-First-Four-Hours.html) - 01.18.2007 06:25:36 AM CST
+    * [Sometimes, Log Files Are Helpful](./articles/Sometimes-Log-Files-Are-Helpful.html) - 01.17.2007 11:29:42 AM CST
+    * [Beyond Low](./articles/Beyond-Low.html) - 01.15.2007 07:54:22 AM CST
+    * [Blown Away by F#](./articles/Blown-Away-By-FSharp.html) - 01.12.2007 01:59:03 PM CST
+    * [The First Language to Support Generics](./articles/The-First-Language-To-Support-Generics.html) - 01.10.2007 08:25:12 AM CST
+    * [What Now?](./articles/What-Now.html) - 01.10.2007 07:18:24 AM CST
+    * [Back to Work](./articles/Back-To-Work-2007.html) - 01.08.2007 07:01:40 AM CST
+    * ["The Descent"](./articles/The-Descent.html) - 01.06.2007 10:20:06 AM CST
+    * [Tomorrow Morning == Freedom!](./articles/Tomorrow-Morning-Freedom.html) - 01.05.2007 07:51:07 PM CST
+    * [I'm Excited Because ...](./articles/Im-Excited-Because.html) - 01.05.2007 07:33:17 PM CST
+    * [Late-Night Observations](./articles/Late-Night-Observations.html) - 01.04.2007 07:09:48 PM CST
+    * [XNA Market: Little Kid Games](./articles/XNA-Market-Little-Kid-Games.html) - 01.02.2007 10:56:30 AM CST
+    * [Big Breakthrough With My Dynamic Proxies](./articles/Big-Breakthrough-With-My-Dynamic-Proxies.html) - 01.01.2007 07:20:56 PM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
