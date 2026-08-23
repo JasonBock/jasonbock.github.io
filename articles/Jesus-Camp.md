@@ -1,0 +1,15 @@
+---
+title: "Jesus Camp"
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# "Jesus Camp"
+
+I haven't seen this documentary yet, but seeing some of the clips on YouTube make me shudder. These clips are really freaky. I didn't go to bible camps or anything like that when I was younger, but I was an evangelical for a while in my life, and seeing these clips ... man, I can't believe I was kind of like that for a while in my life.
+
+Being a parent, I know that I'll have to let my kid(s) make their own choices in life (I wish my dad was around now, because I would've like to ask him what he thought of me when I a fundie - I'm sure his response would've made me laugh :) ). But ... damn, it would be so hard seeing Hayden or Ryan throw away their brain and beg God to help them throw a bowling ball down the lane. Even now, I ask Hayden, "what makes you smart? Where's you brain?" and he points at the top of his head. I want him to be proud of learning and using something that is so essential to humanity. I truly hope he doesn't go down the path his dad went down for a while, but I really hope I'll let him walk it if that's his choice, rather than forcing him to view the world the way I want him to. The kids in this video ... it's truly sad to see where their mind is.
+
+On a somewhat related note ... I went to church last week. I know, SHOCK, GASP, HORROR! But I did it because Liz needed to get some painting done in Hayden's new room, so I took him to the child care room at the church she goes to, and I sat in the service. It was so weird, because I couldn't even use the time to meditate. I still think that churches usually have a good sense of community, and Liz's definitely has that. The people there are truly nice, and she's part of the art group that does a yearly "art crawl", where people walk through the church and people in the art group tell the people the history and meanings behind the works (which I found really interesting...and, well, they were also serving wine so that kind of helped :) ). But when I sat in the service, I simply couldn't connect. The priest in all of his robes - it seemed so foreign to me. The repetition of the service - it has no meaning to me. And it's not a catholic thing either; just because an evangelical church would have contemporary music and a pastor who's wearning "normal" clothes, that would help the connection in any way. I understand the sense of connecting with a community, but I couldn't do it in the service. I'd much rather see Dawkins talk :).
+
+> Published: 11.03.2006 07:09:31 PM CST

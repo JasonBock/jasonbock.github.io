@@ -742,5 +742,25 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Making By-ref and Array Types ... Easily!](./articles/Making-By-Ref-And-Array-Types-Easily.html) - 12.05.2006 08:32:13 PM CST
     * [Forwards and Backwards, CSLA, and Soviet Venus Pictures](./articles/Forwards-And-Backwards-CSLA-And-Soviet-Venus-Pictures.html) - 12.05.2006 08:21:27 PM CST
     * [What Does the Strict Keyword in IL Mean?](./articles/What-Does-The-Strict-Keyword-In-IL-Mean.html) - 12.02.2006 06:24:22 PM CST
+  * November
+    * [TestContext Property](./articles/TestContext-Property.html) - 11.29.2006 11:18:22 AM CST
+    * [Stressful Day](./articles/Stressful-Day.html) - 11.28.2006 07:01:07 PM CST
+    * [Finished "Splinter Cell: Double Agent"](./articles/Finished-Splinter-Cell-Double-Agent.html) - 11.26.2006 09:18:06 PM CST
+    * ["Did You Hear That So-And-So is Gay?!" ... WHO CARES!](./articles/Did-You-Hear-That-So-And-So-IsGay-Who-Cares.html) - 11.22.2006 02:59:18 PM CST
+    * [Getting My Butt Kicked By Code](./articles/Getting-My-Butt-Kicked-By-Code.html) - 11.19.2006 02:08:39 PM CST
+    * [Who's There?](./articles/Whos-There.html) - 11.16.2006 06:20:54 AM CST
+    * [Checking Cory's Claim](./articles/Checking-Corys-Claim.html) - 11.15.2006 09:10:45 AM CST
+    * [`XPathNavigator` and the `xmlns` Namspace](./articles/XPathNavigator-And-The-Xmlns-Namspace.html) - 11.08.2006 01:40:04 PM CST
+    * [Hollow Victory](./articles/Hollow-Victory.html) - 11.08.2006 06:46:06 AM CST
+    * [Feeling Better](./articles/Feeling-Better.html) - 11.07.2006 09:01:44 PM CST
+    * [Voting](./articles/Voting.html) - 11.07.2006 06:09:45 PM CST
+    * [I Don't Like Days Like This](./articles/I-Dont-Like-Days-Like-This.html) - 11.06.2006 10:40:22 AM CST
+    * [Haggard's Official Resignation Letter to the Church](./articles/Haggards-Official-Resignation-Letter-To-The-Church.html) - 11.05.2006 08:48:58 PM CST
+    * [Haggard is Gone](./articles/Haggard-Is-Gone.html) - 11.05.2006 08:26:39 PM CST
+    * ["The Inside Man"](./articles/The-Inside-Man.html) - 11.05.2006 06:32:49 PM CST
+    * [Professional .NET Framework 2.0](./articles/Professional-DotNET-Framework-2-0.html) - 11.05.2006 06:26:30 PM CST
+    * ["Jesus Camp"](./articles/Jesus-Camp.html) - 11.03.2006 07:09:31 PM CST
+    * [The Haggard Story: PZ Nails It](./articles/The-Haggard-Story-PZ-Nails-It.html) - 11.03.2006 08:19:45 AM CST
+    * [QuickCounters](./articles/QuickCounters.html) - 11.02.2006 07:28:21 PM CST
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
