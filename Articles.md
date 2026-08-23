@@ -729,5 +729,18 @@ I've written a number of articles from my own web site, and some that no longer 
     * [XNA Market: Little Kid Games](./articles/XNA-Market-Little-Kid-Games.html) - 01.02.2007 10:56:30 AM CST
     * [Big Breakthrough With My Dynamic Proxies](./articles/Big-Breakthrough-With-My-Dynamic-Proxies.html) - 01.01.2007 07:20:56 PM CST
 * 2006
+  * December
+    * [I Didn't Make It](./articles/I-Didnt-Make-It.html) - 12.21.2006 08:55:32 PM CST
+    * [Back From The Dead ... Sort Of ...](./articles/Back-From-The-Dead-Sort-Of.html) - 12.17.2006 07:20:08 PM CST
+    * [My Great Big Ball of Stress](./articles/My-Great-Big-Ball-Of-Stress.html) - 12.14.2006 08:33:14 PM CST
+    * ["Traveling Music", by Neil Peart](./articles/Traveling-Music-By-Neil-Peart.html) - 12.12.2006 04:37:16 PM CST
+    * [Negative Null is a Nullable Int](./articles/Negative-Null-Is-A-Nullable-Int.html) - 12.12.2006 12:31:35 PM CST
+    * [Hayden's Sick](./articles/Haydens-Sick.html) - 12.12.2006 04:24:21 AM CST
+    * [Concurrent Programming Talk](./articles/Concurrent-Programming-Talk.html) - 12.11.2006 10:35:43 AM CST
+    * [Web Site Kudos](./articles/Web-Site-Kudos.html) - 12.07.2006 09:44:24 AM CST
+    * [`MethodBuilder` and `GetParameters` ... ARGH!](./articles/MethodBuilder-And-GetParameters-Argh.html) - 12.06.2006 02:13:03 PM CST
+    * [Making By-ref and Array Types ... Easily!](./articles/Making-By-Ref-And-Array-Types-Easily.html) - 12.05.2006 08:32:13 PM CST
+    * [Forwards and Backwards, CSLA, and Soviet Venus Pictures](./articles/Forwards-And-Backwards-CSLA-And-Soviet-Venus-Pictures.html) - 12.05.2006 08:21:27 PM CST
+    * [What Does the Strict Keyword in IL Mean?](./articles/What-Does-The-Strict-Keyword-In-IL-Mean.html) - 12.02.2006 06:24:22 PM CST
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
