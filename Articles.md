@@ -762,5 +762,23 @@ I've written a number of articles from my own web site, and some that no longer 
     * ["Jesus Camp"](./articles/Jesus-Camp.html) - 11.03.2006 07:09:31 PM CST
     * [The Haggard Story: PZ Nails It](./articles/The-Haggard-Story-PZ-Nails-It.html) - 11.03.2006 08:19:45 AM CST
     * [QuickCounters](./articles/QuickCounters.html) - 11.02.2006 07:28:21 PM CST
+  * October
+    * [Finished The Gig](./articles/Finished-The-Gig.html) - 10.28.2006 10:17:07 AM CST
+    * [Fun PEVerify Errors](./articles/Fun-PEVerify-Errors.html) - 10.27.2006 09:40:01 PM CST
+    * [Reflection Bug in .NET 2.0? By-Ref Generic Arguments Are Not Reported As a Generic Argument](./articles/Reflection-Bug-In-DotNET-2-0-By-Ref-Generic-Arguments-Are-Not-Reported-As-A-Generic-Argument.html) - 10.26.2006 08:46:17 PM CST
+    * [One Little (Dynamic Proxy) Victory](./articles/One-Little-Dynamic-Proxy-Victory.html) - 10.25.2006 10:22:18 PM CST
+    * [callvirt.net - Did You Notice?](./articles/Callvirt-Dot-Net-Did-You-Notice.html) - 10.25.2006 10:10:17 PM CST
+    * [On-The-Fly Assembly Modification](./articles/On-The-Fly-Assembly-Modification.html) - 10.25.2006 06:51:43 PM CST
+    * ["The Sword of Angels"](./articles/The-Sword-Of-Angels.html) - 10.22.2006 08:42:42 PM CST
+    * [Explain This Class Design To Me](./articles/Explain-This-Class-Design-To-Me.html) - 10.12.2006 01:59:17 PM CST
+    * [Pete's Express VB Book](./articles/Petes-Express-VB-Book.html) - 10.11.2006 07:42:50 PM CST
+    * [Bizarre, Yet Interesting, Decompiled C# Code in Reflector](./articles/Bizarre-Yet-Interesting-Decompiled-CSharp-Code-In-Reflector.html) - 10.11.2006 10:45:56 AM CST
+    * [Cool Use of Attributes in NCover](./articles/Cool-Use-Of-Attributes-In-NCover.html) - 10.09.2006 09:58:24 AM CST
+    * [I'm Getting Old](./articles/Im-Getting-Old.html) - 10.09.2006 06:51:23 AM CST
+    * [Know Thy Competitors](./articles/Know-Thy-Competitors.html) - 10.06.2006 01:21:14 PM CST
+    * [PythonEngine and Standard Output - Solved](./articles/PythonEngine-And-Standard-Output-Solved.html) - 10.06.2006 11:41:14 AM CST
+    * [PythonEngine and Reading the Output](./articles/PythonEngine-And-Reading-The-Output.html) - 10.06.2006 11:27:21 AM CST
+    * [Ah, the Fall TV Season](./articles/Ah-The-Fall-TV-Season.html) - 10.05.2006 10:42:03 AM CST
+    * [Commercial Assembly Throws `System.Exception` All The Time](./articles/Commercial-Assembly-Throws-System-Exception-All-The-Time.html) - 10.03.2006 11:05:37 AM CST
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
