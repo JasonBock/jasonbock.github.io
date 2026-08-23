@@ -676,6 +676,24 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Cash?](./articles/Cash.html) - 03.05.2007 10:46:34 AM CST
     * [Annoying VS 2005 Test View Issue](./articles/Annoying-VS-2005-Test-View-Issue.html) - 03.02.2007 07:38:46 AM CST
     * [How To Program ... In That Order](./articles/How-To-Program-In-That-Order.html) - 03.01.2007 07:12:27 AM CST
+  * February  
+    * [Gearing Up](./articles/Gearing-Up.html) - 02.27.2007 12:37:03 PM CST
+    * [A Popular MP3?](./articles/A-Popular-MP3.html) - 02.27.2007 11:56:32 AM CST
+    * [Javascript + Web: A Love/Hate Relationship](./articles/Javascript-Web-A-Love-Hate-Relationship.html) - 02.23.2007 08:36:11 PM CST
+    * [The Kids](./articles/The-Kids.html) - 02.21.2007 06:36:01 AM CST
+    * [Why Did I Ever Become a Christian?](./articles/Why-Did-I-Ever-Become-A-Christian.html) - 02.19.2007 01:15:05 PM CST
+    * [Mock `HttpContext` and `MapPath`](./articles/Mock-HttpContext-And-MapPath.html) - 02.19.2007 07:38:21 AM CST
+    * [Wow, msdn.microsoft.com Gives a YSOD?](./articles/Wow-Msdn-Microsoft-Com-Gives-A-YSOD.html) - 02.18.2007 02:34:15 PM CST
+    * ["The Relation of My Imprisonment", by Russell Banks](./articles/The-Relation-Of-My-Imprisonment-By-Russell-Banks.html) - 02.16.2007 07:59:12 PM CST
+    * [Speaking of Rush ...](./articles/Speaking-Of-Rush.html) - 02.16.2007 02:09:07 PM CST
+    * [MSTest and `TestContext`](./articles/MSTest-And-TestContext.html) - 02.16.2007 08:29:52 AM CST
+    * [Playa Del Carmen Pictures](./articles/Playa-Del-Carmen-Pictures.html) - 02.14.2007 07:31:22 PM CST
+    * [Rush: "Snakes and Arrows" - WOOT!!!!](./articles/Rush-Snakes-And-Arrows-Woot.html) - 02.14.2007 07:16:11 PM CST
+    * [Insidious Testing Bug](./articles/Insidious-Testing-Bug.html) - 02.06.2007 01:37:34 PM CST
+    * [New Coding Idea, and Ripping Music](./articles/New-Coding-Idea-And-Ripping-Music.html) - 02.02.2007 09:36:41 PM CST
+    * [I Got the Pictures!](./articles/I-Got-The-Pictures.html) - 02.02.2007 08:12:53 PM CST
+    * [Saying Goodbye to HTML + CSS + JavaScript](./articles/Saying-Goodbye-To-HTML-CSS-JavaScript.html) - 02.01.2007 08:16:21 PM CST
+    * [Where Can I Sign Up?](./articles/Where-Can-I-Sign-Up.html) - 02.01.2007 07:36:21 AM CST
 * 2006
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
