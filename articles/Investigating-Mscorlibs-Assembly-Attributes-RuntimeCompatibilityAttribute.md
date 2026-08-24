@@ -39,11 +39,11 @@ In try block...
 
 At this point, the application acts like it was compiled in 1.1 in that it stops. But it doesn't show the debugging services window; I get the following window:
 
-![WrapNonExceptionThrows to False](https://jasonbock.net/images/RuntimeCompatibilityAttribute-1.png "WrapNonExceptionThrows to False")
+![WrapNonExceptionThrows to False](https://jasonbock.net/images/RuntimeCompatiabilityAttribute-1.png "WrapNonExceptionThrows to False")
 
 If I select the *Close* button, the application pauses for a while, and then I get the following window:
 
-![WrapNonExceptionThrows to False](https://jasonbock.net/images/RuntimeCompatibilityAttribute-2.png "WrapNonExceptionThrows to False")
+![WrapNonExceptionThrows to False](https://jasonbock.net/images/RuntimeCompatiabilityAttribute-2.png "WrapNonExceptionThrows to False")
 
 When I select the *OK* button, the application finally stops with this final output to the console:
 
