@@ -780,5 +780,29 @@ I've written a number of articles from my own web site, and some that no longer 
     * [PythonEngine and Reading the Output](./articles/PythonEngine-And-Reading-The-Output.html) - 10.06.2006 11:27:21 AM CST
     * [Ah, the Fall TV Season](./articles/Ah-The-Fall-TV-Season.html) - 10.05.2006 10:42:03 AM CST
     * [Commercial Assembly Throws `System.Exception` All The Time](./articles/Commercial-Assembly-Throws-System-Exception-All-The-Time.html) - 10.03.2006 11:05:37 AM CST
+  * September
+    * [Giving Up on IronPython Visual Studio Integration](./articles/Giving-Up-On-IronPython-Visual-Studio-Integration.html) - 09.29.2006 08:52:44 AM CST
+    * [IronPython Visual Studio Integration - One Problem Solved](./articles/IronPython-Visual-Studio-Integration-One-Problem-Solved.html) - 09.28.2006 09:02:06 AM CST
+    * [IronPython Visual Studio Integration Woes](./articles/IronPython-Visual-Studio-Integration-Woes.html) - 09.28.2006 08:24:44 AM CST
+    * [More Spec# Fun](./articles/More-SpecSharp-Fun.html) - 09.27.2006 08:39:34 AM CST
+    * [Ruby](./articles/Ruby.html) - 09.26.2006 08:39:05 AM CST
+    * [Nice Weekend](./articles/Nice-Weekend.html) - 09.25.2006 07:02:19 PM CST
+    * [Initial Spec# Observations](./articles/Initial-SpecSharp-Observations.html) - 09.21.2006 08:22:48 AM CST
+    * [Grooving on Asynchronous Events](./articles/Grooving-On-Asynchronous-Events.html) - 09.18.2006 01:18:21 PM CST
+    * ["United 93"](./articles/United-93.html) - 09.15.2006 09:18:30 PM CST
+    * [Pete's Statement](./articles/Petes-Statement.html) - 09.14.2006 08:24:34 PM CST
+    * [I Know I'm Biased, But ...](./articles/I-Know-Im-Biased-But.html) - 09.14.2006 08:07:00 PM CST
+    * [It's All About Concurrency](./articles/Its-All-About-Concurrency.html) - 09.13.2006 09:44:02 AM CST
+    * [Sealing Overriden Virtual Methods](./articles/Sealing-Overriden-Virtual-Methods.html) - 09.10.2006 07:47:31 PM CST
+    * [Anybody Want Some Firewood](./articles/Anybody-Want-Some-Firewood.html) - 09.10.2006 07:42:41 PM CST
+  * August
+    * [Pluto's Demotion](./articles/Plutos-Demotion.html) - 08.24.2006 08:34:21 AM CST
+    * [Funny Bumper Sticker](./articles/Funny-Bumper-Sticker.html) - 08.24.2006 06:35:38 AM CST
+    * [Stop Being Lazy](./articles/Stop-Being-Lazy.html) - 08.18.2006 08:30:45 AM CST
+    * [Wanting a Girl](./articles/Wanting-A-Girl.html) - 08.16.2006 06:44:53 AM CST
+    * [Erlang and Message Passing](./articles/Erlang-And-Message-Passing.html) - 08.14.2006 09:20:58 PM CST
+    * [Coding?](./articles/Coding.html) - 08.08.2006 08:22:30 PM CST
+    * [A New Gig](./articles/A-New-Gig.html) - 08.07.2006 07:42:25 PM CST
+    * [A Consultant's Prayer](./articles/A-Consultants-Prayer.html) - 08.01.2006 09:45:35 AM CST
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST
