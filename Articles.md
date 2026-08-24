@@ -841,3 +841,36 @@ I've written a number of articles from my own web site, and some that no longer 
     * [HttpApplication, Events, and Session State](./articles/HttpApplication-Events-And-Session-State.html) - 06.09.2006 07:28:22 AM CST
     * [Personal Motivational Posters](./articles/Personal-Motivational-Posters.html) - 06.04.2006 09:31:05 AM CST
     * [Join the Cause - Let VB6 Die!](./articles/Join-The-Cause-Let-VB6-Die.html) - 06.01.2006 08:22:06 PM CST
+  * May
+    * [Open To Alternative Languages](./articles/Open-To-Alternative-Languages.html) - 05.29.2006 07:49:29 AM CST
+    * [When Null Isn't Null](./articles/Open-To-Alternative-Languages.html) - 05.26.2006 12:12:03 PM CST
+    * [Yes, Sealed Can Suck. So What?](./articles/Yes-Sealed-Can-Suck-So-What.html) - 05.26.2006 12:12:03 PM CST
+    * [Reviewing a Book](./articles/Reviewing-A-Book.html) - 05.25.2006 10:18:19 AM CST
+    * ["Lost" Season Finale](./articles/Lost-Season-Finale.html) - 05.25.2006 09:17:06 AM CST
+    * [JSON Bridges](./articles/JSON-Bridges.html) - 05.24.2006 09:13:29 PM CST
+    * [Hey! Keep Your Debugger Outta My Code!!](./articles/Hey-Keep-Your-Debugger-Outta-My-Code.html) - 05.23.2006 10:49:23 AM CST
+    * [This Feels Like Cheating](./articles/Hey-Keep-Your-Debugger-Outta-My-Code.html) - 05.19.2006 07:00:54 AM CST
+    * [The Simpsons and Evolution](./articles/The-Simpsons-And-Evolution.html) - 05.15.2006 06:28:17 PM CST
+    * [I Love Surprising Liz](./articles/I-Love-Surprising-Liz.html) - 05.15.2006 07:18:00 AM CST
+    * [Halo3 Mulitplayer Game Types](./articles/Halo3-Mulitplayer-Game-Types.html) - 05.12.2006 09:34:06 AM CST
+    * [The Annoying "Invalid postback or callback argument" Exception](./articles/The-Annoying-Invalid-Postback-Or-Callback-Argument-Exception.html) - 05.12.2006 06:51:59 AM CST
+    * [I'm a Script Kiddie](./articles/Im-A-Script-Kiddie.html) - 05.06.2006 07:25:08 AM CST
+    * [The icls.net Scam](./articles/The-IclsDotNet-Scam.html) - 05.02.2006 03:46:09 PM CST
+  * April
+    * [Microsoft's Assembly Key File](./articles/Microsofts-Assembly-Key-File.html) - 04.28.2006 02:02:24 PM CST
+    * [Quixo Improvements](./articles/Quixo-Improvements.html) - 04.27.2006 09:10:55 PM CST
+    * [Painted Into a Corner By Generics](./articles/Painted-Into-A-Corner-By-Generics.html) - 04.27.2006 12:55:52 PM CST
+    * [TryParse Inconsistencies](./articles/TryParse-Inconsistencies.html) - 04.26.2006 07:58:57 PM CST
+    * [So What's Next?](./articles/So-Whats-Next.html) - 04.23.2006 08:06:48 AM CST
+    * ["Rush: Chemistry", by Jon Collins](./articles/Rush-Chemistry-By-Jon-Collins.html) - 04.22.2006 08:16:29 PM CST
+    * [PGR3 Tourney Status: Getting Closer](./articles/PGR3-Tourney-Status-Getting-Closer.html) - 04.22.2006 01:54:02 PM CST
+    * [Stupidity at BestBuy](./articles/Stupidity-At-BestBuy.html) - 04.22.2006 07:43:17 AM CST
+    * [PGR3 Tourney: Even Closer](./articles/PGR3-Tourney-Even-Closer.html) - 04.22.2006 07:43:17 AM CST
+    * [Easter Madness](./articles/Easter-Madness.html) - 04.22.2006 07:34:55 AM CST
+    * [Great Article on Event Handling in Javascript](./articles/Great-Article-On-Event-Handling-In-Javascript.html) - 04.13.2006 01:10:07 PM CST
+    * ["Operation: Mindcrime II", by Queensryche](./articles/Operation-Mindcrime-II-By-Queensryche.html) - 04.12.2006 09:44:33 PM CST
+    * ["Under the Skin", by Michel Faber](./articles/Under-The-Skin-By-Michel-Faber.html) - 04.12.2006 09:32:31 PM CST
+    * [This Feels Like Cheating](./articles/This-Feels-Like-Cheating.html) - 04.11.2006 07:17:45 PM CST
+    * [My Source of Spiritual Inspiration ... And Noodly Goodness](./articles/My-Source-Of-Spiritual-Inspiration-And-Noodly-Goodness.html) - 04.08.2006 08:46:50 AM CST
+    * [Do You Want To Continue With Replace All? Sure! ... Wait!!!](./articles/Do-You-Want-To-Continue-With-Replace-All-Sure-Wait.html) - 04.02.2006 07:21:44 PM CST
+    * [Matches](./articles/Matches.html) - 04.02.2006 12:15:14 PM CST
