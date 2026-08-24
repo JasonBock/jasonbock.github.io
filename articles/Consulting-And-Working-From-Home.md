@@ -1,0 +1,13 @@
+---
+title: Consulting and Working From Home
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# Consulting and Working From Home
+
+From what I've heard it sounds like the Twin Cities area got a fair amount of snow this week, enough to make commutes pretty bad. I'm glad I was in training, because I really hate having to travel into work for 2 hours and then 2 hours home for something I could do from home if needed. See, as a consultant I've usually found it "impossible" (i.e. no clear answer, get the runaround from the client, etc.) when I mention working from home to the client. I've only been able to done it once because the client was in CA and they let me work from home every other week, which was really nice. When I work for clients in the Twin Cities it usually doesn't make sense to stay at home, but when the roads are so bad that it takes hours instead of minutes to get in (and risk getting into an accident due to bad road conditions) ... that's when it bugs me. Why is this? Why do I have to fight bad roads just to pound away at a keyboard, which is something I could easily do at home once in a while? It's always odd to me when the client is loathe to give me VPN access, saying it's some "security risk", but they don't have a problem giving me that **same, exact** access to a computer in the office. I'm a professional - I'm not going to lurk around the network, spreading evil, nasty viruses to everyone's computer from home. I'm getting paid to do a job as best as I can, whether it's at the office or at home. To be honest, I'd rather work from home as I find there to be less distractions, even with a wife and a kid around (and I have no problem keeping myself away from the 360 when I bill because ... well, that's billing time - duh!). I doubt I'll ever get that kind of a job, but it would be nice to have that option when needed.
+
+I also wonder what companies would do if we were faced with some kind of flu pandemic where employees would **have** to stay at home. I wonder what I'd have to do in that case. Well, I **know** what I'd do in that case, but I doubt companies in general are really thinking about that, be it FTEs or consultants.
+
+> Published: 03.16.2006 09:21:03 PM CST

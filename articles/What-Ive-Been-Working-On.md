@@ -1,0 +1,13 @@
+---
+title: What I've Been Working On
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# What I've Been Working On
+
+All you have to do to see what I'm working on is to go [here](https://marketwatch.com) and click on the big link that shows up underneath the tabs. Here's an example of one of the news stories rendered with our code. Basically, we replaced their old ASP page that rendered all of their news stories with a new page written in ASP.NET 2.0 with a lot of cool bells and whistles going on underneath the scenes. We've been slowly redirecting traffic away from their old ASP page this week and today we opened the firehose by redirecting everything to story.aspx. It doesn't sound like much - a whole web application based around one web page. But this page has a bunch of cool things going on with it. Lots of asynchronous calls to web services which minimizes thread pressure and page execution times. A big emphasis on CSS and "no table" design as much as possible. URL "hacking" and rewriting. Some AJAX here and there (yep, had to throw that buzzword of an acryonym out there). Integration with their LiveQuotes engine (the thing that updates the quotes on the page when they change). It's been a lot of fun, somewhat stressful this week, but overall I've learned a lot of new things, and, as always, I've learned what to avoid and/or not do in the future. There's room for improvement in the underlying code base, but, hell, that's the case with any project I'm on - I always want to improve the code.
+
+So ... what's next? Well, I was extended at the client until the end of August. I'm not sure what I'm working on next, but I'm glad I got extended through the summer. After August ... well, we'll see, but by that point I'd be with them for over 16 months. One of the aspects I like about being a consultant is that I'm usually not at the same place for more than a year - 18 months has been the longest I've ever been at a client. I like moving around - it's a challenge to learn both the technical and social/cultural landscapes of a new client, and I enjoy it. The latest client has been a positive experience, so I'll keep contributing as much as I can for the next 6 months and we'll see what happens.
+
+> Published: 02.10.2006 09:19:34 PM CST

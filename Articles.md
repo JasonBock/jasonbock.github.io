@@ -874,3 +874,40 @@ I've written a number of articles from my own web site, and some that no longer 
     * [My Source of Spiritual Inspiration ... And Noodly Goodness](./articles/My-Source-Of-Spiritual-Inspiration-And-Noodly-Goodness.html) - 04.08.2006 08:46:50 AM CST
     * [Do You Want To Continue With Replace All? Sure! ... Wait!!!](./articles/Do-You-Want-To-Continue-With-Replace-All-Sure-Wait.html) - 04.02.2006 07:21:44 PM CST
     * [Matches](./articles/Matches.html) - 04.02.2006 12:15:14 PM CST
+  * March
+    * [PRG3 - Review](./articles/PRG3-Review.html) - 03.26.2006 06:12:47 PM CST
+    * [Updateable Plug-Ins in .NET Applications](./articles/Updateable-Plug-Ins-In-DotNET-Applications.html) - 03.25.2006 10:22:10 AM CST
+    * ["Meta Math!", by Gregory Chaitin](./articles/Meta-Math-By-Gregory-Chaitin.html) - 03.21.2006 06:51:19 PM CST
+    * [When "Will Not" Doesn't Really Mean What You Think It Would Mean](./articles/When-Will-Not-Doesnt-Really-Mean-What-You-Think-It-Would-Mean.html) - 03.19.2006 10:00:04 AM CST
+    * [The Death of Developer Magazines (?)](./articles/The-Death-Of-Developer-Magazines.html) - 03.16.2006 09:48:57 PM CST
+    * [Consulting and Working From Home](./articles/Consulting-And-Working-From-Home.html) - 03.16.2006 09:21:03 PM CST
+    * ["Father and Son", by Larry Brown](./articles/Father-And-Son-By-Larry-Brown.html) - 03.16.2006 05:59:47 PM CST
+    * ["How We Believe", by Michael Shermer](./articles/How-We-Believe-By-Michael-Shermer.html) - 03.16.2006 03:43:05 PM CST
+    * [Differences with Reflector and ILDasm](./articles/Differences-With-Reflector-And-ILDasm.html) - 03.16.2006 02:33:08 PM CST
+    * [Reflection/Introspection APIs](./articles/Reflection-Introspection-APIs.html) - 03.16.2006 11:15:56 AM CST
+    * [Compiler Lab - Summary](./articles/Compiler-Lab-Summary.html) - 03.16.2006 09:56:16 AM CST
+    * [Compiler Lab 2006 - Day 2](./articles/Compiler-Lab-2006-Day-2.html) - 03.15.2006 01:46:35 PM CST
+    * [Hayden Eating Cake](./articles/Hayden-Eating-Cake.html) - 03.13.2006 11:31:13 PM CST
+    * [Compiler Lab 2006 - Day 1](./articles/Compiler-Lab-2006-Day-1.html) - 03.13.2006 11:28:30 PM CST
+    * [Compiler Lab 2006 - Day 0](./articles/Compiler-Lab-2006-Day-0.html) - 03.12.2006 11:14:20 PM CST
+    * [Join It, Baby!](./articles/Join-It-Baby.html) - 03.08.2006 11:42:10 AM CST
+  * February
+    * [Ah, I'm "Four Things Meme" Tagged](./articles/Ah-Im-Four-Things-Meme-Tagged.html) - 02.22.2006 09:02:58 PM CST
+    * [PGR3 In-Car View](./articles/PGR3-In-Car-View.html) - 02.21.2006 01:00:51 PM CST
+    * [Sad Commute](./articles/Sad-Commute.html) - 02.21.2006 07:41:41 AM CST
+    * [Tom Hanks and Neil Peart](./articles/Tom-Hanks-And-Neil-Peart.html) - 02.20.2006 02:41:51 PM CST
+    * [Secure Random Numbers](./articles/Secure-Random-Numbers.html) - 02.19.2006 06:07:34 PM CST
+    * [Poker Last Night](./articles/Poker-Last-Night.html) - 02.12.2006 10:05:34 AM CST
+    * [A Funny Thing Happened at the Office Today ...](./articles/A-Funny-Thing-Happened-At-The-Office-Today.html) - 02.11.2006 12:03:18 PM CST
+    * ["Broken Flowers"](./articles/Broken-Flowers.html) - 02.11.2006 09:42:44 AM CST
+    * [Bachelor Weekend](./articles/Bachelor-Weekend.html) - 02.10.2006 09:25:25 PM CST
+    * [What I've Been Working On](./articles/What-Ive-Been-Working-On.html) - 02.10.2006 09:19:34 PM CST
+    * [Timbales Are Back](./articles/Timbales-Are-Back.html) - 02.09.2006 09:33:44 PM CST
+    * [Stressful Days Make the Taskbar Funny](./articles/Stressful-Days-Make-The-Taskbar-Funny.html) - 02.09.2006 02:06:08 PM CST
+    * [What a Week](./articles/What-A-Week.html) - 02.09.2006 09:59:37 AM CST
+* 2005
+  * November
+    * [Poker Debacle](./articles/Poker-Debacle.html) - 11.12.2005 10:56:29 AM CST
+* 2004
+  * September
+    * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
