@@ -825,7 +825,7 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Oregon Vacation in Review](./articles/Oregon-Vacation-In-Review.html) - 06.27.2006 07:31:22 PM CST
     * [Rush: Replay X3](./articles/Rush-Replay-X3.html) - 06.20.2006 07:25:37 AM CST
     * [Upcoming Side Projects](./articles/Upcoming-Side-Projects.html) - 06.16.2006 03:35:16 PM CST
-    * [A Whole Lot of Common-Sense is What It Is](./articles/A-Whole-Lot-Of-Common-Sense-Is-What-It-Is..html) - 06.16.2006 10:51:27 AM CST
+    * [A Whole Lot of Common-Sense is What It Is](./articles/A-Whole-Lot-Of-Common-Sense-Is-What-It-Is.html) - 06.16.2006 10:51:27 AM CST
     * [The Universe is Open-Source](./articles/The-Universe-Is-Open-Source.html) - 06.15.2006 10:00:38 AM CST
     * [More Reasons Why Swallowing Exceptions is Not a Good Idea](./articles/More-Reasons-Why-Swallowing-Exceptions-Is-Not-A-Good-Idea.html) - 06.15.2006 08:25:54 AM CST
     * [My Homework Assignment Is ...](./articles/My-Homework-Assignment-Is.html) - 06.15.2006 06:51:15 AM CST
