@@ -905,8 +905,39 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Timbales Are Back](./articles/Timbales-Are-Back.html) - 02.09.2006 09:33:44 PM CST
     * [Stressful Days Make the Taskbar Funny](./articles/Stressful-Days-Make-The-Taskbar-Funny.html) - 02.09.2006 02:06:08 PM CST
     * [What a Week](./articles/What-A-Week.html) - 02.09.2006 09:59:37 AM CST
+  * January
+    * [New Code Pages](./articles/New-Code-Pages.html) - 01.29.2006 01:31:25 PM CST
+    * [Magenic Winter Holiday Party](./articles/Magenic-Winter-Holiday-Party.html) - 01.22.2006 02:08:27 PM CST
+    * [ExceptionMessageBox](./articles/ExceptionMessageBox.html) - 01.21.2006 10:10:40 AM CST
+    * [New Horizons Is Launched!](./articles/New-Horizons-Is-Launched.html) - 01.19.2006 01:02:17 PM CST
+    * ["Polaris", by Jack McDevitt](./articles/Polaris-By-Jack-McDevitt.html) - 01.13.2006 06:26:25 PM CST
+    * [Halo2 Crotch Shot](./articles/Halo2-Crotch-Shot.html) - 01.10.2006 10:29:13 PM CST
+    * [Behe on Cable TV!](./articles/Behe-On-Cable-TV.html) - 01.09.2006 07:58:18 PM CST
+    * [Halo2 FragFest Last Night](./articles/Halo2-FragFest-Last-Night.html) - 01.07.2006 04:46:02 PM CST
+    * [2006 Goals](./articles/2006-Goals.html) - 01.02.2006 10:58:25 AM CST
+    * [2005 Goals In Review](./articles/2005-Goals-In-Review.html) - 01.02.2006 10:39:18 AM CST
+    * ["Sound of the Beast", by Ian Christe](./articles/Sound-Of-The-Beast-By-Ian-Christe.html) - 01.02.2006 10:30:37 AM CST
 * 2005
+  * December
+    * [Christmas Fun-Joy ... Revealed!](./articles/Christmas-Fun-Joy-Revealed.html) - 12.30.2005 08:48:20 PM CST
+    * [Queensryche and Ronnie James Dio](./articles/Queensryche-And-Ronnie-James-Dio.html) - 12.18.2005 10:03:12 AM CST
+    * [Fun With JSON](./articles/Fun-With-JSON.html) - 12.15.2005 08:28:18 PM CST
+    * [Stupid Special .NET Types](./articles/Stupid-Special-DotNET-Types.html) - 12.14.2005 09:20:42 PM CST
+    * ["Fallen Dragon", by Peter Hamilton](./articles/Fallen-Dragon-By-Peter-Hamilton.html) - 12.13.2005 07:05:18 PM CST
+    * [Halo2 Saturday](./articles/Halo2-Saturday.html) - 12.11.2005 09:32:00 AM CST
+    * [Weird Task Manager Screen Shot](./articles/Weird-Task-Manager-Screen-Shot.html) - 12.08.2005 08:57:51 AM CST
+    * [XBox 360 Impressions](./articles/XBox-360-Impressions.html) - 12.06.2005 10:11:50 PM CST
+    * [Updating the Laptop](./articles/Updating-The-Laptop.html) - 12.04.2005 11:49:28 AM CST
+    * ["Batman Begins"](./articles/Batman-Begins.html) - 12.04.2005 08:47:11 AM CST
+    * [I Really Like Magenic](./articles/I-Really-Like-Magenic.html) - 12.02.2005 04:17:09 PM CST
   * November
+    * [Final PGR2 Ring Time](./articles/Final-PGR2-Ring-Time.html) - 11.27.2005 10:28:06 AM CST
+    * [The Value of Experience](./articles/The-Value-Of-Experience.html) - 11.25.2005 11:46:24 AM CST
+    * [Why Are People Stupid?](./articles/Why-Are-People-Stupid.html) - 11.24.2005 11:57:16 AM CST
+    * ["R30" Review](./articles/R30-Review.html) - 11.24.2005 10:41:47 AM CST
+    * [I Got One!](./articles/I-Got-One.html) - 11.22.2005 08:59:09 PM CST
+    * [The Lack of a CodeDom Parser](./articles/The-Lack-Of-A-CodeDom-Parser.html) - 11.20.2005 05:34:15 PM CST
+    * [The Myth of `IDisposable`](./articles/The-Myth-Of-IDisposable.html) - 11.20.2005 05:18:15 PM CST
     * [Poker Debacle](./articles/Poker-Debacle.html) - 11.12.2005 10:56:29 AM CST
 * 2004
   * September
