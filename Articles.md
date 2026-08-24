@@ -804,5 +804,21 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Coding?](./articles/Coding.html) - 08.08.2006 08:22:30 PM CST
     * [A New Gig](./articles/A-New-Gig.html) - 08.07.2006 07:42:25 PM CST
     * [A Consultant's Prayer](./articles/A-Consultants-Prayer.html) - 08.01.2006 09:45:35 AM CST
+  * July
+    * [Unit Testing Custom MSBuild Tasks](./articles/Unit-Testing-Custom-MSBuild-Tasks.html) - 07.19.2006 01:34:44 PM CST
+    * [Exception Madness](./articles/Exception-Madness.html) - 07.19.2006 12:25:51 PM CST
+    * [I'd Quit That Day ...](./articles/Id-Quit-That-Day.html) - 07.18.2006 02:01:30 PM CST
+    * [Rethrow It](./articles/Rethrow-It.html) - 07.14.2006 09:33:33 AM CST
+    * [Music Stores Are Dangerous](./articles/Music-Stores-Are-Dangerous.html) - 07.11.2006 09:04:26 PM CST
+    * [Need Big Integers or Complex Numbers in .NET? Use IronPython!](./articles/Need-Big-Integers-Or-Complex-Numbers-In-DotNET-Use-IronPython.html) - 07.11.2006 12:13:26 PM CST
+    * [Weekend Trip to WI](./articles/Weekend-Trip-To-WI.html) - 07.09.2006 07:35:31 PM CST
+    * [Type-Safe Reflection](./articles/Type-Safe-Reflection.html) - 07.07.2006 07:17:03 AM CST
+    * [This is Criticism?](./articles/This-Is-Criticism.html) - 07.05.2006 09:35:48 PM CST
+    * [Investigating mscorlib's Assembly Attributes: `RuntimeCompatibilityAttribute`](./articles/Investigating-Mscorlibs-Assembly-Attributes-RuntimeCompatibilityAttribute.html) - 07.05.2006 06:21:59 PM CST
+    * [Case-Insensitivity in VB and Web Services](./articles/Case-Insensitivity-In-VB-And-Web-Services.html) - 07.05.2006 12:48:25 PM CST
+    * [Working with VB](./articles/Working-With-VB.html) - 07.05.2006 07:50:03 AM CST
+    * [Local Fireworks Display and Weekend Trip](./articles/Local-Fireworks-Display-And-Weekend-Trip.html) - 07.05.2006 07:00:31 AM CST
+    * [Turn Me Off](./articles/Turn-Me-Off.html) - 07.04.2006 08:04:55 AM CST
+    * [Neil Peart Needs an RSS Feed](./articles/Neil-Peart-Needs-An-RSS-Feed.html) - 07.04.2006 07:50:28 AM CST
   * June
     * [Throwing Exceptions That Are Not Exceptions](./articles/Throwing-Exceptions-That-Are-Not-Exceptions.html) - 06.13.2006 07:35:56 PM CST

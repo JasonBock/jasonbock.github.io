@@ -20,6 +20,10 @@ layout: default
 
 ## Applied .NET Attributes
 
+![Applied .NET Attributes](https://jasonbock.net/images/Applied-DotNET-Attributes.png "Applied .NET Attributes")
+
+[Link](https://link.springer.com/book/10.1007/978-1-4302-0782-5)
+
 ## CIL Programming: Under the Hood of .NET
 
 ![CIL Programming: Under the Hood of .NET](https://jasonbock.net/images/CIL-Programming.png "CIL Programming: Under the Hood of .NET")
