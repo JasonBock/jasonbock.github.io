@@ -939,6 +939,14 @@ I've written a number of articles from my own web site, and some that no longer 
     * [The Lack of a CodeDom Parser](./articles/The-Lack-Of-A-CodeDom-Parser.html) - 11.20.2005 05:34:15 PM CST
     * [The Myth of `IDisposable`](./articles/The-Myth-Of-IDisposable.html) - 11.20.2005 05:18:15 PM CST
     * [Poker Debacle](./articles/Poker-Debacle.html) - 11.12.2005 10:56:29 AM CST
+    * [TODOs and Commented Code Are Evil ... Well, More Annoying Than Evil](./articles/Todos-And-Commented-Code-Are-Evil-Well-More-Annoying-Than-Evil.html) - 11.11.2005 03:12:50 PM CST
+    * [New Music](./articles/New-Music.html) - 11.10.2005 09:26:27 PM CST
+    * [I Used an Anonymous Method Today!](./articles/I-Used-An-Anonymous-Method-Today.html) - 11.10.2005 09:15:27 PM CST
+    * [Need to Add Web Services](./articles/Need-To-Add-Web-Services.html) - 11.10.2005 08:08:34 AM CST
+    * [First Pass With the New Drum Set Layout](./articles/First-Pass-With-The-New-Drum-Set-Layout.html) - 11.09.2005 12:14:21 PM CST
+    * [New Drum Layout](./articles/New-Drum-Layout.html) - 11.07.2005 07:43:24 PM CST
+    * [Sore This Morning](./articles/Sore-This-Morning.html) - 11.07.2005 07:16:06 AM CST
+    * [Interviewing the Interviewer](./articles/Interviewing-The-Interviewer.html) - 11.05.2005 09:13:30 AM CST
 * 2004
   * September
     * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST

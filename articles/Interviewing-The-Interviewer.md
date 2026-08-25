@@ -1,0 +1,15 @@
+---
+title: Interviewing the Interviewer
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# Interviewing the Interviewer
+
+One of the things I do as a consultant at Magenic is interview candidates. Over the years, I've had a couple of interesting experiences, and sometimes it's a bit frustrating when I ask what I perceive is a simple question like, "what's the difference between an object and a class?", and candidates who claims to have years of .NET experience on their resume stumble and bumble through their "answer". John recently lamented about a candidate he interviewed that didn't know how to parse a tree. Personally, I've never been a fan of asking a candidate to write code during an interview, but that's my own preference and I understand why John is a bit miffed.
+
+The one thing I've never had happen in an interview, though, is having a candidate put me through the grindstone, and the more I think about it, I wonder why candidates don't do that. I mean, what puts the future place of employment at such a high level of wonderfulness that a candidate can't try to determine if those who are interviewing him/her are full of shit or couldn't code their way through a paper bag? If the candidate was fresh out of college or had little hands-on experience, then I would find it a bit funny if a candidate tried to ask me all sorts of software development questions. But if the candidate has a lot of experience, then I would actually be suprised if the candidate didn't at least ask me some questions about the company and the level of technical prowress we need at Magenic to get the work done that we do as consultants.
+
+I always leave time at the end of the interview to let the candidate ask questions, and it's a bit of a negative towards the candidate if they don't ask any questions. I mean, if you're going to take the time to interview with a company, don't you want to try and find out as much as you can about the company before you join them and realize that it was a really bad decision? I did that myself, and it was a mistake. I have no intentions or desires to leave Magenic, but if I ever interviewed somewhere else, I'd definitely question the crap out of them to make sure it was a good fit. If they got offended, so be it - that's a clear indicator that I wouldn't want to work there. And I'd also question them to see how deep the interviewer's technical understanding of software development topics was. It could be better or worse than mine, but if they'd be giving me a dog-and-pony show and then I asked them, "what are the different ways of doing asynchronous processing in .NET?" a response of a blank stare would make me want to politely walk out of the building.
+
+> Published: 11.05.2005 09:13:30 AM CST
