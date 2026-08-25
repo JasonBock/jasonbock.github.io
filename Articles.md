@@ -986,6 +986,24 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Getting the Configuration Name for a Custom Section Handler](./articles/Getting-The-Configuration-Name-For-A-Custom-Section-Handler.html) - 09.02.2005 05:42:50 PM CST
   * August
     * [Abstract `TestFixture` Classes](./articles/Abstract-TestFixture-Classes.html) - 08.30.2005 07:24:10 PM CST
+    * [Do-Overs for Movie Sequels](./articles/Do-Overs-For-Movie-Sequels.html) - 08.23.2005 10:14:19 PM CST
+    * [Choking on a Pill](./articles/Choking-On-A-Pill.html) - 08.22.2005 12:31:16 PM CST
+    * [The Maxwells](./articles/The-Maxwells.html) - 08.21.2005 10:57:31 AM CST
+    * [Back To Work](./articles/Back-To-Work-2005.html) - 08.15.2005 10:26:42 PM CST
+    * [Golfing Dichotomy](./articles/Golfing-Dichotomy.html) - 08.14.2005 01:55:36 PM CST
+    * [Golf ... Sucked!](./articles/Golf-Sucked.html) - 08.13.2005 08:22:44 PM CST
+    * [Chaska Golfing](./articles/Chaska-Golfing.html) - 08.12.2005 08:47:14 AM CST
+    * [Dentists and Golfing and Practice](./articles/Dentists-And-Golfing-And-Practice.html) - 08.11.2005 09:31:18 AM CST
+    * [Golfing and Lightning Don't Mix](./articles/Golfing-And-Lightning-Dont-Mix.html) - 08.09.2005 07:06:16 PM CST
+    * [Drumming Skills (or Lack Thereof)](./articles/Drumming-Skills-Or-Lack-Thereof.html) - 08.09.2005 10:01:29 AM CST
+    * [The Space Shuttle - Why Bother?](./articles/The-Space-Shuttle-Why-Bother.html) - 08.09.2005 09:45:32 AM CST
+    * [Golfing Today](./articles/Golfing-Today.html) - 08.07.2005 08:33:44 PM CST
+    * [Uh, Oh ... A New Hobby?](./articles/Uh-Oh-A-New-Hobby.html) - 08.05.2005 10:08:09 AM CST
+    * [Well, What Would You Do?](./articles/Well-What-Would-You-Do.html) - 08.04.2005 12:22:00 PM CST
+    * [Where Do I Go From Here?](./articles/Where-Do-I-Go-From-Here.html) - 08.02.2005 08:37:49 PM CST
+    * [Taking Bottled Water to Task](./articles/Taking-Bottled-Water-To-Task.html) - 08.02.2005 04:24:54 PM CST
+    * [Yet More Proof That Bush is a Moron](./articles/Yet-More-Proof-That-Bush-Is-A-Moron.html) - 08.01.2005 09:38:59 PM CST
+    * [Vacation in 5 Days](./articles/Vacation-In-5-Days.html) - 08.01.2005 12:36:43 PM CST
 * 2004
   * September
     * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST

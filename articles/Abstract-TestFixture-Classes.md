@@ -34,7 +34,7 @@ public class SubClassTwo : BaseClass
 }
 ```
 
-Now, note that `BaseClass` is abstract, so you really can't run `TestMethod()` as you can't make an instance of `BaseClass`. But TestDriven.NET will actually look for concrete implementations of the abstract class and run the method from those classes [1]. In other words, when I run `TestMethod()`, this is what I see in the Output window in VS .NET:
+Now, note that `BaseClass` is `abstract`, so you really can't run `TestMethod()` as you can't make an instance of `BaseClass`. But TestDriven.NET will actually look for concrete implementations of the abstract class and run the method from those classes [1]. In other words, when I run `TestMethod()`, this is what I see in the Output window in VS .NET:
 
 ```
 ------ Test started: Assembly: Tests.dll ------
