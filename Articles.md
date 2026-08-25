@@ -947,6 +947,25 @@ I've written a number of articles from my own web site, and some that no longer 
     * [New Drum Layout](./articles/New-Drum-Layout.html) - 11.07.2005 07:43:24 PM CST
     * [Sore This Morning](./articles/Sore-This-Morning.html) - 11.07.2005 07:16:06 AM CST
     * [Interviewing the Interviewer](./articles/Interviewing-The-Interviewer.html) - 11.05.2005 09:13:30 AM CST
+  * October
+    * [Computer Fall Down Go Boom](./articles/Computer-Fall-Down-Go-Boom.html) - 10.25.2005 08:07:53 AM CST
+    * [No Constant Values?](./articles/No-Constant-Values.html) - 10.19.2005 02:18:11 PM CST
+    * [ID And Astrology](./articles/ID-And-Astrology.html) - 10.19.2005 08:26:44 AM CST
+    * [Demanding Rationality](./articles/Demanding-Rationality.html) - 10.19.2005 08:12:58 AM CST
+    * [Hardcore ID Debating Techniques](./articles/Hardcore-ID-Debating-Techniques.html) - 10.19.2005 07:38:42 AM CST
+    * [Exporting Managed Functions](./articles/Exporting-Managed-Functions.html) - 10.18.2005 08:28:35 PM CST
+    * [Evolving Design](./articles/Evolving-Design.html) - 10.18.2005 01:41:25 PM CST
+    * [Dynamic Enumeration and the `yield` Keyword](./articles/Dynamic-Enumeration-And-The-Yield-Keyword.html) - 10.16.2005 01:14:18 PM CST
+    * [Humorous Atheism Site](./articles/Humorous-Atheism-Site.html) - 10.15.2005 08:57:15 AM CST
+    * [Review: "Why do Men Have Nipples?"](./articles/Review-Why-Do-Men-Have-Nipples.html) - 10.12.2005 09:53:41 PM CST
+    * ["Life of Pi"](./articles/Life-Of-Pi.html) - 10.09.2005 08:18:38 AM CST
+    * [Putting Books Down](./articles/Putting-Books-Down.html) - 10.08.2005 10:33:09 AM CST
+    * [Floundering and Rambling](./articles/Floundering-And-Rambling.html) - 10.07.2005 08:14:18 PM CST
+    * [`InternalsVisibleToAttribute` Changes for .NET 2.0](./articles/InternalsVisibleToAttribute-Changes-For-DotNET-2-0.html) - 10.07.2005 07:47:36 AM CST
+    * [Functional Languages and .NET Mappings](./articles/Functional-Languages-And-DotNET-Mappings.html) - 10.04.2005 08:09:29 AM CST
+    * [Different Levels of Belief?](./articles/Different-Levels-Of-Belief.html) - 10.04.2005 07:45:51 AM CST
+    * [It's Just Ones and Zeros, Right?](./articles/Its-Just-Ones-And-Zeros-Right.html) - 10.02.2005 12:00:00 PM CST
+    * [My Thoughts On Behe](./articles/My-Thoughts-On-Behe.html) - 10.01.2005 09:58:17 AM CST
 * 2004
   * September
     * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
