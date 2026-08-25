@@ -966,6 +966,26 @@ I've written a number of articles from my own web site, and some that no longer 
     * [Different Levels of Belief?](./articles/Different-Levels-Of-Belief.html) - 10.04.2005 07:45:51 AM CST
     * [It's Just Ones and Zeros, Right?](./articles/Its-Just-Ones-And-Zeros-Right.html) - 10.02.2005 12:00:00 PM CST
     * [My Thoughts On Behe](./articles/My-Thoughts-On-Behe.html) - 10.01.2005 09:58:17 AM CST
+  * September
+    * [How's the Day Job?](./articles/Hows-The-Day-Job.html) - 09.27.2005 11:22:48 PM CST
+    * [Will Explicit Typing Be Eliminated in C# 3.0?](./articles/Will-Explicit-Typing-Be-Eliminated-In-CSharp-3-0.html) - 09.27.2005 02:58:21 PM CST
+    * [The Dover Case](./articles/The-Dover-Case.html) - 09.27.2005 07:36:05 AM CST
+    * [Anniversary Celebration](./articles/Anniversary-Celebration.html) - 09.25.2005 11:33:44 AM CST
+    * ["Lost" Season Premiere](./articles/Lost-Season-Premiere.html) - 09.22.2005 07:27:25 AM CST
+    * [Bringing Down the House](./articles/Bringing-Down-The-House.html) - 09.20.2005 12:09:58 PM CST
+    * [Two Comments on C# 3.0 Syntax](./articles/Two-Comments-On-CSharp-3-0-Syntax.html) - 09.14.2005 07:58:46 PM CST
+    * [C# 2.0 is Sooooo This Year](./articles/CSharp-2-0-Is-Sooooo-This-Year.html) - 09.14.2005 07:37:28 AM CST
+    * [Sql Profiler Nailed It](./articles/Sql-Profiler-Nailed-It.html) - 09.12.2005 02:50:56 PM CST
+    * [I'm Getting Old](./articles/Im-Getting-Old-2005.html) - 09.11.2005 09:00:47 AM CST
+    * [Just When I Thought the Daily WTF Couldn't Top Itself ...](./articles/Just-When-I-Thought-The-Daily-WTF-Couldnt-Top-Itself.html) - 09.11.2005 09:00:47 AM CST
+    * [Testing Windows Forms](./articles/Testing-Windows-Forms.html) - 09.09.2005 08:04:14 AM CST
+    * [I Want Intentionalsense](./articles/I-Want-Intentionalsense.html) - 09.07.2005 10:40:58 PM CST
+    * [Adding Session State to a Mock `HttpContext` Object](./articles/Adding-Session-State-To-A-Mock-HttpContext-Object.html) - 09.06.2005 09:02:49 PM CST
+    * [Don't Just Watch, Stop Me From Being an Idiot](./articles/Dont-Just-Watch-Stop-Me-From-Being-An-Idiot.html) - 09.06.2005 01:28:41 PM CST
+    * [Verifying Assemblies](./articles/Verifying-Assemblies.html) - 09.05.2005 06:05:24 PM CST
+    * [Getting the Configuration Name for a Custom Section Handler](./articles/Getting-The-Configuration-Name-For-A-Custom-Section-Handler.html) - 09.02.2005 05:42:50 PM CST
+  * August
+    * [Abstract `TestFixture` Classes](./articles/Abstract-TestFixture-Classes.html) - 08.30.2005 07:24:10 PM CST
 * 2004
   * September
     * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
