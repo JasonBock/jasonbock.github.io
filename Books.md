@@ -45,3 +45,5 @@ Over the course of my career, I've been fortunate to have the opportunity to wri
 ## Visual Basic 6 Win32 API Tutorial
 
 ![Visual Basic 6 Win32 API Tutorial](https://jasonbock.net/images/Visual-Basic-6-Win32-API-Tutorial.png "Visual Basic 6 Win32 API Tutorial")
+
+[Link](https://dl.acm.org/doi/10.5555/552692)
