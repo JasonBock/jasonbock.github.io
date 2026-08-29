@@ -1,0 +1,27 @@
+---
+title: The Persistence of Negativity
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# The Persistence of Negativity
+
+This past weekend Liz, Hayden and I went down to Wisconsin as Liz's family was throwing her a baby shower. The trip down Friday night was uneventful - both Liz and Hayden fell asleep around Rochester and it was quiet sailing from there. Saturday I went golfing with my father-in-law at Door Creek Golf Course. We played 9 holes and I shot a 48, which, given the fact that I haven't swung a club in about 9 months, I was happy with. I hit 2 really bad shots which cost me 4 strokes so the final score could have been 44, but I'm not complaining. I pared the last two holes, so I finished on a good note. It was funny to walk up to my last drive on the 9th hole, which I sent 230 yards right down the middle, and I was very happy to end that way (especially as I hit my shot about 15 feet right of the hole), but I also realized that a professional would've been right up by the green as the hole was only 315 yards long. Hey, if I hit it straight, that works for me.
+
+Saturday night was a father's day dinner with Liz's family. Being a dad for the first time it was cool to be get the other side of Father's Day. After burgers, beers, and socializing, we headed back to Liz's sister's house, where Hayden decided to pull an "Excorcist" on us and vomit profusely all over himself. Wow, was that gross, and the funny thing was that I didn't get grossed out, and for some reason I thought, "well, it will only get worse in the future." He's fine - he must've just been handled by too many people and fed too much or something.
+
+Sunday's trip back was uneventful and peaceful. Hayden slept most of the way home and we stopped at a rest stop for a while to get Hayden out of the car seat. The weather was great all weekend so it fun just to sit under a tree and relax.
+
+Unfortunately, there was one small incident that ... well, it didn't ruin my weekend, but it stuck in my mind longer than I wanted it to. Since I went golfing on Saturday Liz took Hayden with her sister to the shower. Unfortunately, her sister took off earlier than we did, and they took the bottom of the car seat with them. Now, we didn't know that you could still strap the seat down without the base, so we called them back to make sure they had the base, and then I got into the car to drive back to Madison. I wasn't happy with this, but ... oh well, drive to Madison and get back, no big deal. Well, where the shower was held (another one of Liz's sisters) there's an intersection that has only two stop signs and there's been a lot of accidents there over the years. I stopped at the sign, looked left, but when I looked right for some reason my foot slipped off the brake and someone was coming up the hill. I got my foot back on the brake in plenty of time and I waited for her to drive through. I wasn't in the intersection and I just wanted to get to Madison, so I waited for the person to drive by.
+
+Out of the corner of my eye, I noticed the van had stopped in the middle of the intersection. I thought, well, maybe they're turning, so I waited. Nope, she was just sitting there. So, finally, I looked up, and there she was, just **looking** at me with the best scowl she could muster. Couple that with the fact that she looked like the woman from "Throw Momma From the Train", and I was a little creeped out. But at the same time, I needed to get moving, so I just looked at her, waiting for her to move.
+
+Her response? She yelled (and I could clearly read her lips), "Watch what you're doing!!" Then she scowled even harder and drove off.
+
+I just sat there. Part of me wanted to drive off, but part of me wanted to floor it and follow her and yell back to her some things that I probably shouldn't publish on this blog. She drove off and turned left at the next block, but I noticed that she stopped up there. She probably noticed I was still sitting there. I have no idea what she was thinking at this point, but by that time I didn't care - I had to get to Madison. 2 blocks later Liz calls me and tells me we don't need the base, so I turn around and go back to her sister's house, ignoring the urge to turn right at the intersection and yell some obscenities at this bastard of a woman.
+
+I don't get why she decided to make a minor incident that big of a deal by **stopping in the middle of an intersection**. Years ago I was driving to work and I got trapped behind an old guy who insisted on going 25 in a 45 MPH zone. It was a curvy, one-lane road and I couldn't pass him, so I was tailing him pretty hard (not a smart move on my part). The old guy decided to teach that young whipper-snapper and he **slammed** on his brake, nearly causing me to ram into him. I stopped in time (again, realize this in on a road with traffic) and then he shook his finger at me, like, "young man, you should not drive like that!" Yeah, you old bastard, you shouldn't even be on the road either, especially since you could've cause a major accident if anyone was behind me and slammed into me.
+
+I had a good time this weekend. But it's amazing how someone's negative actions stick with you.
+
+> Published: 06.20.2005 10:14:00 AM CST

@@ -1,0 +1,15 @@
+---
+title: "The Woodsman"
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# "The Woodsman"
+
+I just finished watching "The Woodsman". Basically, Kevin Bacon plays a guy who molested children and was sent to jail for 12 years for his crimes. The movie starts with his release from prison and how he tries to make a life out of the life he has left. You can probably imagine that this is not an easy movie to watch, because you don't want to cheer for Bacon's character, nor for that matter do you end up cheering for his character either, nor does the movie even try to make him a "good" guy. Let's face it, he severely damaged the lives of a number of girls (the movie never specifies how many girls he targeted) and that's something that is not worth cheering for. But what the movie does is show him trying to come to grips with his life and making something out of it. Of course, the only apartment he can find is one that's by a school yard (outside the legal limits of how close he can be near children), and when he looks out the window he notices a man sitting in a car watching kids in the yard, and Bacon suspects this guy of trying to abduct a kid. Plus, the secretary at the place where he works in a lumberyard is quite nosy and finds out about his past, something he's trying to keep under wraps.
+
+This is not an easy movie to watch. Fact is, it's hard - **very** hard at times. I mean, we all know child molestation is wrong, but now that I'm a parent I don't know what I'd do if someone did something to Hayden. Rage doesn't cut it as the word I would feel, and death would be too easy for the criminal. But what the movie does is make you see what someone like Bacon goes through to try and redeem themselves. Not that Bacon is a saint, either. He doesn't fall back into his old pattens, but he gets dangerously close (there's a scene at the end of the movie that illustrates what I mean, and it's just creepy to watch. Yet it's sad in a way - you'd have to see the movie to understand). I'm suprised a movie like this was ever made, because the material is so tricky to deal with. But I think those involved did a good job. The actors all did great jobs with their characters. I really liked Mos Def as Sgt. Lucas - he did a great job.
+
+You probably don't want to watch this movie with the rest of the family. Fact is, you probably will wonder why anyone would want to watch a movie about a child molester as the main character at all. Sadly, the truth is that there are child molesters in this world, and seeing a movie like this makes me hope that individuals and society can find ways to prevent these acts from ever occurring in the first place. The collateral damage is far too much to bear, a point that is quietly driven home throughout the movie.
+
+> Published: 06.26.2005 12:12:53 AM CST

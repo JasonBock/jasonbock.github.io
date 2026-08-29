@@ -92,3 +92,64 @@ layout: default
   * [Taking Bottled Water to Task](./articles/Taking-Bottled-Water-To-Task.html) - 08.02.2005 04:24:54 PM CST
   * [Yet More Proof That Bush is a Moron](./articles/Yet-More-Proof-That-Bush-Is-A-Moron.html) - 08.01.2005 09:38:59 PM CST
   * [Vacation in 5 Days](./articles/Vacation-In-5-Days.html) - 08.01.2005 12:36:43 PM CST
+* July
+  * [Looking Back On ... My Guitars](./articles/Looking-Back-On-My-Guitars.html) - 07.30.2005 08:23:38 PM CST
+  * [A Potential Example of Quote Mining](./articles/A-Potential-Example-Of-Quote-Mining.html) - 07.30.2005 09:37:17 AM CST
+  * [New Names](./articles/New-Names.html) - 07.28.2005 01:27:45 PM CST
+  * [Finding the First Unique Character in a String](./articles/Finding-The-First-Unique-Character-In-A-String.html) - 07.27.2005 12:32:10 PM CST
+  * [If I Worked From Home ...](./articles/If-I-Worked-From-Home.html) - 07.27.2005 08:29:26 AM CST
+  * [Ajax? That's Old Hat](./articles/Ajax-Thats-Old-Hat.html) - 07.22.2005 08:22:59 PM CST
+  * [Interesting Neil Peart News](./articles/Interesting-Neil-Peart-News.html) - 07.18.2005 11:22:36 PM CST
+  * [Band Practice](./articles/Band-Practice.html) - 07.17.2005 02:54:52 PM CST
+  * [All Your File Remove Are Belong To Us](./articles/All-Your-File-Remove-Are-Belong-To-Us.html) - 07.14.2005 12:04:49 AM CST
+  * [Music Stores Are Dangerous](./articles/Music-Stores-Are-Dangerous-2005.html) - 07.13.2005 12:04:08 PM CST
+  * [Completely Drained](./articles/Completely-Drained.html) - 07.10.2005 10:28:44 AM CST
+  * [That Code Sucks! Wait a Minute ...](./articles/That-Code-Sucks-Wait-A-Minute.html) - 07.08.2005 10:14:02 PM CST
+  * [Scary](./articles/Scary.html) - 07.07.2005 09:16:34 AM CST
+  * [My Yearly Review](./articles/My-Yearly-Review.html) - 07.06.2005 01:27:00 PM CST
+  * [Securing Web Pages](./articles/Securing-Web-Pages.html) - 07.06.2005 11:12:57 AM CST
+  * [Shakopee's Fireworks Display](./articles/Shakopees-Fireworks-Display.html) - 07.04.2005 11:07:12 PM CST
+  * [Stretching Carpet](./articles/Stretching-Carpet.html) - 07.03.2005 01:28:41 PM CST
+  * ["War of the Worlds"](./articles/War-Of-The-Worlds.html) - 07.03.2005 12:33:59 AM CST
+* June
+  * ["Blade: Trinity" and Updating The Blog Enging](./articles/Blade-Trinity-And-Updating-The-Blog-Enging.html) - 06.27.2005 09:59:23 AM CST
+  * ["The Woodsman"](./articles/The-Woodsman.html) - 06.26.2005 12:12:53 AM CST
+  * [2005 Goals Checkpoint](./articles/2005-Goals-Checkpoint.html) - 06.20.2005 12:38:38 PM CST
+  * [2008 Can't Come Soon Enough](./articles/2008-Cant-Come-Soon-Enough.html) - 06.20.2005 12:25:48 PM CST
+  * [The Persistence of Negativity](./articles/The-Persistence-Of-Negativity.html) - 06.20.2005 10:14:00 AM CST
+  * [What Is the Next Card? Here's the Solution](./articles/What-Is-The-Next-Card-Heres-The-Solution.html) - 06.17.2005 02:25:18 PM CST
+  * [Separating Entertainment From the Entertainer](./articles/Separating-Entertainment-From-The-Entertainer.html) - 06.14.2005 01:29:04 PM CST
+* May
+  * [I Didn't Think This Was Possible](./articles/I-Didnt-Think-This-Was-Possible.html) - 05.25.2005 11:58:56 AM CST
+  * [My Grudge Against "The Grudge"](./articles/My-Grudge-Against-The-Grudge.html) - 05.24.2005 12:43:48 PM CST
+  * [Unit Testing and Thread Apartment States](./articles/Unit-Testing-And-Thread-Apartment-States.html) - 05.23.2005 03:15:28 PM CST
+  * [Problem With FxCop and the Method Class, Round 2](./articles/Problem-With-FxCop-And-The-Method-Class-Round-2.html) - 05.20.2005 10:34:34 AM CST
+  * [Problem With FxCop and the Method Class](./articles/Problem-With-FxCop-And-The-Method-Class.html) - 05.19.2005 04:34:12 PM CST
+  * [Dangerous Code](./articles/Dangerous-Code.html) - 05.19.2005 09:29:09 AM CST
+  * [Multiple Start-up Projects](./articles/Multiple-Start-Up-Projects.html) - 05.16.2005 01:52:06 PM CST
+  * [TypeMock](./articles/TypeMock.html) - 05.12.2005 03:18:57 PM CST
+  * [What's the Big Fracking Deal With "Revenge of the Sith"?](./articles/Whats-The-Big-Fracking-Deal-With-Revenge-Of-The-Sith.html) - 05.11.2005 11:57:40 AM CST
+  * [Finally! I'm #1 on XBox](./articles/Finally-Im-1-On-XBox.html) - 05.10.2005 09:51:06 PM CST
+  * [NUnitAsp Hell May Just be Heck](./articles/NUnitAsp-Hell-May-Just-Be-Heck.html) - 05.06.2005 05:17:25 PM CST
+  * [I'm In NUnitAsp Hell](./articles/Im-In-NUnitAsp-Hell.html) - 05.06.2005 03:20:46 PM CST
+  * [The Pain of NUnitAsp, or, Parsing HTML ... And "Random" Data](./articles/The-Pain-Of-NUnitAsp-Or-Parsing-HTML-And-Random-Data.html) - 05.04.2005 03:16:07 PM CST
+  * [Check Scams](./articles/Check-Scams.html) - 05.03.2005 01:51:43 PM CST
+  * [Local Driving Habits](./articles/Local-Driving-Habits.html) - 05.02.2005 01:50:26 PM CST
+  * [Finished "Splinter Cell: Chaos Theory"](./articles/Finished-Splinter-Cell-Chaos-Theory.html) - 05.02.2005 01:25:56 PM CST
+* April
+  * [RSS Bandit And ... Satan?](./articles/RSS-Bandit-And-Satan.html) - 04.28.2005 03:44:10 PM CST
+  * [Overriding Protected Methods Vs. Handling Events](./articles/Overriding-Protected-Methods-Vs-Handling-Events.html) - 04.28.2005 11:24:15 AM CST
+  * [You Know You've Played Too Much "Splinter Cell: Chaos Theory" When ...](./articles/You-Know-Youve-Played-Too-Much-Splinter-Cell-Chaos-Theory-When.html) - 04.27.2005 01:29:50 AM CST
+  * [Glad I'm Going To a Client ...](./articles/Glad-Im-Going-To-A-Client.html) - 04.26.2005 02:30:08 PM CST
+  * [New Halo2 Maps Reaction, and my PGR2 Profile is Corrupted!](./articles/New-Halo2-Maps-Reaction-And-My-PGR2-Profile-Is-Corrupted.html) - 04.26.2005 02:30:08 PM CST
+  * [Starting a New Client This Week](./articles/Starting-A-New-Client-This-Week.html) - 04.25.2005 11:00:43 AM CST
+  * [When The Obvious Move Isn't So Obvious](./articles/When-The-Obvious-Move-Isnt-So-Obvious.html) - 04.19.2005 11:21:00 AM CST
+  * [I Think I Killed It](./articles/I-Think-I-Killed-It.html) - 04.17.2005 12:31:03 PM CST
+  * [A Quixo Battle](./articles/A-Quixo-Battle.html) - 04.16.2005 10:05:18 PM CST
+  * [An Uprising? I Think Not](./articles/An-Uprising-I-Think-Not.html) - 04.16.2005 11:41:18 AM CST
+  * [.NET and the Secret Relationship Between Microsoft and RAM Chip Manufacturers](./articles/ADotNET-And-The-Secret-Relationship-Between-Microsoft-And-RAM-Chip-Manufacturers.html) - 04.16.2005 09:56:57 AM CST
+  * [The Horror of Hoaxes](./articles/The-Horror-Of-Hoaxes.html) - 04.11.2005 09:56:23 AM CST
+  * ["Starfarers," by Poul Anderson](./articles/Starfarers-By-Poul-Anderson.html) - 04.11.2005 08:52:21 AM CST
+  * [The Perfect Bug](./articles/The-Perfect-Bug.html) - 04.06.2005 09:25:44 PM CST
+  * [Working On ... A Game Program?](./articles/Working-On-A-Game-Program.html) - 04.05.2005 01:14:26 PM CST
+  * [On The Bench](./articles/On-The-Bench.html) - 04.04.2005 09:38:46 AM CST
