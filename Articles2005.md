@@ -147,7 +147,7 @@ layout: default
   * [I Think I Killed It](./articles/I-Think-I-Killed-It.html) - 04.17.2005 12:31:03 PM CST
   * [A Quixo Battle](./articles/A-Quixo-Battle.html) - 04.16.2005 10:05:18 PM CST
   * [An Uprising? I Think Not](./articles/An-Uprising-I-Think-Not.html) - 04.16.2005 11:41:18 AM CST
-  * [.NET and the Secret Relationship Between Microsoft and RAM Chip Manufacturers](./articles/ADotNET-And-The-Secret-Relationship-Between-Microsoft-And-RAM-Chip-Manufacturers.html) - 04.16.2005 09:56:57 AM CST
+  * [.NET and the Secret Relationship Between Microsoft and RAM Chip Manufacturers](./articles/DotNET-And-The-Secret-Relationship-Between-Microsoft-And-RAM-Chip-Manufacturers.html) - 04.16.2005 09:56:57 AM CST
   * [The Horror of Hoaxes](./articles/The-Horror-Of-Hoaxes.html) - 04.11.2005 09:56:23 AM CST
   * ["Starfarers," by Poul Anderson](./articles/Starfarers-By-Poul-Anderson.html) - 04.11.2005 08:52:21 AM CST
   * [The Perfect Bug](./articles/The-Perfect-Bug.html) - 04.06.2005 09:25:44 PM CST
