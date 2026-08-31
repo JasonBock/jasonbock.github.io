@@ -34,7 +34,7 @@ public void UseConstrained(IGoodConstraint x)
 
 But you can now do this knowing that extended compiler would ensure the safety of the cast (so long as `x` isn't null!):
 
-```
+```c#
 public void UseConstrained(IGoodConstraint x)
 {
   (x as GoodConstrainedInterfaces).AMethod();
