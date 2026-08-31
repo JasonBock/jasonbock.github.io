@@ -26,8 +26,8 @@ Now, I could figure out a lot of these rules (eventually), but what I'm wonderin
 
 Any ideas are appreciated - just leave a comment. Thanks!
 
-[1] I call it "compressing" because there's a Reduce() method on the Expression class, but it doesn't do anything that I'm looking for.
+[1] I call it "compressing" because there's a `Reduce()` method on the `Expression` class, but it doesn't do anything that I'm looking for.
 
-[2] I ran some tests that showed that the original expression is quicker than the one where you have to use Math.Pow(). But my tests were thrown together really quick - I'd have to do more investigation to solidify my initial observations.
+[2] I ran some tests that showed that the original expression is quicker than the one where you have to use `Math.Pow()`. But my tests were thrown together really quick - I'd have to do more investigation to solidify my initial observations.
 
 > Published: 06.29.2010 01:46:29 PM CST
