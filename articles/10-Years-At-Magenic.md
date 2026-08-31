@@ -8,7 +8,7 @@ layout: default
 
 Today I got an e-mail from my employer, Magenic, that I've been with the company for 10 years.
 
-10. Years.
+Ten. Years.
 
 **Wow**.
 
