@@ -157,3 +157,17 @@ layout: default
   * [Constraining Interfaces Using the Extensible Compiler](./articles/Constraining-Interfaces-Using-The-Extensible-Compiler.html) - 03.30.2005 03:36:40 PM CST
   * [A Split Clarification](./articles/A-Split-Clarification.html) - 03.30.2005 11:37:18 AM CST
   * [Splitting Strings With Large Delimiters](./articles/Splitting-Strings-With-Large-Delimiters.html) - 03.30.2005 09:06:18 AM CST
+  * [Gross, Disgusting, but No Pictures](./articles/Gross-Disgusting-But-No-Pictures.html) - 03.28.2005 12:12:12 PM CST
+  * ["Parallels", by Fates Warning](./articles/Parallels-By-Fates-Warning.html) - 03.22.2005 09:05:11 AM CST
+  * [FxCop Custom Rule Examples in ExtensibleCompiler](./articles/FxCop-Custom-Rule-Examples-In-ExtensibleCompiler.html) - 03.21.2005 12:36:23 PM CST
+  * [Looking Back On ... My Hair (?)](./articles/Looking-Back-On-My-Hair.html) - 03.18.2005 05:20:26 PM CST
+  * [Extending .NET Compilers](./articles/Extending-DotNET-Compilers.html) - 03.18.2005 10:39:02 AM CST
+  * [Fixed the CodeDom Problem](./articles/Fixed-The-CodeDom-Problem.html) - 03.17.2005 09:38:32 AM CST
+  * [Compilation Results From the CodeDom](./articles/Compilation-Results-From-The-CodeDom.html) - 03.16.2005 07:53:01 PM CST
+  * [Giving Up on "Gravity's Shadow"](./articles/Giving-Up-On-Gravitys-Shadow.html) - 03.13.2005 06:46:31 PM CST
+  * [My Best Birthday Present Ever: Hayden Isaac Bock](./articles/My-Best-Birthday-Present-Ever-Hayden-Isaac-Bock.html) - 03.09.2005 03:27:44 PM CST
+  * [The Sport of Kings: Advanced Spoons](./articles/The-Sport-Of-Kings-Advanced-Spoons.html) - 03.06.2005 12:02:24 PM CST
+  * [Take a Breath](./articles/Take-A-Breath.html) - 03.06.2005 11:49:37 AM CST
+  * [Using Reflection To Check for Overriding Methods](./articles/Using-Reflection-To-Check-For-Overriding-Methods.html) - 03.03.2005 02:13:09 PM CST
+  * [FxCop 1.312, Tests, and Prototyping](./articles/FxCop-1-312-Tests-And-Prototyping.html) - 03.02.2005 12:27:56 PM CST
+  * [My Bad Teachers](./articles/My-Bad-Teachers.html) - 03.02.2005 10:46:43 AM CST
