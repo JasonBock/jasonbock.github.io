@@ -6,6 +6,6 @@ layout: default
 
 # Adding a RSS Feed
 
-Since I'm planning on updating content to this site on a random basis, I decided to add an RSS feed in case you're using tools that process RSS content.
+Since I'm planning on updating content to this site on a random basis, I decided to add an [RSS feed](https://jasonbock.net/RSS.xml) in case you're using tools that process RSS content.
 
 > Published: 09.01.2026 11:31:00 AM CST
