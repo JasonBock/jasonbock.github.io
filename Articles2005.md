@@ -189,3 +189,10 @@ layout: default
   * [When Params Arguments Strike Back](./articles/When-Params-Arguments-Strike-Back.html) - 02.02.2005 02:22:32 PM CST
   * [VS .NET and Images - Solved](./articles/VSDotNET-And-Images-Solved.html) - 02.01.2005 10:46:02 PM CST
   * [VS .NET and Images](./articles/VSDotNET-And-Images.html) - 02.01.2005 03:05:29 PM CST
+* January
+  * [Hitting the Home Stretch](./articles/Hitting-The-Home-Stretch.html) - 01.28.2005 02:10:49 PM CST
+  * [Using the Amazon.com Web Services: A Quick Overview](./articles/Using-The-AmazonDotCom-Web-Services-A-Quick-Overview.html) - 01.28.2005 12:34:10 PM CST
+  * [Mirroring and Painting - Resolution](./articles/Mirroring-And-Painting-Resolution.html) - 01.28.2005 10:56:22 AM CST
+  * [Does "Expanding Liberty" Equal "Building Empires"?](./articles/Does-Expanding-Liberty-Equal-Building-Empires.html) - 01.26.2005 10:06:42 AM CST
+  * [Mirroring And Painting - Round 2 (No Solution Yet)](./articles/Mirroring-And-Painting-Round-2-No-Solution-Yet.html) - 01.25.2005 03:11:45 PM CST
+  * [Mirroring And Painting](./articles/Mirroring-And-Painting.html) - 01.25.2005 10:55:26 AM CST
