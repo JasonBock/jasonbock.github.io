@@ -23,3 +23,7 @@ I've written a number of articles from my own web site, and some that no longer 
 * [2006](./Articles2006.html)
 * [2005](./Articles2005.html)
 * [2004](./Articles2004.html)
+
+## External
+
+* [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx)

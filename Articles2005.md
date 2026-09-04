@@ -196,3 +196,26 @@ layout: default
   * [Does "Expanding Liberty" Equal "Building Empires"?](./articles/Does-Expanding-Liberty-Equal-Building-Empires.html) - 01.26.2005 10:06:42 AM CST
   * [Mirroring And Painting - Round 2 (No Solution Yet)](./articles/Mirroring-And-Painting-Round-2-No-Solution-Yet.html) - 01.25.2005 03:11:45 PM CST
   * [Mirroring And Painting](./articles/Mirroring-And-Painting.html) - 01.25.2005 10:55:26 AM CST
+  * [Adding a Prefix to an XmlNode Where the Prefix is Defined on the Document's Root Element](./articles/Adding-A-Prefix-To-An-XmlNode-Where-The-Prefix-Is-Defined-On-The-Documents-Root-Element.html) - 01.24.2005 07:37:08 PM CST
+  * [Don't Seal Your ASP.NET Page Classes](./articles/Dont-Seal-Your-ASPDotNET-Page-Classes.html) - 01.22.2005 05:41:40 PM CST
+  * [ComboBoxes and Mirroring ... It Never Ends!](./articles/ComboBoxes-And-Mirroring-It-Never-Ends.html) - 01.20.2005 02:33:46 PM CST
+  * [My Commuting Times](./articles/My-Commuting-Times.html) - 01.20.2005 11:17:26 AM CST
+  * [What's New With Attributes in .NET 2.0?](./articles/Whats-New-With-Attributes-In-DotNET-2-0.html) - 01.19.2005 04:19:51 PM CST
+  * [I Miss Concurrent Checkouts](./articles/I-Miss-Concurrent-Checkouts.html) - 01.19.2005 03:02:51 PM CST
+  * [Being Proud of Your Views](./articles/Being-Proud-Of-Your-Views.html) - 01.19.2005 11:17:30 AM CST
+  * [`ICustomAttributeProvider`](./articles/ICustomAttributeProvider.html) - 01.19.2005 01:10:11 AM CST
+  * [A Funny Thing Happened on the Way to Adding a Property to My User Control ...](./articles/A-Funny-Thing-Happened-On-The-Way-To-Adding-A-Property-To-My-User-Control.html) - 01.17.2005 09:16:59 PM CST
+  * [Is the New Phrase From IDers, "Thinking Critically"?](./articles/Is-The-New-Phrase-From-IDers-Thinking-Critically.html) - 01.17.2005 02:13:56 PM CST
+  * [Learning About Languages](./articles/Learning-About-Languages.html) - 01.13.2005 03:06:20 PM CST
+  * [You Can't Be President If You Don't Have Christ in Your Heart ... Um, Bush Really Didn't Say That, Did He?](./articles/You-Cant-Be-President-If-You-Dont-Have-Christ-In-Your-Heart-Um-Bush-Really-Didnt-Say-That-Did-He.html) - 01.13.2005 01:24:31 AM CST
+  * [Firefox Woes Are Fixed, I Hope](./articles/Firefox-Woes-Are-Fixed-I-Hope.html) - 01.12.2005 03:34:24 PM CST
+  * [Rant: OnXXX() .NET SDK "Help"](./articles/Rant-OnXXX-DotNET-SDK-Help.html) - 01.12.2005 09:59:37 AM CST
+  * [Being Fired For Blogging?](./articles/Being-Fired-For-Blogging.html) - 01.11.2005 06:41:31 PM CST
+  * [Constraining Interface Implementations to a Specific Type](./articles/Constraining-Interface-Implementations-To-A-Specific-Type.html) - 01.11.2005 06:13:02 PM CST
+  * ["The Shawshank Redemption" Soundtrack](./articles/The-Shawshank-Redemption-Soundtrack.html) - 01.11.2005 04:14:13 PM CST
+  * [Right-To-Left and Painting Issues - SOLVED](./articles/Right-To-Left-And-Painting-Issues-Solved.html) - 01.06.2005 01:26:32 PM CST
+  * [Right-To-Left and Painting Issues](./articles/Right-To-Left-And-Painting-Issues.html) - 01.05.2005 04:47:18 PM CST
+  * [What's the Deal With Being an MVP?](./articles/Whats-The-Deal-With-Being-An-MVP.html) - 01.05.2005 04:35:58 PM CST
+  * [Learn C in College?! Joel, You're Nuts](./articles/Learn-C-In-College-Joel-Youre-Nuts.html) - 01.04.2005 09:46:10 PM CST
+  * [Owner-Drawn Text and Right-To-Left Woes Progress](./articles/Owner-Drawn-Text-And-Right-To-Left-Woes-Progress.html) - 01.04.2005 05:05:32 PM CST
+  * [Owner-Drawn Text and Mirroring Revisited](./articles/Owner-Drawn-Text-And-Mirroring-Revisited.html) - 01.03.2005 01:49:49 PM CST
