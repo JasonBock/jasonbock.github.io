@@ -45,5 +45,31 @@ layout: default
   * [Kitchen - Before And After](./articles/Kitchen-Before-And-After.html) - 12.06.2004 12:26:22 AM CST
   * [Security](./articles/Security.html) - 12.03.2004 04:55:48 PM CST
   * [Learning a Lot about i18n and l10n](./articles/Learning-A-Lot-About-i18n-And-l10n.html) - 12.03.2004 04:41:06 PM CST
+* November
+  * [Thanksgiving Weekend](./articles/Thanksgiving-Weekend.html) - 11.28.2004 08:56:08 PM CST
+  * [High School Hell](./articles/High-School-Hell.html) - 11.23.2004 11:05:14 AM CST
+  * ["One", by Neal Morse](./articles/One-By-Neal-Morse.html) - 11.22.2004 08:01:19 PM CST
+  * [Crunch Weeks](./articles/Crunch-Weeks.html) - 11.21.2004 11:11:12 PM CST
+  * ["Saved!"](./articles/Saved.html) - 11.19.2004 10:17:07 PM CST
+  * [Voting Challenges](./articles/Voting-Challenges.html) - 11.19.2004 10:39:36 AM CST
+  * ["Earth", by David Brin](./articles/Earth-By-David-Brin.html) - 11.19.2004 10:29:01 AM CST
+  * [Halo2 FragFest Images and Video](./articles/Halo2-FragFest-Images-And-Video.html) - 11.16.2004 12:29:53 PM CST
+  * [One More Week, and is Darwin Wrong?](./articles/One-More-Week-And-Is-Darwin-Wrong.html) - 11.15.2004 07:37:21 PM CST
+  * [Aborting Threads](./articles/Aborting-Threads.html) - 11.14.2004 11:24:59 PM CST
+  * [Winter 2004 Halo2 FragFest is Complete](./articles/Winter-2004-Halo2-FragFest-Is-Complete.html) - 11.14.2004 02:52:30 AM CST
+  * [I Needed More Cowbell](./articles/I-Needed-More-Cowbell.html) - 11.12.2004 02:27:01 PM CST
+  * [I'm Way Too Competitive](./articles/Im-Way-Too-Competitive.html) - 11.11.2004 11:25:39 PM CST
+  * [How Much Work is Too Much?](./articles/How-Much-Work-Is-Too-Much.html) - 11.11.2004 09:45:21 AM CST
+  * [A Preview of Things to Come](./articles/A-Preview-Of-Things-To-Come.html) - 11.10.2004 08:28:50 PM CST
+  * [I Will No Longer Have a Life ...](./articles/I-Will-No-Longer-Have-A-Life.html) - 11.09.2004 10:49:30 AM CST
+  * ["The Incredibles"](./articles/The-Incredibles.html) - 11.06.2004 10:22:59 AM CST
+  * [Why I Hate Politics](./articles/Why-I-Hate-Politics.html) - 11.04.2004 02:05:23 PM CST
+  * [Don't Blame Me ...](./articles/Dont-Blame-Me.html) - 11.03.2004 08:12:49 AM CST
+  * [Clear and Sober](./articles/Clear-And-Sober.html) - 11.02.2004 05:00:02 PM CST
+  * [Voting](./articles/Voting-2004.html) - 11.02.2004 01:50:18 PM CST
+  * [Dentist](./articles/Dentist.html) - 11.02.2004 01:26:38 PM CST
+  * [New Gig in Three Weeks](./articles/New-Gig-In-Three-Weeks.html) - 11.02.2004 10:45:51 AM CST
+* October
+  * [Fun With VS .NET 2005](./articles/Fun-With-VS-NET-2005.html) - 10.31.2004 11:19:02 PM CST
 * September
   * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
