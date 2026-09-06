@@ -10,15 +10,15 @@ Here are some pictures and video from the Halo2 event I had last weekend. The vi
 
 The madness downstairs:
 
-![Halo FragFest](https://jasonbock.net/images/Halo-FragFest-1.png "Halo FragFest")
+![Halo FragFest](https://jasonbock.net/images/Halo2-FragFest-1.png "Halo FragFest")
 
 The madness upstairs:
 
-![Halo FragFest](https://jasonbock.net/images/Halo-FragFest-2.png "Halo FragFest")
+![Halo FragFest](https://jasonbock.net/images/Halo2-FragFest-2.png "Halo FragFest")
 
 Halo2 and beer:
 
-![Halo FragFest](https://jasonbock.net/images/Halo-FragFest-3.png "Halo FragFest")
+![Halo FragFest](https://jasonbock.net/images/Halo2-FragFest-3.png "Halo FragFest")
 
 Now the videos. [This one](https://youtu.be/IYrOLnehrbs) was the first slayer game in the tournament. There's some "harsh" language in it, but, what the hell do you expect when you play Halo2? ;)
 
