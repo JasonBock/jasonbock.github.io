@@ -131,3 +131,16 @@ layout: default
   * [Butchering a Call](./articles/Butchering-A-Call.html) - 09.07.2004 08:32:11 PM CST
   * [OrcsWeb Adds Spam Filtering](./articles/OrcsWeb-Adds-Spam-Filtering.html) - 09.05.2004 11:02:53 AM CST
   * [This is Becoming a Long Week](./articles/This-Is-Becoming-A-Long-Week.html) - 09.01.2004 06:20:01 PM CST
+* August
+  * ["Fay" and "Open Water"](./articles/Fay-And-Open-Water.html) - 08.29.2004 04:12:03 PM CST
+  * [Back To VBA For an Hour](./articles/Back-To-VBA-For-An-Hour.html) - 08.25.2004 03:33:39 PM CST
+  * ["Testimony Live" DVD](./articles/Testimony-Live-DVD.html) - 08.24.2004 09:28:18 PM CST
+  * [A Headhunter Tells My Wife That I'm Unprofessional. What an Asshole!](./articles/A-Headhunter-Tells-My-Wife-That-Im-Unprofessional-What-An-Asshole.html) - 08.24.2004 04:38:46 PM CST
+  * [Breathing Too Much CO2](./articles/Breathing-Too-Much-CO2.html) - 08.24.2004 03:43:28 PM CST
+  * [MSI/WiX Help](./articles/MSI-WiX-Help.html) - 08.24.2004 03:34:44 PM CST
+  * [Why "But it Builds on My Machine!" Is a Complete Load of Crap](./articles/Why-But-It-Builds-On-My-Machine-Is-A-Complete-Load-Of-Crap.html) - 08.20.2004 02:50:10 PM CST
+  * [Crypto-Gram RSS Feed](./articles/Crypto-Gram-RSS-Feed.html) - 08.19.2004 03:54:57 PM CST
+  * ["Alien Vs. Predator"](./articles/Alien-Vs-Predator.html) - 08.18.2004 11:26:14 PM CST
+  * [What I've Been Worried About](./articles/What-Ive-Been-Worried-About.html) - 08.16.2004 08:07:50 PM CST
+  * [Vacation Recap](./articles/Vacation-Recap.html) - 08.15.2004 06:38:21 PM CST
+  * [Plans for the Weekend](./articles/Plans-For-The-Weekend.html) - 08.07.2004 11:39:30 AM CST
