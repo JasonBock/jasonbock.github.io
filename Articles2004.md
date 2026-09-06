@@ -71,5 +71,40 @@ layout: default
   * [New Gig in Three Weeks](./articles/New-Gig-In-Three-Weeks.html) - 11.02.2004 10:45:51 AM CST
 * October
   * [Fun With VS .NET 2005](./articles/Fun-With-VS-NET-2005.html) - 10.31.2004 11:19:02 PM CST
+  * [Podcasting](./articles/Podcasting.html) - 10.28.2004 04:50:57 PM CST
+  * [Impossible, or Infeasible?](./articles/Impossible-Or-Infeasible.html) - 10.28.2004 10:57:22 AM CST
+  * [Complaints About Unit Testing in VS .NET 2005](./articles/Complaints-About-Unit-Testing-In-VS-NET-2005.html) - 10.26.2004 08:07:19 PM CST
+  * [Another Attempt With Speech Recognition](./articles/Another-Attempt-With-Speech-Recognition.html) - 10.26.2004 04:16:07 PM CST
+  * ["Team America: World Police"](./articles/Team-America-World-Police.html) - 10.26.2004 08:21:30 AM CST
+  * [New Technology is Always Fun](./articles/New-Technology-Is-Always-Fun.html) - 10.25.2004 09:36:06 PM CST
+  * [Testing Something New](./articles/Testing-Something-New.html) - 10.25.2004 09:33:28 PM CST
+  * [Eek!](./articles/Eek.html) - 10.24.2004 10:25:52 AM CST
+  * ["It's Been a Good Life", by Isaac Asimov](./articles/Its-Been-A-Good-Life-By-Isaac-Asimov.html) - 10.24.2004 10:16:39 AM CST
+  * [Sorry, Firefox Folks](./articles/Sorry-Firefox-Folks.html) - 10.22.2004 11:56:33 AM CST
+  * [Good Dinners This Week](./articles/Good-Dinners-This-Week.html) - 10.21.2004 09:57:17 PM CST
+  * [Tomorrow Will (Hopefully) be a Good Day](./articles/Tomorrow-Will-Hopefully-Be-A-Good-Day.html) - 10.21.2004 04:06:38 PM CST
+  * [Blah, Blah, Blah](./articles/Blah-Blah-Blah.html) - 10.21.2004 01:32:26 PM CST
+  * [Services Are The Exception](./articles/Services-Are-The-Exception.html) - 10.21.2004 10:35:20 AM CST
+  * [Rocky Gets Wacky on Generics](./articles/Rocky-Gets-Wacky-On-Generics.html) - 10.21.2004 12:11:52 AM CST
+  * [One Thing You Can't Do With Generics in .NET](./articles/One-Thing-You-Cant-Do-With-Generics-In-DotNET.html) - 10.20.2004 06:26:57 PM CST
+  * [Creationists, Knock it Off!](./articles/Creationists-Knock-It-Off.html) - 10.20.2004 06:07:29 PM CST
+  * [IdeasHappen, Round II](./articles/IdeasHappen-Round-II.html) - 10.20.2004 03:25:33 PM CST
+  * [SOA is BS ... Sort Of](./articles/SOA-Is-BS-Sort-Of.html) - 10.20.2004 02:16:13 PM CST
+  * [My Thoughts on Xamlon](./articles/My-Thoughts-On-Xamlon.html) - 10.20.2004 08:30:25 AM CST
+  * ["T2: Rising Storm" and "T2: Future War"](./articles/T2-Rising-Storm-And-T2-Future-War.html) - 10.17.2004 04:49:50 PM CST
+  * [Pictures and Experiences From Code Camp II](./articles/Pictures-And-Experiences-From-Code-Camp-II.html) - 10.17.2004 03:13:08 PM CST
+  * [Basking in Boston](./articles/Basking-In-Boston.html) - 10.15.2004 11:14:18 PM CST
+  * [Dead at 41](./articles/Dead-At-41.html) - 10.14.2004 09:13:13 AM CST
+  * [If Carpenters Were Hired Like Programmers](./articles/If-Carpenters-Were-Hired-Like-Programmers.html) - 10.13.2004 10:38:07 AM CST
+  * [Overslept](./articles/Overslept.html) - 10.13.2004 10:18:06 AM CST
+  * [Say What You Want To, When You Want To](./articles/Say-What-You-Want-To-When-You-Want-To.html) - 10.12.2004 12:41:41 PM CST
+  * [I Couldn't Avoid it Any Longer: SOA](./articles/I-Couldnt-Avoid-It-Any-Longer-SOA.html) - 10.12.2004 10:23:35 AM CST
+  * [Why I Don't Care About Sports Anymore](./articles/Why-I-Dont-Care-About-Sports-Anymore.html) - 10.11.2004 08:33:22 PM CST
+  * [Perfect Morning with Transatlantic](./articles/Perfect-Morning-With-Transatlantic.html) - 10.11.2004 04:38:08 PM CST
+  * [On the Road for the Next Two Weeks](./articles/On-The-Road-For-The-Next-Two-Weeks.html) - 10.08.2004 09:48:00 AM CST
+  * [10 Years Ago Today ...](./articles/10-Years-Ago-Today.html) - 10.07.2004 01:25:52 PM CST
+  * [Humanity's Greatest Achievement](./articles/Humanitys-Greatest-Achievement.html) - 10.03.2004 12:23:51 PM CST
+  * [The Joys of Refactoring](./articles/The-Joys-Of-Refactoring.html) - 10.03.2004 01:17:45 AM CST
+  * [Paint.NET 1.1 Released](./articles/PaintNET-1-1-Released.html) - 10.01.2004 08:37:22 PM CST
 * September
   * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
