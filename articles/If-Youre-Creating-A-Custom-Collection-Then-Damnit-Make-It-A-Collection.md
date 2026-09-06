@@ -1,15 +1,15 @@
 ---
-title: Divine Intervention? I Think Not
+title: If You're Creating a Custom Collection, Then, Damnit, Make it a Collection!!!
 layout: default
 ---
 | [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
 
-# Divine Intervention? I Think Not
+# If You're Creating a Custom Collection, Then, Damnit, Make it a Collection!!!
 
-I'll admit that it's quite uncommon for a fireman to deliver a baby 20 years ago and then run into her in the present time at an apartment fire. However, check out the following quote from the article: "According to Baldonado, Johnson believes it was fate that brought Captain O'Neil to her this time, and that it was divine intervention that brought him to her mother 20 years ago."
+I'm currently looking at a 3rd-party library to read, edit, and create PDF documents [1]. Since I'm not very familiar with PDFs and the vendor's object model, I decided to whip up a view ala my UriViewer to check out the main document object's properties. Well, it was able to load the PDF I'll eventually need to alter at run-time, but what I saw in the object browser irked me a bit. You see, the main object has properties called `Pages` and `Fields`, which, by looking at the names, you'd **think** were collections or arrays. Unfortunately, the property grid control wasn't expanding the items out like I'm used to, because the underlying objects were **not** collections. They simply descended from `System.Object`, and they only had the `Count` and `Item` properties that made them **feel** like collections. But in reality, they weren't.
 
-I won't stop someone from believing what they want to believe. But I also have the right to voice my own opinion ;). Yes, the preceding sequence of events is something that may appear to be quite rare, and it did bring a smile to my face. But, if you think about it, is it that uncommon? From the article, it appears that the firefighter and the woman never moved from the same area. Why would it be divine intervention for him to treat her for smoke inhilation, and it just so happens that he was the one that delivered her 20 years ago? Human perceptions are so shaky. We're pattern makers, but sometimes we try to find too many patterns from our perceptions, and that can lead us down to some questionable conclsions. Moreover, there are so many events that happen in our day-to-day lives that are common-place that we don't attribute to divine intervention. Why is that? Why is it any less of a divine intervention that you met someone new at work that you have no connection to?
+If you're going to create a custom collection, then for god's sake, **make it** a custom collection! I can't use the **foreach** syntax on them; I have to manually iterate through them (which isn't hard, but if it quacks like a duck, then ... ).
 
-Obviously, I can't **prove** that an event is divine intervention or not. I just don't understand how a cute set of circumstances is usually attributed to God. You'd think It would take a more direct route to get someone's attention than having the same person who delivered you help you out 20 years later from smoke inhalation. I don't know, something like a burning bush or parting a sea... ;)
+[1] Since I just started looking at it, I'm going to refrain from naming the product as I may end up liking it. Every component I've ever used from a vendor always has what I consider to be design quirks, but the product as a whole may work well.
 
-> Published: 07.08.2004 03:12:17 PM CST
+> Published: 07.07.2004 01:15:18 PM CST
