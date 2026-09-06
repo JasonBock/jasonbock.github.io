@@ -33,7 +33,7 @@ Today I'm futzing around with localizing images that are in a ImageList object (
 
 The funny thing is that blob of text is actually this image:
 
-![Close Image](https://jasonbock.net/images/Close-Image.png "Close Image")
+![Close Image](https://jasonbock.net/images/CloseImage.png "Close Image")
 
 Coincidence? I think not!
 
