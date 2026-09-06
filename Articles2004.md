@@ -144,3 +144,21 @@ layout: default
   * [What I've Been Worried About](./articles/What-Ive-Been-Worried-About.html) - 08.16.2004 08:07:50 PM CST
   * [Vacation Recap](./articles/Vacation-Recap.html) - 08.15.2004 06:38:21 PM CST
   * [Plans for the Weekend](./articles/Plans-For-The-Weekend.html) - 08.07.2004 11:39:30 AM CST
+* July
+  * [Using Reflection to Find RGB Values for a Color](./articles/Using-Reflection-To-Find-RGB-Values-For-A-Color.html) - 07.27.2004 09:44:07 AM CST
+  * [Unit Test, Setup and Teardown, and Inheritance ... Who's Right](./articles/Unit-Test-Setup-And-Teardown-And-Inheritance-Whos-Right.html) - 07.26.2004 12:54:10 PM CST
+  * [WiXing Out](./articles/WiXing-Out.html) - 07.23.2004 08:18:20 AM CST
+  * [Yikes - What a Complement](./articles/Yikes-What-A-Complement.html) - 07.21.2004 12:31:44 PM CST
+  * [PDF Libraries for .NET](./articles/PDF-Libraries-For-DotNET.html) - 07.20.2004 10:51:05 AM CST
+  * [When Interviewing for a .NET Position, You Should Know the Difference Between an Object and a Class](./articles/When-Interviewing-For-A-DotNET-Position-You-Should-Know-The-Difference-Between-An-Object-And-A-Class.html) - 07.20.2004 10:01:17 AM CST
+  * [This Weekend: Mixed Emotions, but I'm Mostly Sitting on My Ass](./articles/This-Weekend-Mixed-Emotions-But-Im-Mostly-Sitting-On-My-Ass.html) - 07.18.2004 04:03:04 PM CST
+  * [And I Though Putting an Underscore in Front of Field Names Was a Good Idea ...](./articles/And-I-Though-Putting-An-Underscore-In-Front-Of-Field-Names-Was-A-Good-Idea.html) - 07.14.2004 10:41:51 PM CST
+  * [Language Wars ... Sigh](./articles/Language-Wars-Sigh.html) - 07.14.2004 11:39:51 AM CST
+  * [Leg Cramp!](./articles/Leg-Cramp.html) - 07.13.2004 09:30:03 AM CST
+  * [This Weekend](./articles/This-Weekend.html) - 07.11.2004 06:38:04 PM CST
+  * [Thinking About the Future](./articles/Thinking-About-The-Future.html) - 07.09.2004 11:19:43 AM CST
+  * [Divine Intervention? I Think Not](./articles/Divine-Intervention-I-Think-Not.html) - 07.08.2004 03:12:17 PM CST
+  * [If You're Creating a Custom Collection, Then, Damnit, Make it a Collection!!!](./articles/If-Youre-Creating-A-Custom-Collection-Then-Damnit-Make-It-A-Collection.html) - 07.07.2004 01:15:18 PM CST
+  * [Paint .NET](./articles/Paint-NET.html) - 07.06.2004 04:14:34 PM CST
+  * [I Forgot to Mention - I Won $20 Playing No-Limit Texas Hold-em](./articles/I-Forgot-To-Mention-I-Won-20-Playing-No-Limit-Texas-Hold-Em.html) - 07.05.2004 05:38:47 PM CST
+  * [Vacation in Atlanta](./articles/Vacation-In-Atlanta.html) - 07.05.2004 03:36:32 PM CST
