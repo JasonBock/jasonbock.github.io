@@ -1,0 +1,17 @@
+---
+title: Butchering a Call
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# Butchering a Call
+
+I'm trying to get the still-not-released new site done, and I'm watching the U.S. Open tennis tournament while I code away. I used to be big on tennis, but I haven't played it in about 5 years. Anyway, Serena is playing Jennifer, and Serena hits a great overhand winner down the line. Advantage, Serena, right? Oh, no, for some bizarre reason, the head judge calls, "Advantage, Capriati." Serena tears her a new one, and the judge deserved it. It was clearly in, no question about it, and the line judge got it right. But the head judge screwed up the score (note that she didn't overrule the call).
+
+What a bunch of bullshit. This isn't someone missing a tight call (which I'd like to see other sports use instant replay anyway). The shot was in, and the line judge was correct. The head judge just fucked up, and Serena paid for it. And I think Jennifer knew she was getting a free point, and she said nothing, or at least it appeared like she didn't do anything to correct the situation. I mean, if **both** players would come up and say, "you're wrong", that would make the judge think twice. But Jennifer didn't say a damn word.
+
+I'm just a stickler for the rules. I absolutely hate it when someone plays a mulligan in golf, and I don't like it when their friends just go along with it. I don't say anything to them on the course, but it internally disgusts me when they brag about parring a hole when they probably wouldn't done far worse if they would've taken that 25 yard skyball they hit on their drive. Play the game honestly - that's the only way you're going to learn how to play the game well. I just made a boner mistake on the 18th on Saturday. I was in the bunker for my 3rd shot, and when I took a practice swing I accidentally touched the sand. Damn - that's a penalty, you can't ground your club in the bunker that your ball is in. Now, I could've just put down a 5 on the scorecard, but that wouldn't have been right, so ... oh, well, live and learn. I can't count the times I've seen people hit a ball clearly out of bounds, but they don't hit another shot immediately from where they are and take the stroke-plus-distance penalty. They just walk up to where the ball went out of bounds, shrug their shoulders, and drop a ball. One time I had a guy ask me, "Um, I think my ball went out ... what's the penalty?" as he's dropping his ball right there. I said, "It's a penalty stroke and you should hit your next shot from where you hit your last one." The look on his face said, "Are you nucking futz??" I didn't ask him to go back to the tee as that would've taken way too much time and it was a busy day on the course so I said, "Just hit from here", but hopefully he'll remember the rule next time (I doubt it, though).
+
+And for some reason, I feel a couple of inches taller ... oh, wait, how did that soapbox get under my feet??
+
+> Published: 09.07.2004 08:32:11 PM CST

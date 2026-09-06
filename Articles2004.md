@@ -107,4 +107,27 @@ layout: default
   * [The Joys of Refactoring](./articles/The-Joys-Of-Refactoring.html) - 10.03.2004 01:17:45 AM CST
   * [Paint.NET 1.1 Released](./articles/PaintNET-1-1-Released.html) - 10.01.2004 08:37:22 PM CST
 * September
+  * [Terminator 4 ... Hmmmm ... A Disaster in the Making?](./articles/Terminator-4-Hmmmm-A-Disaster-In-The-Making.html) - 09.27.2004 08:00:09 PM CST
+  * [RSS Bandit and Firefox](./articles/RSS-Bandit-And-Firefox.html) - 09.27.2004 07:37:31 PM CST
   * [Pictures of the Drum Set](./articles/Pictures-Of-The-Drum-Set.html) - 09.27.2004 07:19:33 PM CST
+  * ["Success Under Pressure"](./articles/Success-Under-Pressure.html) - 09.26.2004 02:36:19 PM CST
+  * ["Extreme Encounters", by Greg Emmanuel](./articles/Extreme-Encounters-By-Greg-Emmanuel.html) - 09.26.2004 01:23:57 PM CST
+  * [Renaming the Little Guy](./articles/Renaming-The-Little-Guy.html) - 09.25.2004 09:54:18 AM CST
+  * [Going With Your Instincts](./articles/Going-With-Your-Instincts.html) - 09.24.2004 08:32:56 PM CST
+  * [Islands of Knowledge - Never Again](./articles/Islands-Of-Knowledge-Never-Again.html) - 09.24.2004 02:08:13 PM CST
+  * [The Disaster That Almost Was](./articles/The-Disaster-That-Almost-Was.html) - 09.22.2004 09:26:35 AM CST
+  * [First Picture With the Digital Camera](./articles/First-Picture-With-The-Digital-Camera.html) - 09.21.2004 03:08:11 PM CST
+  * ["Secular Wholeness", by David Cortesi](./articles/Secular-Wholeness-By-David-Cortesi.html) - 09.21.2004 01:20:41 PM CST
+  * [Using Your Voice To Blog](./articles/Using-Your-Voice-To-Blog.html) - 09.20.2004 09:52:07 PM CST
+  * [Never Mind, It Was My Own Dumbass Mistake](./articles/Never-Mind-It-Was-My-Own-Dumbass-Mistake.html) - 09.20.2004 08:28:58 PM CST
+  * [Odd Behavior With Caching](./articles/Odd-Behavior-With-Caching.html) - 09.20.2004 08:18:33 PM CST
+  * [Unfortunately, You Can't Ignore Crap Like This](./articles/Unfortunately-You-Cant-Ignore-Crap-Like-This.html) - 09.20.2004 02:40:02 PM CST
+  * [Eco Talks About The Scientific Method](./articles/Eco-Talks-About-The-Scientific-Method.html) - 09.20.2004 02:29:56 PM CST
+  * [My Anniversay Present: A Canon PowerShot A95](./articles/My-Anniversay-Present-A-Canon-PowerShot-A95.html) - 09.19.2004 06:49:47 PM CST
+  * [A Very Estoeric ASP.NET Error](./articles/A-Very-Estoeric-ASPNET-Error.html) - 09.17.2004 09:53:19 PM CST
+  * [iTextSharp is Very Cool](./articles/iTextSharp-Is-Very-Cool.html) - 09.16.2004 03:57:38 PM CST
+  * [New Member in the Household: Butters](./articles/New-Member-In-The-Household-Butters.html) - 09.12.2004 12:01:56 PM CST
+  * [Burnout3 on XBox](./articles/Burnout3-On-XBox.html) - 09.08.2004 11:16:31 PM CST
+  * [Butchering a Call](./articles/Butchering-A-Call.html) - 09.07.2004 08:32:11 PM CST
+  * [OrcsWeb Adds Spam Filtering](./articles/OrcsWeb-Adds-Spam-Filtering.html) - 09.05.2004 11:02:53 AM CST
+  * [This is Becoming a Long Week](./articles/This-Is-Becoming-A-Long-Week.html) - 09.01.2004 06:20:01 PM CST
