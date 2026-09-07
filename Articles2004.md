@@ -186,3 +186,11 @@ layout: default
   * [Lots of Fun with Office Add-Ins](./articles/Lots-Of-Fun-With-Office-Add-Ins.html) - 06.01.2004 08:11:43 PM CST
 * May
   * [This is What I "Discussed" All Day at Work](./articles/This-Is-What-I-Discussed-All-Day-At-Work.html) - 05.25.2004 07:53:59 PM CST
+  * [I Need An Attitude Adjustment](./articles/I-Need-An-Attitude-Adjustment.html) - 05.22.2004 11:42:47 AM CST
+  * ["Bringing Down the House," by Ben Mezrich](./articles/Bringing-Down-The-House-By-Ben-Mezrich.html) - 05.22.2004 11:29:04 AM CST
+  * ["Threshold", by Caitlin R. Kiernan](./articles/Threshold-By-Caitlin-R-Kiernan.html) - 05.22.2004 11:23:51 AM CST
+  * [My Project Has Changed :(](./articles/My-Project-Has-Changed.html) - 05.19.2004 09:22:40 PM CST
+  * [Twisting My Head Around `IsNothing`](./articles/Twisting-My-Head-Around-IsNothing.html) - 05.15.2004 01:21:36 AM CST
+  * [RallySport2: A Piece of $hit?](./articles/RallySport2-A-Piece-Of-Shit.html) - 05.11.2004 07:11:23 PM CST
+  * [RallySport2: Interesting, but Way Too Many DDEs](./articles/RallySport2-Interesting-But-Way-Too-Many-DDEs.html) - 05.11.2004 01:05:29 AM CST
+  * [Golf Was ... Interesting Today](./articles/Golf-Was-Interesting-Today.html) - 05.09.2004 07:54:28 PM CST

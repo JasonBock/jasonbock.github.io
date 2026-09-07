@@ -1,0 +1,15 @@
+---
+title: I Need An Attitude Adjustment
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# I Need An Attitude Adjustment
+
+Lately I've noticed that I'm getting tired of technology, especially as it pertains to development. Reading blogs where "countdowns to announcements" seems the norm, or hearing developers talk about being "passionate" for the latest breakthroughs and beta versions without really defining what they mean by "passionate" ... I don't know. It's starting to gnaw at me. I can't quite put my finger on it as I personally enjoy getting a computer to do what I want it to do, but the politics, the schmoozing, the meetings behind closed doors when you're not invited ... it's tiresome. I haven't installed the latest version of .NET 2.0. I haven't looked at Longhorn yet. And I feel torn about that. Is there any reason to right now? I'm not writing a book right now. I'm not working on a project that's looking at these beta environments. And I have to wonder, is there anything in there that will be so radically mind-altering that I'll be knocked to the floor? For example, generics are cool, but it's nothing new. XAML? A good idea, but not earth-shattering.
+
+I don't know. Maybe it's my own attitude lately. I've been on a project over the last year that started out promising but (in my view) got overwhelmed by a large number of internal "issues" and "views" that (in my mind) had little or nothing to do with the developers on the team. That's disheartening and depressing. Plus, I haven't been as motivated to fill out adoption papers, although I should get all of it done this weekend.
+
+At least I've been able to catch this and do something about it. There's been areas of research that I've been interested in learning about that I haven't been able to before, and I think if I delved into it I would suddenly get interested in technologies that would aid in my programming efforts. I also have a project that would benefit from this learning endeavour, but one major stumbling block is finding a good, solid introduction into these ideas. If anyone could recommend good books on genetic algorithms, evolutionary programming, and neural nets, please let me know. I've bought a number of books over the last year, but they contain a lot of mathematics. That's not a bad thing as I could wade through them and figure out what the ideas are, but I need a good introduction book that has a good technical overview of these ideas without getting overtly mathematical. I know I need that basis, but I need the overview first. A couple of years ago, I read "Blondie24", and that got me interested; I just need a bit more details than what Fogel presented in that book (that's not a shot - I love that book - it's just written at a fairly high leve). So, any suggestions are appreciated - thanks in advance!
+
+> Published: 05.22.2004 11:42:47 AM CST
