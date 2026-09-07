@@ -194,3 +194,14 @@ layout: default
   * [RallySport2: A Piece of $hit?](./articles/RallySport2-A-Piece-Of-Shit.html) - 05.11.2004 07:11:23 PM CST
   * [RallySport2: Interesting, but Way Too Many DDEs](./articles/RallySport2-Interesting-But-Way-Too-Many-DDEs.html) - 05.11.2004 01:05:29 AM CST
   * [Golf Was ... Interesting Today](./articles/Golf-Was-Interesting-Today.html) - 05.09.2004 07:54:28 PM CST
+* April
+  * [Got Some Golfing in This Morning](./articles/Got-Some-Golfing-In-This-Morning.html) - 04.25.2004 05:30:01 PM CST
+  * [Why Is TDD Suddenly Becoming Big on Developer's Radar?](./articles/Why-Is-TDD-Suddenly-Becoming-Big-On-Developers-Radar.html) - 04.23.2004 11:28:52 PM CST
+  * [Sealed By Default](./articles/Sealed-By-Default.html) - 04.18.2004 05:24:12 PM CST
+  * [First Golf Swings of the Year](./articles/First-Golf-Swings-Of-The-Year.html) - 04.18.2004 05:00:09 PM CST
+  * ["Behind Deep Blue," by Feng-Hsiung Hsu](./articles/Behind-Deep-Blue-By-Feng-Hsiung-Hsu.html) - 04.15.2004 09:31:31 PM CST
+  * [Nice Weather in Shakopee, But I'm Bummed](./articles/Nice-Weather-In-Shakopee-But-Im-Bummed.html) - 04.14.2004 09:52:41 PM CST
+  * [No Edit And Continue in ASP.NET 2.0? Who Cares!](./articles/No-Edit-And-Continue-In-ASPNET-2-0-Who-Cares.html) - 04.10.2004 07:59:43 PM CST
+  * [Is SOA A Bloated Dollar Train?, Code Generators, And Starting Down the MCSD .NET Road](./articles/Is-SOA-A-Bloated-Dollar-Train-Code-Generators-And-Starting-Down-The-MCSD-DotNET-Road.html) - 04.08.2004 08:16:38 PM CST
+  * ["The Chronoliths", by Robert Charles Wilson](./articles/The-Chronoliths-By-Robert-Charles-Wilson.html) - 04.05.2004 08:29:15 PM CST
+  * [New Timbales, and "Lost In Translation"](./articles/New-Timbales-And-Lost-In-Translation.html) - 04.03.2004 10:17:05 AM CST

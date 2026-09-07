@@ -1,0 +1,13 @@
+---
+title: Nice Weather in Shakopee, But I'm Bummed
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# Nice Weather in Shakopee, But I'm Bummed
+
+It was really nice outside today, and Liz and I took a long walk after I got home from work, which I enjoyed very much. But I'm still bummed. Today, the place where I'm consulting at had some layoffs. That's never a good thing to experience, but what made it worse is that the only in-house developer on our project was let go as well. That sucked for a lot of reasons. He's a guy that didn't know any .NET before coming onto the project last year (he'd pretty much done ASP work beforehand for about 4 years) and he was the youngest member of the team. But he was willing to learn, and he's really grown as a developer. He also has good communication skills, and he's pretty funny too. We all liked working with him, and to see him let go for reasons that had nothing to do with him just bites. We had no idea he was going to be cut, and nobody even suspected it. We all thought he'd be safe. At least he gets a nice severance package - a 4-month paid vacation.
+
+I also have to study the rest of the night for the C#-WinForms test tomorrow. Unfortunately, my blog entries will probably be peppered with bitching, moaning, and griping about the MCSD tests for a while. I just can't stand the format of them and also what they want you to know (data binding does **not** rule my life, thank you very little). The real problem is that they don't test you the way you would work in real life. I don't memorize APIs anymore. I use the SDK and the IDE to make my job quicker. I think the tests should allow you access to the tools most .NET developers would use on their day-to-day tasks. It wouldn't be an unfair advantage either. I've taken a lot of tests in college that allowed cheatsheets, but just having the equations and rules in front of you didn't mean squat if you didn't understand what they meant. If you didn't understand the .NET Framework, having an SDK won't be a huge help. If the MCSD tests want to be taken seriously, then they should be a reflection of what really goes on in developer circles.
+
+> Published: 04.14.2004 09:52:41 PM CST

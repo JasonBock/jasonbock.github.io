@@ -1,0 +1,13 @@
+---
+title: "Behind Deep Blue," by Feng-Hsiung Hsu
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# "Behind Deep Blue," by Feng-Hsiung Hsu
+
+Back in 1997, I remember intently watching the Kasparov-Deep Blue games in a Java applet at work. To me, this was a significant step in computing, and I was happy when the computer showed its might to the world. Hsu was basically the creator of Deep Blue, and this book chronicles the evolution of Deep Blue. Overall, I liked the book, although I found Hsu's writing style a bit odd at times. He seemed to want to take great lengths to describe what had happened at certain parts of his life and his work, and this slowed down the pace of the story. But I was so interested in the Deep Blue story that this didn't bother me a lot, and generally Hsu does a good job laying out the events that led up to Kasparov's defeat. I still prefer Fogel's "Blondie24" over Hsu's book as a foray into making very interesting computer programs, but if you're interesting in computers and chess, this is a book to have.
+
+One thing that was interesting about Hsu's book is that it reminded me of a time in college where me and one of my roomates decided to take Chessmaster 4000 on (I believe this was the version that I had at the time) at its' highest level. We played White, and after 30 moves we realized we were beating it (not by much, but we liked out position, and later analysis with Chessmaster showed that it didn't like Black position). Granted, I am not a good chess player, and my friend isn't a master either, but we were able to talk through different lines and find interesting ideas. The funny part was when we made our 36th move. For some bizarre reason, Chessmaster decided to GPF on us (remember that term from the days of Windows 3.1?). Fortunately, the game was saved very close to that move, but no matter what we did, Chessmaster would **always** die on us. I used to have the game printed out, but I think I've lost it. I'm going to dig around the house this weekend to find it, and if I still have it, I'll post it. Again, it wasn't a masterful game, but I loved the feeling that we had the computer on the ropes so hard it had no choice but to shut itself down!
+
+> Published: 04.15.2004 09:31:31 PM CST
