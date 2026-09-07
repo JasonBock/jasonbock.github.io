@@ -162,3 +162,27 @@ layout: default
   * [Paint .NET](./articles/Paint-NET.html) - 07.06.2004 04:14:34 PM CST
   * [I Forgot to Mention - I Won $20 Playing No-Limit Texas Hold-em](./articles/I-Forgot-To-Mention-I-Won-20-Playing-No-Limit-Texas-Hold-Em.html) - 07.05.2004 05:38:47 PM CST
   * [Vacation in Atlanta](./articles/Vacation-In-Atlanta.html) - 07.05.2004 03:36:32 PM CST
+* June
+  * [Magenic Consultant of the Month ... Wheeeeeeee!](./articles/Magenic-Consultant-Of-The-Month-Wheeeeeeee.html) - 06.28.2004 10:46:58 AM CST
+  * [Done With Milwaukee](./articles/Done-With-Milwaukee.html) - 06.28.2004 09:21:40 AM CST
+  * [Inspiring Article by Ann Druyan in the Nov/Dec 2003 Issue of "Skeptical Inquirer"](./articles/Inspiring-Article-By-Ann-Druyan-In-The-Nov-Dec-2003-Issue-Of-Skeptical-Inquirer.html) - 06.25.2004 01:58:32 PM CST
+  * [UriViewer, or, How to Make a Quick Object Viewer in 5 Minutes](./articles/UriViewer-Or-How-To-Make-A-Quick-Object-Viewer-In-5-Minutes.html) - 06.24.2004 01:47:50 PM CST
+  * [Potential Pitfalls in Using FileGenerator as a Language Translator](./articles/Potential-Pitfalls-In-Using-FileGenerator-As-A-Language-Translator.html) - 06.24.2004 10:01:58 AM CST
+  * [A Memorable Quote (no Pun Intended)](./articles/A-Memorable-Quote-No-Pun-Intended.html) - 06.22.2004 10:32:44 PM CST
+  * [Generics are not CLS-Compliant. So?](./articles/Generics-Are-Not-CLS-Compliant-So.html) - 06.22.2004 08:37:52 AM CST
+  * [Cool Article on Awari](./articles/Cool-Article-On-Awari.html) - 06.21.2004 11:19:48 PM CST
+  * [Be Careful With Public Abstract Classes ...](./articles/Be-Careful-With-Public-Abstract-Classes.html) - 06.18.2004 08:15:10 PM CST
+  * ["Dodgeball"](./articles/Dodgeball.html) - 06.18.2004 07:49:48 PM CST
+  * [Finding a Use for FileGenerator - Language Translation](./articles/Finding-A-Use-For-FileGenerator-Language-Translation.html) - 06.18.2004 02:46:21 PM CST
+  * ["Maximizing .NET Performance," by Nick Wienholt](./articles/Maximizing-DotNET-Performance-By-Nick-Wienholt.html) - 06.18.2004 10:33:35 AM CST
+  * [Virtual Properties and Sealed Classes in C# and VB .NET](./articles/Virtual-Properties-And-Sealed-Classes-In-CSharp-And-VB-NET.html) - 06.17.2004 08:46:35 AM CST
+  * [Traveling to Milwaukee](./articles/Traveling-To-Milwaukee.html) - 06.15.2004 10:46:09 AM CST
+  * ["The Chronicles of Riddick"](./articles/The-Chronicles-Of-Riddick.html) - 06.14.2004 10:16:54 AM CST
+  * ["The House of Sand and Fog" (Movie)](./articles/The-House-Of-Sand-And-Fog-Movie.html) - 06.12.2004 12:14:10 AM CST
+  * [It's Finally Over This Friday](./articles/Its-Finally-Over-This-Friday.html) - 06.09.2004 09:18:32 PM CST
+  * [Back to Coding at Night!](./articles/Back-To-Coding-At-Night.html) - 06.09.2004 02:23:47 AM CST
+  * [If You're a .NET Developer, You Can Read Both VB .NET and C# Code](./articles/If-Youre-A-DotNET-Developer-You-Can-Read-Both-VBNET-And-CSharp-Code.html) - 06.03.2004 12:42:03 AM CST
+  * [An Interesting Discussion About `CInt()`](./articles/An-Interesting-Discussion-About-CInt.html) - 06.03.2004 12:18:53 AM CST
+  * [Lots of Fun with Office Add-Ins](./articles/Lots-Of-Fun-With-Office-Add-Ins.html) - 06.01.2004 08:11:43 PM CST
+* May
+  * [This is What I "Discussed" All Day at Work](./articles/This-Is-What-I-Discussed-All-Day-At-Work.html) - 05.25.2004 07:53:59 PM CST
