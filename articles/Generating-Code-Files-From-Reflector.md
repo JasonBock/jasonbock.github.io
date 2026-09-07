@@ -6,7 +6,7 @@ layout: default
 
 # Generating Code Files From Reflector
 
-I just finished a fun little side project: creating an add-in for Reflector that generates code files. Click here to get the source code - it also contains the add-in DLL in the bin\Release folder. Note that this is a VS .NET 2003 solution (so it's 1.1-based) and I'm targeting the 3.2.5.0 version of Reflector. Basically, once you get the add-in up and running into Reflector, you can select a module or a type in the main tree view window, and press Ctrl + G (or go to "Tools | Generate File(s)..." - whatever you prefer). You'll be asked to provide a directory where all the files will go. Once you pick a directory and press "Generate Files", the add-in will create a file for every type in the module (or just the type that you selected). Here's what the tool looks like when it's in Reflector:
+I just finished a fun little side project: creating an add-in for Reflector that generates code files. Click here to get the source code - it also contains the add-in DLL in the bin\Release folder. Note that this is a VS .NET 2003 solution (so it's 1.1-based) and I'm targeting the 3.2.5.0 version of Reflector. Basically, once you get the add-in up and running into Reflector, you can select a module or a type in the main tree view window, and press Ctrl + G (or go to "Tools -> Generate File(s)..." - whatever you prefer). You'll be asked to provide a directory where all the files will go. Once you pick a directory and press "Generate Files", the add-in will create a file for every type in the module (or just the type that you selected). Here's what the tool looks like when it's in Reflector:
 
 ![Reflector Code Files](https://jasonbock.net/images/Reflector-Code-Files.png "Reflector Code Files")
 
