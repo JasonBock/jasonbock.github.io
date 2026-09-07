@@ -1,0 +1,19 @@
+---
+title: Random Thoughts as I Fly Over the Midwest
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# Random Thoughts as I Fly Over the Midwest
+
+I'm currently halfway through my flight to Texas. Looks like the states south of Minnesota got nailed with a lot of snow.
+
+Usually when I fly, I use that time to catch up on the magazines that I haven't read yet, and this flight is no exception. I read through an issue of both Skeptic and MSDN, and both were interesting. There's a lot I could say about the articles I read (especially the ones in Skeptic), but this had made me think about which magazines I really want to subscribe to. Right now, I only carry subscriptions to Scientific American, New Scientist and Sci-Fi Chronicles. I've dropped every programming-based magazine subscription I had (VBPJ/VSM, MSDN, Dr. Dobb's, Wired, etc.) because I found out I could get everything I want online. However, I get a lot more out of an issue of New Scientist because it's not so programmer-driven. Don't get me wrong - I love programming. I'm just trying to be smarter with my subscription choices.
+
+I really like Skeptic because it continually demonstrates that we **must** be skeptical of everything we hear and see. It's not good enough to take anyone at face value, even if they have 20 years of experience in their field, because they could still be wrong. That's not to say we should be disrespectful of someone's achievements; rather, it's simply understanding that mistakes can happen. Being dogmatic in scientific endeavors is dangerous, and Skeptic is a breath of fresh air in this respect. It takes on the usual suspects (UFOlogists, psychists, creationists, etc.), but it also questions those in the scientific community as well. I just read an interesting article on Occam's Razor and when it's appropriate to use. Another article was on the origin of the "standing on the shoulder of giants" quote. Try finding devout religious individuals who are willing enough to question the validity of their canonical documents with an open and honest fervor. More often than not, they won't.
+
+There was also a great article on the problem of misdirected fears. As most people know, flying is much safer than driving, yet more people fear flying than driving. Furthermore, the article states that if cigarettes were harmless except for one cigarette in every 50,000 pack was laced with dynamite that would instantly blow off the head of the smoker, the number of people that would die would still be far less than those who die from cigarette-related illnesses. Yet people still smoke. I can't be too critical, though, of smokers, because I'm defiintely not perfect in ensuring that I eat the right foods every day and that I never partake of too much alcohol ;). I mean, having one or two cigarettes in a year is not going to kill you. But, while anything taken to excess is unhealthy, there are some things that are much more dangerous to use on a repeated basis. I honestly can't understand how people can smoke a pack or more a day. I have a hard enough time running a mile in under 8 minutes, and I work out 3 times a week (both cardio and weights). How healthy can it be to clog your lungs by smoking?
+
+Well, enough for now. I'm feeling rather cramped right now writing in coach, and I really want to drink me free soda with my free bag of pretzels. Having an open container of liquid around my laptop (which I need to use for the .NET presentation tonight) feels rather risky to me ;).
+
+> Published: 03.18.2004 10:47:42 AM CST

@@ -205,3 +205,13 @@ layout: default
   * [Is SOA A Bloated Dollar Train?, Code Generators, And Starting Down the MCSD .NET Road](./articles/Is-SOA-A-Bloated-Dollar-Train-Code-Generators-And-Starting-Down-The-MCSD-DotNET-Road.html) - 04.08.2004 08:16:38 PM CST
   * ["The Chronoliths", by Robert Charles Wilson](./articles/The-Chronoliths-By-Robert-Charles-Wilson.html) - 04.05.2004 08:29:15 PM CST
   * [New Timbales, and "Lost In Translation"](./articles/New-Timbales-And-Lost-In-Translation.html) - 04.03.2004 10:17:05 AM CST
+* March
+  * ["The Lake of Dead Languages," by Carol Goodman](./articles/The-Lake-Of-Dead-Languages-By-Carol-Goodman.html) - 03.27.2004 11:55:21 AM CST
+  * [The Runtime is Smuggling My Methods!](./articles/The-Runtime-Is-Smuggling-My-Methods.html) - 03.22.2004 09:01:45 PM CST
+  * [The Gladney Center For Adoption](./articles/The-Gladney-Center-For-Adoption.html) - 03.20.2004 12:18:54 PM CST
+  * [Random Thoughts as I Fly Over the Midwest](./articles/Random-Thoughts-As-I-Fly-Over-The-Midwest.html) - 03.18.2004 10:47:42 AM CST
+  * [The Concourse Network Isn't Free](./articles/The-Concourse-Network-Isnt-Free.html) - 03.18.2004 08:16:50 AM CST
+  * [My Impressions of Extreme Programming (XP)](./articles/My-Impressions-Of-Extreme-Programming-XP.html) - 03.16.2004 07:52:39 PM CST
+  * [Different Direction](./articles/Different-Direction.html) - 03.16.2004 12:31:17 AM CST
+  * [Obfuscation and Reflector](./articles/Obfuscation-And-Reflector.html) - 03.15.2004 09:46:55 PM CST
+  * ["50 First Dates" - Better Than I Thought](./articles/50-First-Dates-Better-Than-I-Thought.html) - 03.14.2004 12:24:45 AM CST

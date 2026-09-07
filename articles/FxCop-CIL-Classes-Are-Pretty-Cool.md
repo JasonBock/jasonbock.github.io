@@ -1,0 +1,13 @@
+---
+title: FxCop CIL Classes are Pretty Cool
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# FxCop CIL Classes are Pretty Cool
+
+I had to do a lot of CIL parsing today, and every time I thought I'd run into a wall, I found something in the FxCop classes that came to the rescue. The latest release seems to be a bit cleaner and easier to follow, and I'm glad as I didn't have to do some needless R&D.; The biggest issue I had was finding out what the object type is when a throw opcode is found. You have to look at the stack as the top-most object is the one that will be thrown (and it really should be an `Exception` type). I thought I'd have to start back-tracking the CIL byte stream and figure out a way to turn a type token into a `Type` instance, but the `Stacks` property saved me as it keeps `StackPossible` objects around where you can take a peek at what's on the stack. The end result is that I get the type name of the `Exception` that's on the stack when throw is encountered. I just wish these classes were documented and a little more consistent. For example, there's a type-safe collection with `ProgramStepCollection` (which didn't exist in the previous version, and now it's sorted correctly - whoo, hoo!), but there's no type-safe collection for `StackElements`. They're just stored in a `Stack`, which is fine, but it's still inconsistent.
+
+I haven't loaded 1.1 yet on my computer, although I plan to very soon. From what I've been able to glean, not much has changed with the BCL. While rumors abound that .NET 2.0 is going to have a lot of changes, one of my hopes is that the `System.Reflection` namespace and friends will be changed such that anything that is within the module can be discovered at runtime. Need to convert a token? No problem! Need to parse the CIL? Easy - piece of cake! It's cool that people have created third-party libraries to provide these services, but right now there's a disconnect. For example, The FxCop classes have a `Method` class that gives you the underlying CIL, but you have to get it via a conversion method that uses a `MethodBase` reference. Once you have the `Method` object, you can go back to the "standard" `MethodBase` object via the `MethodBase` property. If a `MethodBase` class had the ability to get the CIL data in the first place, this mapping wouldn't be necessary. But really, I'm not whining; I'm just hoping .NET will be augmented to put this stuff in at the managed level.
+
+> Published: 04.23.2003 12:16:20 AM CST

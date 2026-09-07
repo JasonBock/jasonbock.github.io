@@ -1,0 +1,15 @@
+---
+title: The Gladney Center For Adoption
+layout: default
+---
+| [Home](https://jasonbock.net/index.html) | [Biography](https://jasonbock.net/Biography.html) | [Speaking](https://jasonbock.net/Speaking.html) | [Articles](https://jasonbock.net/Articles.html) | [Books](https://jasonbock.net/Books.html) | [Music](https://jasonbock.net/Music.html) |
+
+# The Gladney Center For Adoption
+
+Yesterday, Liz and I went to an all-day orientation at The Gladney Center in Fort Worth. If you've been following my blog, you may have noticed some entries where I've talked about the problems we've had in keeping a pregnancy. I always wanted "my own", but I want to be a parent, and being an adoptee, I know that it matters more about the love you give a child than if he or she has your DNA. Therefore, we decided to go down the road of adoption (which is why my blog hasn't had a technical focus in a while - filling out adoption papers is rather time-consuming). We've chosen Gladney as our adoption agency, and after seeing the facility yesterday, I know we've made the right choice. It is a fabulous place that is devoted to helping women who can't be mothers but want their children to have a loving home. I didn't know what to expect when I went there, and mostly it was a lot of informational material, but there were a couple of times where the emotions ran high. They showed a video of a young woman who had given her child to a family through Gladney, and it was an emotional experience to watch (it's hard enough not to get choked up writing about it). Through the entire day, I got a very positive view of the center. It will be hard to get through the process, but I'm glad we've chosen Gladney.
+
+In an odd way, the experience yesterday gave me a much clearer focus on the subject of abortion. Personally, I don't agree with it, but I'm not about to stop a woman from doing it, nor would I impose my own view on someone else. However, being someone who is adopted, and especially after seeing and hearing the stories that I did yesterday, I wish that people would consider the possibility of adoption. There are thousands of couples who can't or are having difficulties having children (like Liz and I), and we want to expand our family. It's not an easy decision - in fact, in some ways I think it's much harder than abortion. But the gift that a woman could give a couple goes beyond the words I could type. I don't try to stand on a soapbox a lot, but I'd like to take a moment to state that if you're a woman who has an unplanned pregancy, please consider adoption as an option. Giving up a child is extremely difficult, but I can speak from experience that I'm thankful that my biological mother made that decision 33 years ago. I was raised by a family that loved me and gave me every opportunity to succeed in life. I'd like to return the favor ;).
+
+The rest of our vacation will be spent at a place called Stockyards Station with Cory. I have no idea what this place is all about, but I'll find out shortly!
+
+> Published: 03.20.2004 12:18:54 PM CST
