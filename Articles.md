@@ -25,6 +25,7 @@ I've written a number of articles from my own web site, and some that no longer 
 * [2004](./Articles2004.html)
 * [2003](./Articles2003.html)
 * [2002](./Articles2002.html)
+* [2001](./Articles2001.html)
 
 ## External
 
