@@ -50,3 +50,18 @@ layout: default
   * [Handling Events With Delegates in VB.NET](./articles/Handling-Events-With-Delegates-In-VBNET.html) - 07.03.2002 01:31:00 PM CST
   * [CIL Diary, And "Ghost Rider" Release](./articles/CIL-Diary-And-Ghost-Rider-Release.html) - 07.03.2002 12:00:00 AM CST
   * [Fertility and Golfing](./articles/Fertility-And-Golfing.html) - 07.01.2002 12:00:00 AM CST
+* June
+  * [Viruses, and CIL Book is Finished](./articles/Viruses-And-CIL-Book-Is-Finished.html) - 06.24.2002 12:00:00 AM CST
+  * [Officially an Intertech Member](./articles/Officially-An-Intertech-Member.html) - 06.12.2002 12:00:00 AM CST
+* May
+  * [.NET Issues and Low-Level Tools](./articles/DotNET-Issues-And-Low-Level-Tools.html) - 05.30.2002 12:00:00 AM CST
+  * [Problem Solving and Programming](./articles/Problem-Solving-And-Programming.html) - 05.29.2002 12:00:00 AM CST
+  * [Leaving Magenic](./articles/Leaving-Magenic.html) - 05.17.2002 12:00:00 AM CST
+* April
+  * [CIL Book in Review, and Unwelcome Advances](./articles/CIL-Book-In-Review-And-Unwelcome-Advances.html) - 04.30.2002 12:00:00 AM CST
+  * [Book Cover, Tech Blogs, and PRS Guitars](./articles/Book-Cover-Tech-Blogs-And-PRS-Guitars.html) - 04.24.2002 12:00:00 AM CST
+  * [Not an April Fool's Joke](./articles/Not-An-April-Fools-Joke.html) - 04.01.2002 12:00:00 AM CST
+* March
+  * [Unions in .NET](./articles/Unions-In-DotNET.html) - 03.18.2002 12:00:00 AM CST
+  * [Finishing Writing Books](./articles/Finishing-Writing-Books.html) - 03.13.2002 12:00:00 AM CST
+  * [Creating a Reusable Exception Dialog for .NET Applications](./articles/Creating-A-Reusable-Exception-Dialog-For-DotNET-Applications.html) - 03.06.2009 11:06:42 AM CST
