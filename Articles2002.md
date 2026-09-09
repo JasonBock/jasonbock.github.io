@@ -62,6 +62,10 @@ layout: default
   * [Book Cover, Tech Blogs, and PRS Guitars](./articles/Book-Cover-Tech-Blogs-And-PRS-Guitars.html) - 04.24.2002 12:00:00 AM CST
   * [Not an April Fool's Joke](./articles/Not-An-April-Fools-Joke.html) - 04.01.2002 12:00:00 AM CST
 * March
+  * [Resizing List View Columns in .NET](./articles/Resizing-List-View-Columns-In-DotNET.html) - 03.20.2002 12:00:00 AM CST
   * [Unions in .NET](./articles/Unions-In-DotNET.html) - 03.18.2002 12:00:00 AM CST
   * [Finishing Writing Books](./articles/Finishing-Writing-Books.html) - 03.13.2002 12:00:00 AM CST
   * [Creating a Reusable Exception Dialog for .NET Applications](./articles/Creating-A-Reusable-Exception-Dialog-For-DotNET-Applications.html) - 03.06.2009 11:06:42 AM CST
+  * [Generating Exception Blocks](./articles/Generating-Exception-Blocks.html) - 03.02.2002 12:00:00 AM CST
+* February
+  * [Serializing Behavior-Based Non-Serializable Fields in .NET](./articles/Serializing-Behavior-Based-Non-Serializable-Fields-In-DotNET.html) - 02.28.2002 12:00:00 AM CST

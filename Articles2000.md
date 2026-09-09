@@ -11,6 +11,8 @@ layout: default
   * [Move to Minnesota is Done](./articles/Move-To-Minnesota-Is-Done.html) - 12.05.2000 12:00:00 AM CST
 * October
   * [Moving to Minnesota](./articles/Moving-To-Minnesota.html) - 10.27.2000 12:00:00 AM CST
+* September
+  * [UniversalJava](./articles/UniversalJava.html) - 09.15.2000 12:00:00 AM CST
 * August
   * [Back From the TOOLS Conference](./articles/Back-From-The-TOOLS-Conference.html) - 08.08.2000 12:00:00 AM CST
 * June

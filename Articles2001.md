@@ -16,3 +16,5 @@ layout: default
   * [Moving In](./articles/Moving-In.html) - 05.26.2001 12:00:00 AM CST
 * April
   * [Ready To Move](./articles/Ready-To-Move.html) - 04.16.2001 12:00:00 AM CST
+* February
+  * [.NET, C#, and Solving a New Scientist Problem](./articles/DotNET-CSharp-And-Solving-A-New-Scientist-Problem.html) - 02.14.2001 12:00:00 AM CST
