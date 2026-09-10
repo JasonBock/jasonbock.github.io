@@ -179,7 +179,9 @@ You walk all the files in the project, and for those that are C# code files, you
 
 To use this console application to modify code in a Visual Studio 2010 project, you include the following line in the *Pre-build event command line* section of a project:
 
+```
 "{PathForConsoleAppGoesHere}\Roslyn.Deregionizer.Client.Console.exe" "$(ProjectPath)"
+```
 
 This command can be found under the *Build Events* tab for the project properties:
 
