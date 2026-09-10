@@ -24,21 +24,19 @@ I don't remember the exact version of Visual Studio when this feature was added 
 
 I mentioned before that getting the *Solution Explorer* window open can be done with "Ctrl + W, S". (Well, at least that's the keyboard binding for me. Note that depending on your VS setup some of the key bindings I talk about in this article may vary from what you have.) Finding that out is as simple as typing "Solution Ex" in the Quick Launch window (which usually ends up in the upper-right hand area of Visual Studio):
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-1.png "Embrace Your Keyboard")
 
 OK, that's 11 characters, but now that we know "Ctrl + W, S" will do the same job, we can use that from now on.
 
 How about if I want to change the font size in the code editor?
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-2.png "Embrace Your Keyboard")
 
 Granted, this doesn't have a keyboard mapping, but I can easily select that (with the arrow and enter keys, not the mouse!) and get right to that in the Options dialog:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-3.png "Embrace Your Keyboard")
 
 With a quick "Alt + S", I can adjust the font size as needed.
-
-(2026 - sorry, image is gone)
 
 Adding files to projects, building and publishing solutions, formatting documents  ...  you can find it all with "Ctrl + Q".
 
@@ -48,34 +46,35 @@ So now you know how you can quickly find out how to invoke features in VS. But w
 
 To add a mapping, "Ctrl + Q" and type "Keyboard". This will bring you to the keyboard settings:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-4.png "Embrace Your Keyboard")
 
 This UI isn't the nicest one to deal with, but let's see how we can add a mapping for Test Explorer. First, type "Test" in the Show commands containing: text box:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-5.png "Embrace Your Keyboard")
 
 You should see "TestExplorer.ShowTestExplorer" in the list of results. Select that one, and then make sure the Press shortcut keys text box has the focus. Once it does, use whatever keystrokes you want to map to that command:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-6.png "Embrace Your Keyboard")
 
 I chose "Ctrl + R, S" because "Ctrl + R" is already used by some of the test run commands (e.g. "Ctrl + R, A" to run all tests in the solution), and my fingers are used to "Ctrl + R" being associated with tests in VS. Note that if you select a mapping that is already in use, you'll see it show up in the Shortcut currently used by: drop down list:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-7.png "Embrace Your Keyboard")
 
 With my new keyboard mapping in place, I can easily get the Test Explorer window to show up.
 
 ## Exporting Settings
+
 If you end up creating a lot of customized mappings, you may want to reuse them in future versions of VS. It's pretty easy to save them to disk. Use your handle "Ctrl + Q", and type "export":
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-8.png "Embrace Your Keyboard")
 
 Once you select that search result you should see this window:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-9.png "Embrace Your Keyboard")
 
 When you press Next, you'll get a tree view where you can select which settings you want to export:
 
-(2026 - sorry, image is gone)
+![Embrace Your Keyboard](https://jasonbock.net/images/Embrace-Keyboard-10.png "Embrace Your Keyboard")
 
 One you get past this screen you can save a .vssettings file. You can use that file to import your customized settings into another instance of VS.
 

@@ -57,7 +57,7 @@ var rock = Rock.Create<ITest>(
 
 By default, Rocks uses release settings and it doesn't create a code file. But by changing the options, you'll not only save the code to a file on disk, but you can step into the generated code. Here's a screen shot of Visual Studio 2015 with `Run()`'s method implementation in a debugging session: 
 
-(2026 - sorry, the image is gone)
+![Rocking Your Mocks](https://jasonbock.net/images/RockingMocks.png "Rocking Your Mocks")
 
 You can see that a class with a long, mangled name is created that implements `ITest`. You can also see that a dictionary of method tokens to classes called `HandlerInformation` is used to ensure that a member is used exactly as the expectations were set up.
 
