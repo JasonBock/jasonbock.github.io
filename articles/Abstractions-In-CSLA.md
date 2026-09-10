@@ -404,7 +404,7 @@ static void Main(string[] args)
 
 When this code runs, the console application looks like this:
 
-(2026 - sorry, image is gone)
+![Abstractions in CSLA](https://jasonbock.net/images/AbstractionsCSLA.png "Abstractions in CSLA")
 
 As you can see, the dependency automatically got injected into the `DependentPerson` object as the message shows up in the console window.
 
