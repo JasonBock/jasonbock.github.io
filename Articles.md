@@ -57,8 +57,12 @@ For a while, I wrote articles for a web site called angryCoder. Here they are:
 
 I worked for a consulting company called Magenic for 20 years. Over that time, I wrote some articles for their blog. Magenic no longer exists, so I've copied the content from those articles here:
 
+* [Eliminating Nulls in C#](./articles/Eliminating-Nulls-In-CSharp.html) - 05.28.2019
 * [Sprinting When Necessary](./articles/Sprinting-When-Necessary.html) - 03.22.2017
+* [WebAssembly and the Future of Web Development](./articles/WebAssembly-And-The-Future-Of-Web-Development.html) - 03.02.2017
 * [What To Do When Adversity Comes](./articles/What-To-Do-When-Adversity-Comes.html) - 02.20.2017
+* [Tuples and Deconstruction in C#7](./articles/Tuples-And-Deconstruction-In-CSharp7.html) - 01.25.2017
+* [Tuples and Generics in C#7](./articles/Tuples-And-Generics-In-CSharp7.html) - 01.19.2017
 * [Technology Never Dies](./articles/Technology-Never-Dies.html) - 10.20.2016
 * [Tests As a Standard](./articles/Tests-As-A-Standard.html) - 07.21.2016
 * [How Requirements Help Make Vacations Successful](./articles/How-Requirements-Help-Make-Vacations-Successful.html) - 06.01.2016
