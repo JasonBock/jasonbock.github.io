@@ -24,11 +24,11 @@ Some clients that I've worked for will insist that the opening curly brace show 
 
 What you really want is a tool to automatically do this for you. Visual Studio 2010 already has some formatting rules in place that you can use to repeatedly handle coding standards. For example, here's a screen shot of Visual Studio 2010's formatting options to handle the position of the opening curly brace:
 
-(2026 - sorry, image is gone)
+![Modifying Code](https://jasonbock.net/images/Modifying-Code-1.png "Modifying Code")
 
 You can access this dialog window via the *Tools -> Options ...* menu option. Once you specify the option, Visual Studio 2010 will format the code for you when you create a new method. You can also force formatting by selecting the *Edit -> Advanced -> Format Document* option. If you install the PowerCommands for Visual Studio 2010 extension, you can have the formatting rules automatically applied whenever you save your document:
 
-(2026 - sorry, image is gone)
+![Modifying Code](https://jasonbock.net/images/Modifying-Code-2.png "Modifying Code")
 
 This is all well and good, but we can't expect Microsoft to create options for every possible standard that we could come up with. Moreover, some coding standards may have rules that go beyond simple formatting rules. For example, there may be a standard that all `DateTime` values must be UTC-based, so any calls to the `DateTime.Now` property are disallowed. Rather, a developer should use `DateTime.UtcNow`. Right now, you can't easily create rules like this, but with Project Roslyn, you will be able to.
 
@@ -43,7 +43,7 @@ var tree = Syntax.ParseCompilationUnit(code);
 
 The resulting tree structure looks like this:
 
-![Modifying Code](https://jasonbock.net/images/Modifying-Code.png "Modifying Code")
+![Modifying Code](https://jasonbock.net/images/Modifying-Code-3.png "Modifying Code")
 
 When you install the Roslyn CTP, you get a couple of visualizers that you can use to see the structure of the tree. As you can see in the screen shot, the trees represent everything that shows up in the code, including whitespace (referred to as trivia). While these trees are immutable, you can easily write code that creates a new tree based on the state of a given tree with the modifications you need. Let's see how you can modify a syntax tree to remove certain directives.
 
@@ -185,7 +185,7 @@ To use this console application to modify code in a Visual Studio 2010 project, 
 
 This command can be found under the *Build Events* tab for the project properties:
 
-(2026 - sorry, image is gone)
+![Modifying Code](https://jasonbock.net/images/Modifying-Code-4.png "Modifying Code")
 
 Note that you'll have to change `{PathForConsoleAppGoesHere}` to match where you put the console application.
 

@@ -64,6 +64,8 @@ I worked for a consulting company called Magenic for 20 years. Over that time, I
 * [How Requirements Help Make Vacations Successful](./articles/How-Requirements-Help-Make-Vacations-Successful.html) - 06.01.2016
 * [Embrace Your Keyboard](./articles/Embrace-Your-Keyboard.html) - 11.05.2015 11:20:00 AM CST
 * [Rocking Your Mocks](./articles/Rocking-Your-Mocks.html) - 08.25.2015 01:51:00 PM
+* [Unit Testing Roslyn-Based Extensions](./articles/Unit-Testing-Roslyn-Based-Extensions.html) - 05.13.2014 10:43:00 AM CST
+* [Roslyn and Open Source](./articles/Roslyn-And-Open-Source.html) - 04.03.2014 01:03:00 PM CST
 * [Abstractions in CSLA](./articles/Abstractions-In-CSLA.html) - 01.23.2014 12:12:00 PM CST
 * [Pi, Palindromes, and Primes](./articles/Pi-Palindromes-And-Primes.html) - 05.07.2012 12:33:00 PM CST
 * [Modifying Code with Project Roslyn](./articles/Modifying-Code-With-Project-Roslyn.html) - 01.19.2012 12:09:00 PM CST
