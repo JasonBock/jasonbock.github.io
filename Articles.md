@@ -53,6 +53,24 @@ For a while, I wrote articles for a web site called angryCoder. Here they are:
 * [Hiding Exceptional Code](./articles/Hiding-Exceptional-Code.html) - 04.06.2001
 * [Delving Into Bad Code](./articles/Delving-Into-Bad-Code.html) - 04.05.2001
 
+## Magenic
+
+I worked for a consulting company called Magenic for 20 years. Over that time, I wrote some articles for their blog. Magenic no longer exists, so I've copied the content from those articles here:
+
+* [Sprinting When Necessary](./articles/Sprinting-When-Necessary.html) - 03.22.2017
+* [What To Do When Adversity Comes](./articles/What-To-Do-When-Adversity-Comes.html) - 02.20.2017
+* [Technology Never Dies](./articles/Technology-Never-Dies.html) - 10.20.2016
+* [Tests As a Standard](./articles/Tests-As-A-Standard.html) - 07.21.2016
+* [How Requirements Help Make Vacations Successful](./articles/How-Requirements-Help-Make-Vacations-Successful.html) - 06.01.2016
+* [Embrace Your Keyboard](./articles/Embrace-Your-Keyboard.html) - 11.05.2015 11:20:00 AM CST
+* [Rocking Your Mocks](./articles/Rocking-Your-Mocks.html) - 08.25.2015 01:51:00 PM
+* [Abstractions in CSLA](./articles/Abstractions-In-CSLA.html) - 01.23.2014 12:12:00 PM CST
+* [Pi, Palindromes, and Primes](./articles/Pi-Palindromes-And-Primes.html) - 05.07.2012 12:33:00 PM CST
+* [Modifying Code with Project Roslyn](./articles/Modifying-Code-With-Project-Roslyn.html) - 01.19.2012 12:09:00 PM CST
+
 ## External
 
-* [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx)
+These articles are from various online sites:
+
+* [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx) - 05.26.2026
+* [Compilers - How Microsoft's Next-Gen Compiler Project Can Improve Your Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/compilers-how-microsoft-s-next-gen-compiler-project-can-improve-your-code) - 07.2013
