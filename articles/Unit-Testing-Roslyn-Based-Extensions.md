@@ -18,11 +18,11 @@ So, what happens when you start writing code that uses the new compiler APIs fro
 
 For the past couple of years, I've done a presentation called "Managing the .NET Compiler" for conferences and user groups that demonstrates how Roslyn works. One part of the talk is to show how you can write extensions that can find issues with code and potentially provide a fix for the user. The example I use is one that pops up in WCF with one way methods. If your operation is one way, but your method returns a value, the eventual execution of that code at runtime will cause an exception. However, the C# compiler doesn't know anything about WCF runtime semantics, so it'll happily compile code like that. But with a Roslyn diagnostic, I can inform the developer that there's an error with their code:
 
-(2026 - sorry, image is lost)
+![Unit Testing Roslyn](https://jasonbock.net/images/Unit-Testing-Roslyn-1.png "Unit Testing Roslyn")
 
 I can also provide a fix for them as well:
 
-(2026 - sorry, image is lost)
+![Unit Testing Roslyn](https://jasonbock.net/images/Unit-Testing-Roslyn-2.png "Unit Testing Roslyn")
 
 Having the ability to write diagnostics like this is one area I hope a lot of .NET developers take advantage of in the next version of Visual Studio and .NET. I think we've all run into cases where we want to enforce certain coding structures and rules in an application, and having the ability to detect that quickly is a good thing. Moreover, writing these extensions doesn't take as much code as one would think. For example, my diagnostic to find the `IsOneWay` issue is 89 lines of code, and the code fix is 58 lines. I don't think that's a lot of code given what's going on (and that's a literal count of lines in the class files, some of that ends up being using statements and whatnot).
 
@@ -161,7 +161,7 @@ public class AClass
 
 Now, you may be wondering how I got the values for all of the `TextSpan` objects. There's another extension you can install when you download Roslyn called the *Syntax Visualizer*. It's an extremely helpful tool that shows you exactly what the syntax tree looks like for the current code file. To find positions in my test code, I temporarily copy the test code to the top of the code file that contains the tests, and use the visualizer to find the span values:
 
-(2026 - sorry, image is lost)
+![Unit Testing Roslyn](https://jasonbock.net/images/Unit-Testing-Roslyn-3.png "Unit Testing Roslyn")
 
 As you can see in this figure, the `MethodDeclarationSytanx` node is what I'm looking for, and I see the span starting and ending values of 55 and 142, respectively, which is used to find the start and length values for the `TextSpan` constructor.
 
@@ -248,7 +248,7 @@ Now, you can check the `CodeAction` objects returned by `GetFixesAsync()`, but t
 
 At this point I think there's a decent test suite in place for the diagnostic and the code fix. But you may be wondering what the performance of the test looks likes. Here's a screen shot of the tests and their respective execution times:
 
-(2026 - sorry, image is lost)
+![Unit Testing Roslyn](https://jasonbock.net/images/Unit-Testing-Roslyn-4.png "Unit Testing Roslyn")
 
 Michael Feathers, in his book, "Working Effectively with Legacy Code", says that a unit test should execute quickly. The average with these tests is 226 ms, which is slower than the typical average I try to shoot for, which is 10 ms. But I'm personally OK with this. For one thing, there's really no way to test code that uses the Roslyn API other than to directly use its members. And now I have tests that I can run in less than 3 seconds, which means I can refactor my class's implementations and have high confidence in knowing if I broke something expected or not.
 
