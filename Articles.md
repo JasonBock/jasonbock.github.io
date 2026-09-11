@@ -86,9 +86,23 @@ I worked for a consulting company called Magenic for 20 years. Over that time, I
 * [Pi, Palindromes, and Primes](./articles/Pi-Palindromes-And-Primes.html) - 05.07.2012 12:33:00 PM CST
 * [Modifying Code with Project Roslyn](./articles/Modifying-Code-With-Project-Roslyn.html) - 01.19.2012 12:09:00 PM CST
 
+## Rocket Mortgage Technology Blog
+
+My first role at Rocket was Developer Advocate. I wrote some articles for the Medium site which no longer exists. I was given permission by Rocket to re-publish them on my site, so ... here they are.
+
+* [The Benefits of Code Analysis (Some of Which are Unexpected)](./articles/The-Benefits-Of-Code-Analysis-Some-Of-Which-Are-Unexpected.html) - 04.05.2022
+* [Anagrams and Prime Numbers](./articles/Anagrams-And-Prime-Numbers.html) - 07.07.2021
+* [Handling Unexpected Results In C#](./articles/Handling-Unexpected-Results-In-CSharp.html) - 08.06.2020
+* [Generating Code in C#](./articles/Generating-Code-In-CSharp.html) - 10.29.2020
+* [What's In A Hash Code](./articles/Whats-In-A-Hash-Code.html) - 12.22.2020
+
 ## External
 
 These articles are from various online sites:
 
-* [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx) - 05.26.2026
-* [Compilers - How Microsoft's Next-Gen Compiler Project Can Improve Your Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/compilers-how-microsoft-s-next-gen-compiler-project-can-improve-your-code) - 07.2013
+* [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx), Visual Studio Magazine - 05.26.2026
+* [Creating Reactive Applications in .NET](https://visualstudiomagazine.com/articles/2024/04/23/reactive-net-applications.aspx), Visual Studio Magazine - 04.23.2024
+* [Writing Code to Generate Code in C#](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx), CODE Magazine - 05.2023
+* [Challenging Assumption With Language Features](https://www.telerik.com/blogs/challenging-assumption-language-features), Telerik Blog - 08.17.2022
+* [Q&A with Jason Bock: What's New in C# 10](https://visualstudiomagazine.com/articles/2021/09/30/qa-new-csharp.aspx), Visual Studio Magazine - 09.30.2021
+* [Compilers - How Microsoft's Next-Gen Compiler Project Can Improve Your Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/compilers-how-microsoft-s-next-gen-compiler-project-can-improve-your-code), MSDN Magazine - 07.2013
