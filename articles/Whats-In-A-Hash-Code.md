@@ -61,7 +61,7 @@ You must adhere to several rules and conventions when implementing this method. 
 
 ### Keep Hash Codes Stable
 
-It's critical that you keep hash codes the same for the immutable state of an object. If you include mutable state, it may have unintended consequences. For example, let's say we have a class called MutableData, as shown in Listing 4.
+It's critical that you keep hash codes the same for the immutable state of an object. If you include mutable state, it may have unintended consequences. For example, let's say we have a class called `MutableData`, as shown in Listing 4.
 
 *Listing 4 - Defining Mutable Fields*
 
