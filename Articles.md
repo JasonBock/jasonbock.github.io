@@ -102,7 +102,7 @@ These articles are from various online sites:
 
 * [Improving Performance in .NET Applications](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx), Visual Studio Magazine - 05.26.2026
 * [Creating Reactive Applications in .NET](https://visualstudiomagazine.com/articles/2024/04/23/reactive-net-applications.aspx), Visual Studio Magazine - 04.23.2024
-* [Writing Code to Generate Code in C#](https://visualstudiomagazine.com/articles/2026/05/26/improving-performance-in-net-applications.aspx), CODE Magazine - 05.2023
+* [Writing Code to Generate Code in C#](https://www.codemag.com/Article/2305061/Writing-Code-to-Generate-Code-in-C), CODE Magazine - 05.2023
 * [Challenging Assumption With Language Features](https://www.telerik.com/blogs/challenging-assumption-language-features), Telerik Blog - 08.17.2022
 * [Q&A with Jason Bock: What's New in C# 10](https://visualstudiomagazine.com/articles/2021/09/30/qa-new-csharp.aspx), Visual Studio Magazine - 09.30.2021
 * [Compilers - How Microsoft's Next-Gen Compiler Project Can Improve Your Code](https://learn.microsoft.com/en-us/archive/msdn-magazine/2013/july/compilers-how-microsoft-s-next-gen-compiler-project-can-improve-your-code), MSDN Magazine - 07.2013
