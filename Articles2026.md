@@ -7,6 +7,7 @@ layout: default
 # Articles - 2026
 
 * September
+  * [Iterating Tuples in C#](./articles/Iterating-Tuples-In-CSharp.html) - 09.21.2026 11:09:41 PM CST
   * [Adding a RSS Feed](./articles/Adding-A-RSS-Feed.html) - 09.01.2026 11:31:00 AM CST
 * August
   * [twincitiescodecamp.com is Going Down](./articles/TwinCitiesCodeCamp-Dot-Com-Is-Going-Down.html) - 08.19.2026 07:41:56 PM CST
