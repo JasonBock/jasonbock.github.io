@@ -66,15 +66,19 @@ I worked for a consulting company called Magenic for 20 years. Over that time, I
 * [Automating Code Reviews in .NET](./articles/Automating-Code-Reviews-In-DotNET.html) - 11.01.2017
 * [Shrug Emojis, Console Applications, Fonts and Unicode](./articles/Shrug-Emojis-Console-Applications-Fonts-And-Unicode.html) - 09.18.2017
 * [Tuples and Serialization](./articles/Tuples-And-Serialization.html) - 09.08.2017
+* [Upgrading Packages for .NET Core Support](./articles/Upgrading-Packages-For-DotNET-Core-Support.html) - 05.17.2017 01:21 PM CST
 * [Sprinting When Necessary](./articles/Sprinting-When-Necessary.html) - 03.22.2017
 * [Inline Automapping in C#](./articles/Inline-Automapping-In-CSharp.html) - 03.14.2017
 * [WebAssembly and the Future of Web Development](./articles/WebAssembly-And-The-Future-Of-Web-Development.html) - 03.02.2017
+* [Keeping Bridges Intact](./articles/Keeping-Bridges-Intact.html) - 02.22.2017 01:00 PM CST
 * [What To Do When Adversity Comes](./articles/What-To-Do-When-Adversity-Comes.html) - 02.20.2017
 * [Tuples and Deconstruction in C#7](./articles/Tuples-And-Deconstruction-In-CSharp7.html) - 01.25.2017
 * [Tuples and Generics in C#7](./articles/Tuples-And-Generics-In-CSharp7.html) - 01.19.2017
 * [Technology Never Dies](./articles/Technology-Never-Dies.html) - 10.20.2016
 * [Tests As a Standard](./articles/Tests-As-A-Standard.html) - 07.21.2016
 * [How Requirements Help Make Vacations Successful](./articles/How-Requirements-Help-Make-Vacations-Successful.html) - 06.01.2016
+* [Working on the Fundamentals](./articles/Working-On-The-Fundamentals.html) - 04.18.2016 08:22:10 AM CST
+* [Listening to Advice](./articles/Listening-To-Advice.html) - 04.15.2016 09:38 AM CST
 * [Embrace Your Keyboard](./articles/Embrace-Your-Keyboard.html) - 11.05.2015 11:20:00 AM CST
 * [Rocking Your Mocks](./articles/Rocking-Your-Mocks.html) - 08.25.2015 01:51:00 PM
 * [Analyzing CSLA](./articles/Analyzing-CSLA.html) - 06.11.2015 02:20:00 PM CST
