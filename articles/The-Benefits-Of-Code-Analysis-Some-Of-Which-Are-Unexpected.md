@@ -56,7 +56,7 @@ Many other analyzer packages from Microsoft help with API creation and consumpti
 
 Once you've made the appropriate changes in your project setup, you'll probably start to see issues light up during compilation and in your integrated development environment (IDE). Let's review a few analyzers and code fixes that you might see.
 
-The first rule the analyzer may flag is [CA1829](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1829), which occurs if you're using the Count()extension method on an enumerable value, as shown in Listing 2.
+The first rule the analyzer may flag is [CA1829](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1829), which occurs if you're using the `Count()` extension method on an enumerable value, as shown in Listing 2.
 
 *Listing 2 – Using LINQ Count() Extension Method*
 
