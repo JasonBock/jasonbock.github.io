@@ -105,7 +105,7 @@ public static int Add(int a, int b, int c) =>
 
 In this method, the `c` parameter isn't being used by `Add()`. However, you must be careful in removing the parameter in a case like this. If this API has already been shipped and used by customers, removing the parameter would break their code.
 
-Sometimes, .NET adds members that you should use instead of previously existing APIs. For example, let's say you had the following call to Contains ()
+Sometimes, .NET adds members that you should use instead of previously existing APIs. For example, let's say you had the following call to `Contains()`:
 
 *Listing 5 – Calling `Contains()` on a `String` Object*
 
@@ -140,7 +140,7 @@ public sealed class UsingArrayForProperty
 }
 ```
 
-The [CA1819](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1819) rule will flag this property with an issue because the code should return a copy of the array. However, if this type has already shipped, you may not want to risk breaking users of the type. Therefore, you can put a #pragma warning around the property as shown in Figure 3 to disable the rule for new code.
+The [CA1819](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca1819) rule will flag this property with an issue because the code should return a copy of the array. However, if this type has already shipped, you may not want to risk breaking users of the type. Therefore, you can put a `#pragma warning` around the property as shown in Figure 3 to disable the rule for new code.
 
 *Figure 3: Disabling an analyzer issue*
 
